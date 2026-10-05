@@ -1,6 +1,6 @@
 {
  "config": {
-  "per_day": 2,
+  "per_day": 5,
   "paused": false,
   "min_gap_h": 1
  },
