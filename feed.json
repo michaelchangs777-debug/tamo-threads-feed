@@ -225,6 +225,45 @@
    "v": 2,
    "pillar": "offer",
    "for_date": "2026-10-09"
+  },
+  {
+   "slug": "v2-20261009-4-foto-keluarga",
+   "text": "Daftar foto keluarga yang sering kelupaan di hari H (simpan):\n\n1. Pengantin atau tuan rumah dengan orang tua dan kakek-nenek\n2. Keluarga inti kedua pihak\n3. Keluarga besar, per cabang keluarga\n4. Sahabat dan rekan terdekat\n\nTulis daftarnya, lalu minta satu orang keluarga memanggil tiap kelompok. Jadi fotografer nggak perlu mencari-cari orang.",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-09",
+   "addon": "Tips tambahan: sebut jam sesi foto keluarga di rundown, biar semua orang tahu kapan harus kumpul."
+  },
+  {
+   "slug": "v2-20261010-1-cuti-bersama-2027",
+   "text": "8 cuti bersama 2027, siapa tahu mengubah rencana tanggal acaramu (simpan):\n\n- Jumat, 5 Februari\n- Selasa, 9 Maret\n- Jumat, 12 Maret\n- Senin, 15 Maret\n- Kamis, 25 Maret\n- Selasa, 18 Mei\n- Rabu, 19 Mei\n- Jumat, 24 Desember\n\nCuti bersama wajib untuk ASN, untuk swasta mengikuti kebijakan kantor masing-masing.",
+   "v": 2,
+   "pillar": "calendar",
+   "for_date": "2026-10-10",
+   "evidence": "https://www.antaranews.com/berita/5748023/daftar-libur-nasional-2027-dan-cuti-bersama-total-26-hari",
+   "addon": "Sumber: SKB 3 Menteri 2027 (ditandatangani 15 September 2026)."
+  },
+  {
+   "slug": "v2-20261010-2-checklist-h1",
+   "text": "Malam sebelum acara, cek 5 hal ini (simpan):\n\n1. Rundown final sudah dikirim ke MC dan vendor\n2. Nomor kontak penanggung jawab tiap vendor tersimpan\n3. Perlengkapan keluarga dan dokumen sudah dikemas\n4. Jam tiba semua vendor sudah dikonfirmasi ulang\n5. Pengantin atau tuan rumah tidur cukup",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-10"
+  },
+  {
+   "slug": "v2-20261010-4-dana-cadangan",
+   "text": "Pos budget yang sering dilupakan: dana cadangan (simpan).\n\nSisihkan satu pos khusus untuk hal tak terduga, misalnya tamu bertambah, vendor minta tambahan jam, atau perlengkapan yang ternyata kurang.\n\nCatat di spreadsheet yang sama dengan budget utama, dan jangan dipakai kecuali memang mendesak.",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-10",
+   "addon": "Tips tambahan: tiap ada pengeluaran baru, catat di hari yang sama biar total budget selalu terlihat jelas."
+  },
+  {
+   "slug": "v2-20261010-5-farewell-kantor",
+   "text": "Perpisahan rekan lama, sambutan rekan baru, perayaan target tercapai: semua bisa jadi momen hangat.\n\nMulai 5 juta untuk acara corporate. Cek tanggal lewat WA di link bio.",
+   "v": 2,
+   "pillar": "offer",
+   "for_date": "2026-10-10"
   }
  ]
 }
