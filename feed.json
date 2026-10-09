@@ -264,6 +264,38 @@
    "v": 2,
    "pillar": "offer",
    "for_date": "2026-10-10"
+  },
+  {
+   "slug": "v2-20261010-3-timeline-h7",
+   "text": "Seminggu terakhir sebelum acara, ini yang perlu beres (simpan):\n\nH-7: konfirmasi akhir jumlah tamu ke semua pihak\nH-5: rundown terkirim ke MC dan keluarga inti\nH-3: cincin, dokumen, dan souvenir dikumpulkan di satu tas\nH-2: cek ulang pelunasan vendor\nH-1: tidur cukup, jangan begadang",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-10",
+   "addon": "Tips tambahan: simpan nomor semua vendor dalam satu catatan, lalu bagikan ke satu orang keluarga yang dipercaya. Jadi di hari H, pengantin nggak perlu jadi pusat pertanyaan."
+  },
+  {
+   "slug": "v2-20261011-1-rundown-lamaran",
+   "text": "Rundown lamaran yang rapi itu cukup 6 blok (simpan):\n\n1. Rombongan keluarga tiba dan disambut\n2. Pembukaan oleh MC, perkenalan kedua keluarga\n3. Penyampaian maksud kedatangan\n4. Tukar cincin dan penyerahan seserahan\n5. Doa dan ramah tamah\n6. Foto bersama keluarga\n\nTiap blok kasih perkiraan menit, supaya acaranya nggak molor.",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-11"
+  },
+  {
+   "slug": "v2-20261011-2-tamu-lamaran",
+   "text": "Cara hitung jumlah tamu lamaran, mulai dari lingkaran terdekat (simpan):\n\n1. Keluarga inti kedua pihak\n2. Paman, bibi, dan sepupu terdekat\n3. Sesepuh atau tokoh keluarga yang dihormati\n4. Sahabat dekat, kalau memang diundang\n\nJumlahkan per kelompok, lalu tambah sedikit cadangan kursi. Lamaran biasanya lebih intim dari resepsi, jadi daftarnya bisa jauh lebih pendek.",
+   "v": 2,
+   "pillar": "education",
+   "for_date": "2026-10-11",
+   "addon": "Tip: tanya dulu ke pihak keluarga lain berapa orang yang akan ikut rombongan. Angka yang pasti dari awal bikin hitungan kursi dan konsumsi jauh lebih tenang."
+  },
+  {
+   "slug": "v2-20261011-3-libur-maret-2027",
+   "text": "Maret 2027: Nyepi di Senin 8 Maret, lalu Idulfitri 10-11 Maret diapit cuti bersama, dan ditutup cuti bersama Senin 15 Maret. Hasilnya libur sampai delapan hari berturut-turut, atau sepuluh hari kalau dihitung dari Sabtu 6 Maret (simpan).\n\nBuat yang lagi atur tanggal acara, banyak tamu kemungkinan lagi mudik atau liburan. Cuti bersama swasta mengikuti kebijakan kantor.",
+   "v": 2,
+   "pillar": "calendar",
+   "for_date": "2026-10-11",
+   "evidence": "https://economy.okezone.com/read/2026/09/16/320/3242330/libur-panjang-10-hari-di-maret-2027-catat-tanggalnya?page=all",
+   "addon": "Catatan: tanggal Idulfitri mengikuti penetapan pemerintah, jadi pantau pengumumannya menjelang waktunya sebelum kirim undangan."
   }
  ]
 }
