@@ -388,6 +388,54 @@
    "v": 2,
    "pillar": "education",
    "for_date": "2026-10-13"
+  },
+  {
+   "slug": "v2-20261014-1-urutan-booking-vendor",
+   "text": "Urutan booking vendor nikah, mana yang dikunci duluan (simpan):\n\n1. Tanggal dan tempat acara\n2. Fotografer dan videografer\n3. Dekorasi\n4. MUA dan busana\n5. MC dan hiburan\n\nAlasannya: tanggal menentukan semua jadwal lain, dan vendor yang jadwalnya padat biasanya paling cepat terisi. Konfirmasi tiap vendor secara tertulis.",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "addon": "Tips tambahan: minta tiap vendor mengirim jadwal masuk dan bongkar tertulis, lalu kumpulkan jadi satu lembar untuk keluarga.",
+   "v": 3,
+   "for_date": "2026-10-14"
+  },
+  {
+   "slug": "v2-20261014-2-anniversary-ortu",
+   "text": "Anniversary orang tua yang ke-25 atau ke-30 itu layak dirayakan bareng keluarga besar 🤍\n\nIde sederhana: minta tiap anak dan cucu kirim satu foto lama, jadikan slideshow, lalu putar sebelum tiup lilin. Rooftop berkanopi kaca di TAMO bisa jadi latar foto keluarganya.\n\nTanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
+   "pillar": "ideas",
+   "hook": "other",
+   "cta": "soft",
+   "v": 3,
+   "for_date": "2026-10-14"
+  },
+  {
+   "slug": "v2-20261014-3-natal-2027",
+   "text": "Penutup 2027 bisa jadi akhir pekan tiga hari: 24 Desember berstatus cuti bersama, lalu 25 Desember Natal jatuh di hari Sabtu (simpan).\n\nUntuk reuni atau kumpul keluarga besar di pekan itu, kabari tamu yang tinggal jauh lebih awal supaya mereka sempat atur tiket dan cuti.\n\nSumber: SKB 3 Menteri.",
+   "pillar": "calendar",
+   "hook": "local",
+   "cta": "none",
+   "evidence": "https://news.detik.com/berita/d-8664018/daftar-6-long-weekend-di-2027-catat-tanggalnya",
+   "v": 3,
+   "for_date": "2026-10-14"
+  },
+  {
+   "slug": "v2-20261014-4-alur-tamu",
+   "text": "4 titik di acara yang paling sering bikin tamu antre atau bingung (simpan):\n\n1. Meja registrasi atau penerima tamu\n2. Area foto bersama pengantin atau tuan rumah\n3. Area makan\n4. Pintu keluar saat acara selesai\n\nSebelum hari H, jalan dari pintu masuk sampai pintu keluar sambil bayangkan 100 tamu datang bersamaan. Titik yang menyempit biasanya langsung kelihatan.",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "addon": "Tips tambahan: tugaskan satu orang keluarga yang kenal banyak tamu di meja registrasi, supaya tamu langsung diarahkan ke tempat duduk.",
+   "v": 3,
+   "for_date": "2026-10-14"
+  },
+  {
+   "slug": "v2-20261014-5-lamaran-lantai3",
+   "text": "Lamaran dengan 50-100 tamu: di TAMO ada hall lantai 3 yang lebih kecil, memang disiapkan untuk lamaran dan pemberkatan.\n\nLamaran mulai 12 juta, bebas bawa dekor dan vendor sendiri. Kalau tamunya bertambah, hall terbesar di lantai 1-2 biasanya muat 100-250 tamu.\n\nCek tanggal dan pricelist lewat WA di link bio.",
+   "pillar": "offer",
+   "hook": "list",
+   "cta": "explicit",
+   "v": 3,
+   "for_date": "2026-10-14"
   }
  ]
 }
