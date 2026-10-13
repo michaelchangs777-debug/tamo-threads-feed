@@ -383,27 +383,30 @@
   },
   {
    "slug": "v2-20261013-4-h90-persiapan",
-   "text": "Persiapan nikah di rentang H-90 sampai H-31, urutan kerjanya (simpan):\n\nH-90: kirim undangan, fitting pertama baju pengantin dan keluarga\nH-75: pantau konfirmasi hadir, daftar tamu dirapikan\nH-60: konfirmasi vendor secara tertulis\nH-45: susun draf prosesi dan rundown\nH-31: cek sisa pembayaran vendor dan jadwalnya\n\nSesuaikan dengan kondisi keluarga masing-masing.",
+   "text": "Persiapan nikah di rentang H-90 sampai H-31, urutan kerjanya (simpan):\n\nH-90: finalkan desain undangan, fitting pertama baju pengantin dan keluarga\nH-75: rapikan daftar tamu, cek ulang alamat dan nomornya\nH-60: sebar undangan, konfirmasi vendor secara tertulis\nH-45: susun draf prosesi dan rundown, pantau konfirmasi hadir\nH-31: cek sisa pembayaran vendor dan jadwalnya\n\nSesuaikan dengan kondisi keluarga masing-masing.",
    "v": 2,
    "pillar": "education",
    "for_date": "2026-10-13",
    "topic_tag": "Wedding Threads"
   },
   {
-   "slug": "v2-20261013-5-jam-acara",
-   "text": "Cara memilih jam mulai acara biar tamu nggak terburu-buru (simpan):\n\n1. Tanya tamu inti, terutama orang tua dan kakek-nenek, jam berapa mereka paling nyaman\n2. Hitung waktu tempuh tamu dari luar kota\n3. Beri jeda untuk registrasi dan foto sebelum prosesi mulai\n4. Pastikan jam makan tamu tidak bertabrakan dengan sesi sambutan panjang\n5. Sepakati jam selesai dengan semua vendor sejak awal",
-   "v": 2,
-   "pillar": "education",
+   "slug": "v3-20261013-rundown-gathering",
    "for_date": "2026-10-13",
-   "topic_tag": "surabaya"
+   "v": 3,
+   "pillar": "series",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "surabaya",
+   "text": "Family gathering kantor setengah hari, urutan acaranya biar nggak garing (simpan):\n\n1. Registrasi, bagi name tag dan kelompok\n2. Pembukaan MC dan sambutan pimpinan, singkat saja\n3. Ice breaking per kelompok\n4. Makan siang\n5. Games antar divisi\n6. Pengumuman pemenang, doorprize, foto bersama\n\nSambutan pimpinan cukup sekali di awal. Kalau dipecah dua, energi peserta biasanya turun.",
+   "addon": "Mau template rundown gathering yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
   },
   {
    "slug": "v2-20261014-1-urutan-booking-vendor",
    "text": "Urutan booking vendor nikah, mana yang dikunci duluan (simpan):\n\n1. Tanggal dan tempat acara\n2. Fotografer dan videografer\n3. Dekorasi\n4. MUA dan busana\n5. MC dan hiburan\n\nAlasannya: tanggal menentukan semua jadwal lain, dan vendor yang jadwalnya padat biasanya paling cepat terisi. Konfirmasi tiap vendor secara tertulis.",
-   "pillar": "education",
+   "pillar": "series",
    "hook": "list",
-   "cta": "none",
-   "addon": "Tips tambahan: minta tiap vendor mengirim jadwal masuk dan bongkar tertulis, lalu kumpulkan jadi satu lembar untuk keluarga.",
+   "cta": "soft",
+   "addon": "Mau checklist booking vendor yang tinggal dicentang? Minta lewat WA di link bio ya 🤍",
    "v": 3,
    "for_date": "2026-10-14",
    "topic_tag": "Wedding Threads"
@@ -442,7 +445,7 @@
   },
   {
    "slug": "v2-20261014-5-lamaran-lantai3",
-   "text": "Lamaran dengan 50-100 tamu: di TAMO ada hall lantai 3 yang lebih kecil, memang disiapkan untuk lamaran dan pemberkatan.\n\nLamaran mulai 12 juta, bebas bawa dekor dan vendor sendiri. Kalau tamunya bertambah, hall terbesar di lantai 1-2 biasanya muat 100-250 tamu.\n\nCek tanggal dan pricelist lewat WA di link bio.",
+   "text": "Lamaran dengan 50-100 tamu: di TAMO ada hall lantai 3 yang lebih kecil untuk lamaran dan pemberkatan.\n\nLamaran mulai 12 juta, bebas bawa dekor dan vendor sendiri. Kalau tamunya bertambah, hall terbesar di lantai 1-2 biasanya muat 100-250 tamu.\n\nCek tanggal dan pricelist lewat WA di link bio.",
    "pillar": "offer",
    "hook": "list",
    "cta": "explicit",
