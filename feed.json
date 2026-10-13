@@ -452,6 +452,36 @@
    "v": 3,
    "for_date": "2026-10-14",
    "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "v3-20261013-conv-budget-kaget",
+   "for_date": "2026-10-13",
+   "v": 3,
+   "pillar": "networking",
+   "hook": "question",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Yang udah nikah, spill dong: pos budget mana yang paling bikin kaget? 👀\n\nMakanan, dekor, baju, dokumentasi, atau malah biaya yang sama sekali nggak kepikiran di awal?\n\nJawaban kalian bisa jadi bekal buat yang lagi planning, biar budgetnya nggak jebol."
+  },
+  {
+   "slug": "v3-20261013-conv-acara-keluarga",
+   "for_date": "2026-10-13",
+   "v": 3,
+   "pillar": "networking",
+   "hook": "question",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "text": "Warga Surabaya, acara keluarga paling berkesan yang pernah kalian datangi itu acara apa? 🎉\n\nUlang tahun oma, reuni keluarga besar, syukuran rumah baru, sweet seventeen...\n\nCeritain satu momen yang sampai sekarang masih keinget."
+  },
+  {
+   "slug": "v3-20261013-conv-vendor-syukur",
+   "for_date": "2026-10-13",
+   "v": 3,
+   "pillar": "networking",
+   "hook": "question",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Vendor nikah mana yang paling kalian syukuri udah dibooking duluan? 🤍\n\nMUA, fotografer, WO, MC, atau yang lain? Ceritain alasannya.\n\nCalon pengantin yang lagi nyusun daftar vendor pasti kebantu banget sama jawaban kalian."
   }
  ]
 }
