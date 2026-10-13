@@ -482,6 +482,58 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Vendor nikah mana yang paling kalian syukuri udah dibooking duluan? 🤍\n\nMUA, fotografer, WO, MC, atau yang lain? Ceritain alasannya.\n\nCalon pengantin yang lagi nyusun daftar vendor pasti kebantu banget sama jawaban kalian."
+  },
+  {
+   "slug": "v3-20261015-1-agustus-2027",
+   "text": "Agustus 2027 cuma punya dua tanggal merah (simpan):\n\n- Minggu, 15 Agustus: Maulid Nabi Muhammad SAW\n- Selasa, 17 Agustus: Hari Kemerdekaan RI\n\nTidak ada cuti bersama di bulan itu. Jadi 17 Agustus yang jatuh di hari Selasa belum otomatis jadi long weekend, tamu harus ambil cuti sendiri.\n\nBuat yang lagi atur tanggal acara, tanyakan dulu rencana tamu inti.",
+   "pillar": "calendar",
+   "hook": "local",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "evidence": "https://nasional.kompas.com/read/2026/09/15/14232211/ini-daftar-lengkap-hari-libur-nasional-2027-beserta-jadwal-cuti-bersama",
+   "v": 3,
+   "for_date": "2026-10-15"
+  },
+  {
+   "slug": "v3-20261015-2-rencana-hujan",
+   "text": "Rencana cadangan kalau hujan untuk acara, 5 poin ini (simpan):\n\n1. Tentukan batas jam: kapan keputusan pindah ke opsi dalam ruangan\n2. Siapkan jalur masuk tamu yang terlindung dari hujan\n3. Pastikan dekor dan perlengkapan audio aman dari air\n4. Kabari vendor dan MC soal rencana B sebelum hari H\n5. Sediakan tempat untuk payung dan jas hujan tamu",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "addon": "Tips tambahan: tulis rencana B di rundown, bukan cuma di kepala satu orang. Jadi siapa pun yang pegang rundown tahu harus bagaimana.",
+   "v": 3,
+   "for_date": "2026-10-15"
+  },
+  {
+   "slug": "v3-20261015-3-baby-shower",
+   "text": "Satu hal yang sering terlupa di baby shower dan gender reveal: foto bersama kakek-nenek dan calon orang tua 🤍\n\nJadwalkan di awal, sebelum tamu mulai ngobrol dan berpencar.\n\nKalau keluarga besar mau ikut hadir, TAMO muat 50-300 tamu dan boleh bawa dekor sendiri. Tanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
+   "pillar": "ideas",
+   "hook": "insider",
+   "cta": "soft",
+   "topic_tag": "surabaya",
+   "v": 3,
+   "for_date": "2026-10-15"
+  },
+  {
+   "slug": "v3-20261015-4-conv-gampang",
+   "text": "Persiapan lamaran dan nikah katanya serba ribet 😄\n\nYang udah lewat, spill dong: urusan apa yang ternyata lebih gampang dari bayangan awal? Biar yang lagi planning bisa sedikit lebih tenang. Ceritain satu aja.",
+   "pillar": "networking",
+   "hook": "question",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "v": 3,
+   "for_date": "2026-10-15"
+  },
+  {
+   "slug": "v3-20261015-5-conv-koordinator",
+   "text": "Di acara keluarga besar, sering ada satu orang yang jadi koordinator dadakan 😄\n\nDi keluarga kalian biasanya siapa: om, tante, atau sepupu? Ceritain satu aja.",
+   "pillar": "networking",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "v": 3,
+   "for_date": "2026-10-15"
   }
  ]
 }
