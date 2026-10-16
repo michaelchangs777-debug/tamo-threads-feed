@@ -642,6 +642,39 @@
    "for_date": "2026-10-17",
    "topic_tag": "surabaya",
    "addon": "Mau cek kisaran biaya atau tanya tanggal? Kabari lewat WA di link bio ya, ceritakan jenis acara dan perkiraan jumlah tamunya."
+  },
+  {
+   "slug": "v3-20261018-1-rundown-baby-shower",
+   "text": "Susunan acara baby shower biar nggak bingung mulai dari mana (simpan):\n\n1. Tamu tiba dan tulis pesan untuk si kecil\n2. MC membuka dengan sapaan hangat\n3. Satu permainan ringan, jangan lebih\n4. Makan dan ngobrol\n5. Sesi foto: keluarga inti, lalu semua tamu\n\nPesan tamu itu bisa dijilid jadi kenang-kenangan.",
+   "pillar": "series",
+   "hook": "list",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-18",
+   "topic_tag": "surabaya",
+   "addon": "Jadwalkan sesi foto di awal, selagi calon ibu masih segar dan dandanan masih rapi."
+  },
+  {
+   "slug": "v3-20261018-2-tengah-minggu-2027",
+   "text": "Beberapa tanggal merah 2027 jatuh di tengah minggu, sering bikin tamu ambil cuti sambung (simpan):\n\n- Selasa, 5 Januari: Isra Mikraj\n- Rabu-Kamis, 10-11 Maret: Idulfitri\n- Kamis, 6 Mei: Kenaikan Yesus Kristus\n\nKalau acaramu dekat tanggal-tanggal ini, kabari undangan lebih awal.",
+   "pillar": "calendar",
+   "hook": "list",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-18",
+   "topic_tag": "surabaya",
+   "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
+  },
+  {
+   "slug": "v3-20261018-3-sweet17-mulai-12jt",
+   "text": "Sweet seventeen cuma sekali, dan fotonya bakal dilihat lagi bertahun-tahun.\n\nUlang tahun di TAMO mulai 12 juta. Rooftop berkanopi kaca bisa dipakai buat foto, dan dekor boleh dari tim pilihanmu sendiri.\n\nTanya tanggal dulu aja lewat WhatsApp di link bio, nggak harus langsung booking.",
+   "pillar": "offer",
+   "hook": "other",
+   "cta": "soft",
+   "v": 3,
+   "for_date": "2026-10-18",
+   "topic_tag": "surabaya",
+   "addon": "Mau cek kisaran biaya? Ceritakan konsep dan perkiraan jumlah tamu lewat WA di link bio ya."
   }
  ]
 }
