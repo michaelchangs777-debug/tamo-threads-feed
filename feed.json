@@ -675,6 +675,70 @@
    "for_date": "2026-10-18",
    "topic_tag": "surabaya",
    "addon": "Mau cek kisaran biaya? Ceritakan konsep dan perkiraan jumlah tamu lewat WA di link bio ya."
+  },
+  {
+   "slug": "v3-20261018-4-tempat-duduk-keluarga",
+   "text": "Susunan tempat duduk keluarga di acara besar, urutan kerjanya (simpan):\n\n1. Tentukan dulu meja utama: orang tua dan sesepuh\n2. Kelompokkan keluarga per cabang, bukan acak\n3. Taruh tamu lansia dekat jalur masuk dan area toilet\n4. Siapkan meja anak-anak di dekat meja orang tuanya\n5. Buat denah sederhana, lalu cetak satu untuk penerima tamu\n\nDenah yang jelas bikin tamu langsung duduk tanpa antre bertanya.",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-18",
+   "topic_tag": "surabaya",
+   "addon": "Tips tambahan: sepakati satu orang yang berhak mengubah denah di hari H, supaya perubahan dadakan tidak bikin meja bentrok."
+  },
+  {
+   "slug": "v3-20261018-5-gathering-akhir-tahun",
+   "text": "Gathering akhir tahun yang paling diingat tim biasanya bukan yang termewah, tapi yang bikin semua merasa dihargai 🎉\n\nCoba sisipkan sesi apresiasi singkat tiap divisi, lalu foto satu tim di rooftop berkanopi kaca.\n\nPanitia HR boleh tanya-tanya jadwal dulu lewat WA di link bio, tarif kantor mulai 5 juta.",
+   "pillar": "ideas",
+   "hook": "insider",
+   "cta": "soft",
+   "v": 3,
+   "for_date": "2026-10-18",
+   "topic_tag": "surabaya"
+  },
+  {
+   "slug": "v3-20261019-1-rundown-launching-produk",
+   "text": "Peluncuran produk baru, alur acara 6 blok (simpan):\n\n1. Registrasi tamu undangan dan media\n2. Pembukaan MC\n3. Pengungkapan produk\n4. Demo inti\n5. Tanya jawab dan networking\n6. Foto bersama\n\nPengungkapan produk sebaiknya jangan di ujung acara, saat perhatian peserta sudah turun.",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-19",
+   "topic_tag": "surabaya",
+   "addon": "Tips tambahan: tunjuk satu penghubung media agar wawancara dadakan tidak menggeser rundown."
+  },
+  {
+   "slug": "v3-20261019-2-budget-mulai-tamu",
+   "text": "Budget acara paling gampang dihitung mundur dari jumlah tamu (simpan):\n\n1. Tebak dulu perkiraan tamu\n2. Minta penawaran tiap vendor untuk angka itu\n3. Jumlahkan semua, tambah dana cadangan\n4. Baru cocokkan dengan ruang yang tersedia\n\nKalau dihitung dari ruangan dulu, biasanya ada pos yang terlewat.",
+   "pillar": "education",
+   "hook": "tradeoff",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-19",
+   "topic_tag": "surabaya",
+   "addon": "Tips tambahan: kumpulkan semua penawaran dalam satu spreadsheet agar perbandingannya jelas."
+  },
+  {
+   "slug": "v3-20261019-4-pensiun-orang-tua",
+   "text": "Pensiun orang tua bukan sekadar hari terakhir kerja, tapi pintu menuju bab baru 🤍\n\nIde: kumpulkan satu pesan singkat dari rekan lama dan anak-anak, jilid jadi buku kenangan, lalu serahkan saat foto keluarga.\n\nKalau mau digelar di TAMO, boleh tanya jadwal lewat WA di link bio dulu.",
+   "pillar": "ideas",
+   "hook": "story",
+   "cta": "soft",
+   "v": 3,
+   "for_date": "2026-10-19",
+   "topic_tag": "surabaya"
+  },
+  {
+   "slug": "v3-20261019-5-libur-2027-26-hari",
+   "text": "Jumlah hari libur resmi 2027 menurut SKB 3 Menteri: 26 hari, terdiri dari 18 libur nasional dan 8 cuti bersama (simpan).\n\nUntuk penyelenggara acara, artinya banyak minggu yang perlu dicek dulu sebelum mengirim undangan. Cuti bersama bagi karyawan swasta mengikuti kebijakan kantor.",
+   "pillar": "calendar",
+   "hook": "other",
+   "cta": "none",
+   "v": 3,
+   "for_date": "2026-10-19",
+   "topic_tag": "surabaya",
+   "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
   }
  ]
 }
