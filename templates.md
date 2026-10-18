@@ -31,6 +31,25 @@ Jam di template hanya contoh; sesuaikan dengan acaranya.
 [ ] MC dan hiburan
 [ ] Catatan: minta tiap vendor kirim jadwal masuk dan bongkar secara tertulis, kumpulkan jadi satu lembar
 
+## Rundown sangjit (sekitar 2 jam, adat tiap keluarga bisa beda)
+10.00 Rombongan pihak pria tiba, nampan seserahan dibawa kerabat muda
+10.10 Tuan rumah menyambut di pintu
+10.20 Nampan diserahkan satu per satu ke pihak wanita
+10.50 Orang tua kedua pihak ngobrol santai
+11.20 Pihak wanita menyiapkan balasan (sebagian isi nampan dikembalikan)
+11.40 Makan bersama
+12.15 Foto keluarga
+12.30 Selesai
+
+## Rundown seminar / workshop setengah hari
+08.00 Daftar ulang sambil kopi pagi
+08.30 Pembuka singkat dari panitia
+08.45 Materi inti pertama (materi terpenting di sini, fokus peserta masih segar)
+10.15 Kuis atau tanya jawab interaktif
+10.45 Materi inti kedua
+12.00 Penutup dan sesi networking
+12.30 Selesai
+
 ## Aturan untuk penulis postingan (cloud writer)
 Postingan pillar "series" hanya boleh menawarkan template yang sudah ada di file ini.
 Template baru: tambahkan dulu ke file ini (judul "## Rundown ..." atau "## Checklist ..."), baru postingannya.
