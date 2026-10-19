@@ -50,6 +50,49 @@ Jam di template hanya contoh; sesuaikan dengan acaranya.
 12.00 Penutup dan sesi networking
 12.30 Selesai
 
+## Rundown sangjit (sekitar 2 jam; contoh, sesuaikan dengan adat keluarga)
+10.00 Rombongan keluarga pria tiba membawa seserahan
+10.15 Seserahan diterima keluarga wanita, perkenalan singkat
+10.30 Sambutan wakil keluarga pria dan jawaban keluarga wanita
+10.50 Pengembalian sebagian seserahan (balasan) dari keluarga wanita
+11.10 Makan bersama dan ramah tamah
+11.50 Foto bersama keluarga
+12.00 Selesai
+
+## Rundown sweet seventeen (sekitar 3 jam)
+18.00 Tamu datang, foto di photo spot
+18.30 Pembukaan MC, sambutan orang tua
+18.45 Games atau penampilan teman
+19.30 Makan bersama
+20.15 Seventeen candles: orang-orang terdekat nyalakan lilin dan beri pesan
+20.40 Tiup lilin, potong kue, foto bersama
+21.00 Dance atau acara bebas
+
+## Rundown ulang tahun orang tua (sekitar 2,5 jam)
+11.00 Tamu datang, foto keluarga di area depan
+11.20 Pembukaan oleh MC atau anak tertua
+11.30 Slideshow foto lama keluarga
+11.45 Sambutan anak dan cucu, doa
+12.00 Tiup lilin, potong kue, foto keluarga besar
+12.15 Makan bersama dan ngobrol santai
+13.30 Selesai
+
+## Checklist H-90 sampai H-31 (nikah)
+[ ] H-90: finalkan desain undangan, fitting pertama baju pengantin dan keluarga
+[ ] H-75: rapikan daftar tamu, cek alamat dan nomor
+[ ] H-60: sebar undangan, konfirmasi semua vendor secara tertulis
+[ ] H-45: susun draf prosesi dan rundown, pantau konfirmasi hadir
+[ ] H-31: cek sisa pembayaran vendor dan jadwal masuk-bongkar
+
+## Checklist survei venue
+[ ] Datang di jam yang sama dengan acara (cahaya, lalu lintas, parkir)
+[ ] Kapasitas untuk tamu duduk vs sebagian berdiri
+[ ] Jam sewa, jam loading vendor, aturan overtime
+[ ] Boleh bawa vendor sendiri atau wajib paket
+[ ] Listrik, sound dan AC di setiap ruang yang dipakai
+[ ] Area foto, ruang keluarga/ruang rias, toilet
+[ ] Rencana kalau hujan
+
 ## Aturan untuk penulis postingan (cloud writer)
 Postingan pillar "series" hanya boleh menawarkan template yang sudah ada di file ini.
 Template baru: tambahkan dulu ke file ini (judul "## Rundown ..." atau "## Checklist ..."), baru postingannya.
