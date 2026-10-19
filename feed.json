@@ -1,940 +1,951 @@
 {
- "config": {
-  "per_day": 5,
-  "paused": false,
-  "min_gap_h": 1,
-  "topic_tags": {
-   "default": "surabaya"
-  }
- },
- "queue": [
-  {
-   "slug": "t00-bantu-cari-venue",
-   "text": "Warga Surabaya yang lagi cari venue buat acara, sini merapat 🙋\n\nTulis di kolom balasan:\n1. Acara apa\n2. Kira-kira kapan\n3. Jumlah tamu\n\nKami jawab satu-satu, jujur, termasuk tips kalau ternyata TAMO bukan yang paling pas buat acaramu. Biar nggak pusing sendirian 🤍"
-  },
-  {
-   "slug": "t02-dear-threads-lamaran",
-   "text": "Dear Threads, tolong pertemukan kami sama kakak-kakak di Surabaya yang lagi pusing cari tempat lamaran 🙏\n\nKami TAMO, venue di Citraland, Surabaya Barat. Udah 500+ acara di sini, dari lamaran intim sampai resepsi 200+ tamu.\n\nLamaran mulai 12 juta, dekor & vendor boleh bawa sendiri.\n\nMention temenmu yang tahun ini mau lamaran ya 🤍"
-  },
-  {
-   "slug": "t01-weekend-vs-weekday",
-   "text": "Tim nikah weekend atau tim nikah weekday?\n\nJujur, weekday itu underrated. Tamu yang dateng beneran yang sayang sama kalian, dan tanggal juga lebih gampang dapet.\n\nKalian pilih yang mana, dan kenapa? 👇"
-  },
-  {
-   "slug": "t04-photoshoot-per-jam",
-   "text": "Info buat yang mau foto prewed, maternity, atau foto keluarga yang proper:\n\nTAMO bisa disewa per jam buat photoshoot, mulai 1 juta 📸\n\nRooftop kanopi kaca, salah satu spot favorit buat foto. Lokasinya di Citraland, Surabaya Barat.\n\nSimpan dulu, siapa tau nanti butuh."
-  },
-  {
-   "slug": "t05-rawonnya-mana",
-   "text": "Nikahan di Surabaya itu belum lengkap kalau belum ada yang nanya:\n\n\"Rawonnya mana?\"\n\nSebutin satu hal yang WAJIB ada di nikahan Surabaya versi kamu 👇"
-  },
-  {
-   "slug": "t06-corporate-hr",
-   "text": "Buat HR & tim event kantor di Surabaya: lagi cari tempat gathering, launching, atau seminar yang nggak kelihatan kayak ballroom hotel lagi?\n\nTAMO di Citraland muat 200+ orang, mulai 5 juta.\n\nWeekday masih banyak tanggal kosong. Tag rekan kantormu yang tiap tahun kebagian tugas cari venue 😅"
-  },
-  {
-   "slug": "t12-hot-take-tamu-kenal",
-   "text": "Hot take: nikahan yang tamunya kamu kenal semua lebih berkesan daripada nikahan yang tamunya cuma antri salaman terus pulang.\n\nSetuju atau nggak?"
-  },
-  {
-   "slug": "t03-bawa-vendor-sendiri",
-   "text": "Hal yang bikin banyak pasangan akhirnya pilih TAMO: boleh bawa dekor dan vendor sendiri.\n\nPunya temen fotografer? Tante yang jago dekor? MUA langganan dari SMA? Bawa aja.\n\nNikahannya punya kalian, bukan punya katalog paket.\n\nVendor siapa yang paling pengen kamu ajak di hari H?"
-  },
-  {
-   "slug": "t09-survey-venue-checklist",
-   "text": "5 hal yang wajib ditanya pas survey venue (simpan dulu):\n\n1. Kapasitas duduk vs berdiri\n2. Jam loading vendor mulai kapan\n3. Overtime dihitung gimana\n4. Boleh bawa vendor sendiri atau wajib paket\n5. Parkirnya muat berapa mobil\n\nAda yang mau nambahin? Yang udah pernah nikah pasti punya daftar sendiri 😆"
-  },
-  {
-   "slug": "t29-harga-terbuka",
-   "text": "Nanya harga venue itu sering bikin sungkan. Jadi harga TAMO (Citraland, Surabaya Barat) kami tulis terbuka aja ya 🤍\n\nMulai dari:\n- Wedding, lamaran, ulang tahun: 12 juta\n- Acara kantor: 5 juta\n- Photoshoot: 1 juta (sewa per jam)\n\nDekor dan vendor boleh bawa sendiri. Mau tanya detail atau tanggal? Tulis di balasan atau WA lewat link di bio, kami jawab satu-satu."
-  },
-  {
-   "slug": "t30-hari-batik",
-   "text": "2 Oktober itu Hari Batik Nasional 🤍\n\nBatik atau kebaya, kamu tim yang mana?\n\nKalau mau foto yang proper, TAMO bisa disewa per jam buat photoshoot, mulai 1 juta. Rooftop-nya yang berkanopi kaca juga bisa dipakai buat foto.\n\nInfo lengkap lewat WA di bio ya!"
-  },
-  {
-   "slug": "t31-checklist-sebelum-dp",
-   "text": "5 hal yang wajib dipastiin sebelum DP venue (simpan dulu):\n\n1. Tanggal dan jam pakai tertulis jelas\n2. DP bisa dipindah tanggal atau hangus kalau batal\n3. Biaya tambahan di luar harga sewa (listrik, kebersihan, parkir)\n4. Jam bongkar pasang dekor dan batas selesai acara\n5. Semua yang dijanjikan tertulis di perjanjian, bukan cuma di chat\n\nAda yang mau nambahin? 👇"
-  },
-  {
-   "slug": "t32-rooftop-sehari",
-   "text": "Kalau kamu punya rooftop berkanopi kaca sehari penuh, mau dipakai buat apa? 👀\n\nDi TAMO, rooftop-nya bisa dipakai buat akad, resepsi, atau photoshoot.\n\nCerita di balasan, kami penasaran!"
-  },
-  {
-   "slug": "t33-undangan-vendor",
-   "text": "Buat WO, MUA, dekorator, dan fotografer di Surabaya: klien yang pilih TAMO boleh bawa vendor mereka sendiri 🤍\n\nPernah handle acara di TAMO? Komen portofolio atau tag akun kalian di sini, kami mampir lihat.\n\nKlien kalian lagi cari venue? Info lengkap lewat WA di bio ya!"
-  },
-  {
-   "slug": "t34-lupa-di-lamaran",
-   "text": "3 hal yang sering kelupaan pas lamaran (simpan dulu):\n\n1. Titik kumpul rombongan keluarga sebelum masuk\n2. Jam datang rombongan, kasih jeda 30 menit biar nggak panik\n3. Tempat duduk orang tua dan titik foto keluarga\n\nLamaran di TAMO mulai 12 juta, dekor bebas atur sendiri. Info lengkap lewat WA di bio ya!\n\nAda yang mau nambahin?"
-  },
-  {
-   "slug": "t07-ulang-tahun",
-   "text": "Sweet seventeen, ulang tahun anak, ulang tahun Mama yang ke-60. Semuanya layak dirayain di tempat yang bagus.\n\nTAMO bisa buat pesta ulang tahun mulai 12 juta, muat 200+ tamu, dekornya bebas kamu atur.\n\nUlang tahun siapa yang pengen kamu rayain gede-gedean tahun ini?"
-  },
-  {
-   "slug": "t08-momen-kecil",
-   "text": "Setelah 500+ acara di TAMO, satu hal yang kami pelajari:\n\nYang paling diingat itu bukan dekornya. Tapi momen kecil. Papa yang nangis diam-diam. Sahabat yang pidatonya kepanjangan. Ponakan yang joget sendirian.\n\nMomen kecil apa yang paling kamu inget dari nikahan orang lain?"
-  },
-  {
-   "slug": "t16-dear-threads-ultah",
-   "text": "Dear Threads, pertemukan kami sama yang lagi nyiapin ulang tahun Papa, Mama, atau Oma tahun depan 🙏\n\nTAMO di Citraland, Surabaya Barat. Muat 200+ tamu, dekor dan vendor bebas bawa sendiri. Ulang tahun mulai 12 juta.\n\nInfo lengkap WA lewat link di bio ya."
-  },
-  {
-   "slug": "t22-year-end-kantor",
-   "text": "Akhir tahun = musim gathering kantor.\n\nKalau tim kamu lagi cari tempat year-end party, TAMO di Citraland, Surabaya Barat bisa. Muat 200+ orang, corporate mulai 5 juta, dekor dan vendor bebas atur sendiri.\n\nCek tanggal WA lewat link di bio ya."
-  },
-  {
-   "slug": "v2-20261006-1-urutan-budget",
-   "text": "Urutan nyusun budget nikah biar nggak kaget di akhir (simpan dulu):\n\n1. Tentukan dulu jumlah tamu\n2. Pilih 2-3 prioritas (misalnya venue, dokumentasi, dekor)\n3. Alokasikan dana ke prioritas itu duluan\n4. Sisakan dana cadangan untuk biaya tak terduga\n5. Catat semua penawaran di satu sheet",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-06",
-   "addon": "Tips tambahan: minta penawaran tertulis dari tiap vendor, lalu bandingkan item yang sama, jangan cuma total harganya."
-  },
-  {
-   "slug": "v2-20261006-2-sisa-libur-natal",
-   "text": "Sisa kalender 2026: tanggal merah berikutnya tinggal Natal 🎄\n\nJumat 25 Desember, ditambah cuti bersama Kamis 24 Desember. Jadi ada libur 4 hari, 24-27 Desember.\n\nBuat yang mau bikin acara akhir tahun atau kumpul keluarga besar, mulai catat tanggalnya dari sekarang.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-06",
-   "evidence": "https://www.detik.com/hikmah/khazanah/d-8121287/skb-3-menteri-libur-nasional-dan-cuti-bersama-2026-download-di-sini"
-  },
-  {
-   "slug": "v2-20261006-3-foto-rooftop-jam",
-   "text": "Foto di bawah rooftop berkanopi kaca, sewanya per jam, mulai 1 juta 📸\n\nPas buat wisuda, pasangan baru, sahabat satu geng, atau keluarga besar yang jarang kumpul lengkap. Siapkan dulu konsep dan daftar pose, biar tiap jamnya terpakai maksimal.\n\nInfo lengkap lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-06",
-   "addon": "Biar sesi foto lancar, siapkan daftar pose dan referensi foto sebelum hari H. Waktu per jam itu singkat kalau baru mikir pose di lokasi."
-  },
-  {
-   "slug": "v2-20261006-4-timeline-h12",
-   "text": "Timeline persiapan nikah, versi ringkas (simpan):\n\nH-12 bulan: tentukan budget, jumlah tamu, dan venue\nH-9 bulan: booking vendor utama\nH-6 bulan: busana dan undangan mulai digarap\nH-3 bulan: kirim undangan, finalkan rundown\nH-1 bulan: konfirmasi ulang semua vendor\nH-1: cek perlengkapan, istirahat cukup",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-06",
-   "addon": "Kalau bisa, tunjuk satu orang sebagai penanggung jawab hari H. Jadi pengantin nggak perlu ngurusin hal kecil di tengah acara."
-  },
-  {
-   "slug": "v2-20261006-5-weekday-kosong",
-   "text": "Fleksibel soal hari? Coba pertimbangkan weekday.\n\nDi TAMO weekday masih banyak tanggal kosong, jadi lebih leluasa memilih hari.\n\nCek tanggal lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-06"
-  },
-  {
-   "slug": "v2-20261007-1-hitung-tamu",
-   "text": "Cara hitung jumlah tamu biar undangan nggak kelebihan atau kekurangan (simpan):\n\n1. Daftar tamu per kelompok: keluarga A, keluarga B, teman, kantor\n2. Tandai mana yang pasti diundang dan mana yang cadangan\n3. Kirim undangan yang pasti dulu\n4. Minta konfirmasi hadir (RSVP) jauh sebelum hari H\n5. Baru isi slot kosong dari daftar cadangan",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-07",
-   "addon": "Jangan hitung semua undangan pasti hadir. Cek jumlah tamu dengan kapasitas venue dan siapkan sedikit ruang cadangan."
-  },
-  {
-   "slug": "v2-20261007-2-angka-kembar",
-   "text": "Tanggal cantik sisa 2026 (cek harinya dulu):\n\n10-10-2026: Sabtu (tinggal 3 hari lagi)\n11-11-2026: Rabu\n12-12-2026: Sabtu\n\nBuat yang suka tanggal angka kembar, simpan ya. Kalau mau acara di 11-11 atau 12-12, mulai direncanakan dari sekarang.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-07",
-   "evidence": "https://www.timeanddate.com/calendar/?year=2026&country=1"
-  },
-  {
-   "slug": "v2-20261007-3-tanya-vendor",
-   "text": "5 pertanyaan ke vendor (dekor, MUA, fotografer) sebelum deal (simpan):\n\n1. Tanggal dan jam kerja sudah pasti tersedia?\n2. Apa saja yang termasuk di paket, tertulis ya\n3. Berapa kali revisi atau preview?\n4. Jadwal pembayarannya bagaimana?\n5. Kalau berhalangan, ada pengganti?",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-07"
-  },
-  {
-   "slug": "v2-20261007-4-townhall-kantor",
-   "text": "Townhall, launching produk, atau rapat besar seluruh divisi?\n\nTAMO muat 200+ orang, jadi cocok buat acara kantor yang pesertanya banyak. Corporate mulai 5 juta.\n\nPricelist lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-07",
-   "addon": "Buat HR: kirim rundown ke semua pengisi acara minimal sehari sebelumnya, biar urutan dan durasi nggak molor."
-  },
-  {
-   "slug": "v2-20261007-5-akad-rooftop",
-   "text": "Akad, resepsi, sampai sesi foto, semua bisa di bawah rooftop berkanopi kaca 🤍\n\nBuat pasangan yang pengennya simpel dan nggak pindah-pindah lokasi: rooftop TAMO bisa untuk ketiganya. Wedding mulai 12 juta.\n\nPricelist lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-07"
-  },
-  {
-   "slug": "v2-20261008-1-rundown-resepsi",
-   "text": "Rundown resepsi yang rapi itu bisa dimulai dari 6 blok ini (simpan):\n\n1. Tamu datang dan registrasi\n2. Pembukaan dan sambutan keluarga\n3. Prosesi utama\n4. Makan dan hiburan\n5. Sesi foto bersama keluarga dan tamu\n6. Penutup\n\nTulis perkiraan durasi tiap blok, lalu bagikan ke MC, vendor, dan keluarga inti.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-08",
-   "addon": "Tips tambahan: tunjuk satu orang sebagai pemegang rundown di hari H, biar MC dan vendor punya satu tempat bertanya."
-  },
-  {
-   "slug": "v2-20261008-2-seserahan-susun",
-   "text": "Mau susun seserahan tapi bingung mulai dari mana? Ini urutan yang biasa dipakai (simpan):\n\n1. Diskusikan daftar dengan keluarga kedua pihak\n2. Catat ukuran dan selera calon pasangan\n3. Atur budget per item\n4. Beli bertahap, jangan sekaligus\n5. Foto dan cek ulang semua barang sebelum dikemas\n\nSeserahan adalah tradisi yang tiap keluarga punya gayanya sendiri, jadi sesuaikan dengan kesepakatan bersama.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-08"
-  },
-  {
-   "slug": "v2-20261008-4-lamaran-intim",
-   "text": "Bayangin hari lamaranmu berjalan tenang: kedua keluarga sempat ngobrol panjang, cincin disematkan, lalu foto bersama sambil tersenyum lega 🤍\n\nLamaran mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-08",
-   "addon": "Buat yang lagi hitung tamu: tulis dulu daftar keluarga inti dua pihak, baru tentukan ruangnya."
-  },
-  {
-   "slug": "v2-20261008-5-seminar-kantor",
-   "text": "Peserta seminar atau pelatihan banyak? Ruangnya harus lega supaya narasumber, panitia, dan peserta sama-sama nyaman, dari sesi pembukaan sampai tanya jawab, termasuk saat sesi diskusi kelompok.\n\nAcara kantor / corporate mulai 5 juta. Cek tanggal lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-08"
-  },
-  {
-   "slug": "v2-20261008-3-merah-sabtu-2027",
-   "text": "3 tanggal merah 2027 yang jatuh di hari Sabtu (simpan buat yang lagi incar tanggal acara):\n\n- Sabtu, 6 Februari: Tahun Baru Imlek\n- Sabtu, 1 Mei: Hari Buruh\n- Sabtu, 25 Desember: Natal\n\nKalau Sabtu pilihanmu bertepatan dengan salah satunya, pertimbangkan jadwal keluarga dan tamu yang mungkin bepergian.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-08",
-   "evidence": "https://www.merahputih.com/post/read/libur-nasional-cuti-bersama-2027"
-  },
-  {
-   "slug": "v2-20261009-1-pilih-hari-acara",
-   "text": "Bingung milih hari buat acara? Urutan ini biasanya paling aman (simpan):\n\n1. Tanya dulu orang yang paling harus hadir: orang tua, kakek-nenek, keluarga inti\n2. Cek jadwal ujian, dinas luar, atau cuti kerja mereka\n3. Siapkan 2-3 hari pilihan, bukan satu\n4. Baru hubungi venue dan vendor utama dengan opsi itu\n5. Kabari semua yang diundang secepatnya",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-09",
-   "addon": "Tips tambahan: kalau tamu banyak yang datang dari luar kota, kabari tanggalnya lebih awal supaya mereka sempat atur tiket dan penginapan."
-  },
-  {
-   "slug": "v2-20261009-2-long-weekend-2027",
-   "text": "Long weekend 2027 yang perlu dicatat sebelum nentuin tanggal acara dan kirim undangan (simpan):\n\n- 1-3 Januari (Tahun Baru)\n- 5-7 Februari (Imlek, termasuk cuti bersama Jumat 5 Februari)\n- 25-28 Maret (cuti bersama Kamis 25 Maret, Wafat Yesus Kristus, Paskah)\n- 15-20 Mei (Idul Adha, Waisak, dan cuti bersama)\n\nSumber: SKB 3 Menteri 2027.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-09",
-   "evidence": "https://katadata.co.id/lifestyle/varia/6aab70674840d/daftar-long-weekend-2027-ada-6-libur-panjang-dari-januari-desember"
-  },
-  {
-   "slug": "v2-20261009-3-pic-hari-h",
-   "text": "Biar hari H nggak semua nanya ke pengantin atau tuan rumah, bagi tugas ke keluarga dari jauh hari (simpan):\n\n1. Satu orang jaga meja tamu dan buku tamu\n2. Satu orang jadi penghubung vendor\n3. Satu orang atur rombongan keluarga\n4. Satu orang pegang dokumen dan perlengkapan cadangan\n\nKasih nama dan nomor kontaknya di rundown.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-09"
-  },
-  {
-   "slug": "v2-20261009-5-reuni-200",
-   "text": "Reuni angkatan yang hadirnya ratusan? Cari ruang yang cukup lega, supaya obrolan nggak terpotong antrean masuk.\n\nTAMO muat 200+ orang. Alamat: Jl. Royal Park TL1/7-8, Lidah, Citraland. Tanya-tanya lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-09"
-  },
-  {
-   "slug": "v2-20261009-4-foto-keluarga",
-   "text": "Daftar foto keluarga yang sering kelupaan di hari H (simpan):\n\n1. Pengantin atau tuan rumah dengan orang tua dan kakek-nenek\n2. Keluarga inti kedua pihak\n3. Keluarga besar, per cabang keluarga\n4. Sahabat dan rekan terdekat\n\nTulis daftarnya, lalu minta satu orang keluarga memanggil tiap kelompok. Jadi fotografer nggak perlu mencari-cari orang.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-09",
-   "addon": "Tips tambahan: sebut jam sesi foto keluarga di rundown, biar semua orang tahu kapan harus kumpul."
-  },
-  {
-   "slug": "v2-20261010-1-cuti-bersama-2027",
-   "text": "8 cuti bersama 2027, siapa tahu mengubah rencana tanggal acaramu (simpan):\n\n- Jumat, 5 Februari\n- Selasa, 9 Maret\n- Jumat, 12 Maret\n- Senin, 15 Maret\n- Kamis, 25 Maret\n- Selasa, 18 Mei\n- Rabu, 19 Mei\n- Jumat, 24 Desember\n\nCuti bersama wajib untuk ASN, untuk swasta mengikuti kebijakan kantor masing-masing.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-10",
-   "evidence": "https://www.antaranews.com/berita/5748023/daftar-libur-nasional-2027-dan-cuti-bersama-total-26-hari",
-   "addon": "Sumber: SKB 3 Menteri 2027 (ditandatangani 15 September 2026)."
-  },
-  {
-   "slug": "v2-20261010-2-checklist-h1",
-   "text": "Malam sebelum acara, cek 5 hal ini (simpan):\n\n1. Rundown final sudah dikirim ke MC dan vendor\n2. Nomor kontak penanggung jawab tiap vendor tersimpan\n3. Perlengkapan keluarga dan dokumen sudah dikemas\n4. Jam tiba semua vendor sudah dikonfirmasi ulang\n5. Pengantin atau tuan rumah tidur cukup",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-10"
-  },
-  {
-   "slug": "v2-20261010-4-dana-cadangan",
-   "text": "Pos budget yang sering dilupakan: dana cadangan (simpan).\n\nSisihkan satu pos khusus untuk hal tak terduga, misalnya tamu bertambah, vendor minta tambahan jam, atau perlengkapan yang ternyata kurang.\n\nCatat di spreadsheet yang sama dengan budget utama, dan jangan dipakai kecuali memang mendesak.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-10",
-   "addon": "Tips tambahan: tiap ada pengeluaran baru, catat di hari yang sama biar total budget selalu terlihat jelas."
-  },
-  {
-   "slug": "v2-20261010-5-farewell-kantor",
-   "text": "Perpisahan rekan lama, sambutan rekan baru, perayaan target tercapai: semua bisa jadi momen hangat.\n\nMulai 5 juta untuk acara corporate. Cek tanggal lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-10"
-  },
-  {
-   "slug": "v2-20261010-3-timeline-h7",
-   "text": "Seminggu terakhir sebelum acara, ini yang perlu beres (simpan):\n\nH-7: konfirmasi akhir jumlah tamu ke semua pihak\nH-5: rundown terkirim ke MC dan keluarga inti\nH-3: cincin, dokumen, dan souvenir dikumpulkan di satu tas\nH-2: cek ulang pelunasan vendor\nH-1: tidur cukup, jangan begadang",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-10",
-   "addon": "Tips tambahan: simpan nomor semua vendor dalam satu catatan, lalu bagikan ke satu orang keluarga yang dipercaya. Jadi di hari H, pengantin nggak perlu jadi pusat pertanyaan."
-  },
-  {
-   "slug": "v2-20261011-1-rundown-lamaran",
-   "text": "Rundown lamaran yang rapi itu cukup 6 blok (simpan):\n\n1. Rombongan keluarga tiba dan disambut\n2. Pembukaan oleh MC, perkenalan kedua keluarga\n3. Penyampaian maksud kedatangan\n4. Tukar cincin dan penyerahan seserahan\n5. Doa dan ramah tamah\n6. Foto bersama keluarga\n\nTiap blok kasih perkiraan menit, supaya acaranya nggak molor.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-11"
-  },
-  {
-   "slug": "v2-20261011-2-tamu-lamaran",
-   "text": "Cara hitung jumlah tamu lamaran, mulai dari lingkaran terdekat (simpan):\n\n1. Keluarga inti kedua pihak\n2. Paman, bibi, dan sepupu terdekat\n3. Sesepuh atau tokoh keluarga yang dihormati\n4. Sahabat dekat, kalau memang diundang\n\nJumlahkan per kelompok, lalu tambah sedikit cadangan kursi. Lamaran biasanya lebih intim dari resepsi, jadi daftarnya bisa jauh lebih pendek.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-11",
-   "addon": "Tip: tanya dulu ke pihak keluarga lain berapa orang yang akan ikut rombongan. Angka yang pasti dari awal bikin hitungan kursi dan konsumsi jauh lebih tenang."
-  },
-  {
-   "slug": "v2-20261011-3-libur-maret-2027",
-   "text": "Maret 2027: Nyepi di Senin 8 Maret, lalu Idulfitri 10-11 Maret diapit cuti bersama, dan ditutup cuti bersama Senin 15 Maret. Hasilnya libur sampai delapan hari berturut-turut, atau sepuluh hari kalau dihitung dari Sabtu 6 Maret (simpan).\n\nBuat yang lagi atur tanggal acara, banyak tamu kemungkinan lagi mudik atau liburan. Cuti bersama swasta mengikuti kebijakan kantor.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-11",
-   "evidence": "https://economy.okezone.com/read/2026/09/16/320/3242330/libur-panjang-10-hari-di-maret-2027-catat-tanggalnya?page=all",
-   "addon": "Catatan: tanggal Idulfitri mengikuti penetapan pemerintah, jadi pantau pengumumannya menjelang waktunya sebelum kirim undangan."
-  },
-  {
-   "slug": "v2-20261011-4-budget-lamaran",
-   "text": "Anggaran lamaran sering bocor di biaya receh (simpan).\n\nSelain tempat dan cincin, coba catat dari awal:\n- ongkos transport rombongan\n- parsel dan souvenir untuk keluarga\n- tata rias dan busana\n- foto dan video\n\nBiaya kecil begini kalau dijumlah bisa lumayan, jadi lebih aman ditulis sebelum hari H.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-11",
-   "addon": "Lamaran mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio."
-  },
-  {
-   "slug": "v2-20261011-5-tamo-4-poin",
-   "text": "Empat hal tentang TAMO buat yang lagi shortlist venue:\n\n1. Sudah 500+ acara\n2. Muat 200+ orang\n3. Rooftop berkanopi kaca untuk akad, resepsi, photoshoot\n4. Dekor dan vendor boleh bawa sendiri\n\nInfo lengkap lewat WA di link bio.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-11"
-  },
-  {
-   "slug": "v2-20261012-1-rundown-akad",
-   "text": "Rundown acara akad tanpa resepsi, versi ringkas (simpan):\n\n- Pembuka: keluarga dan tamu tiba, MC membuka\n- Inti: prosesi sesuai arahan keluarga dan pihak yang memimpin\n- Penutup: ramah tamah singkat, lalu sesi foto\n\nKarena acaranya singkat, bagian foto perlu daftar urutan sendiri.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-12",
-   "addon": "Tip: tunjuk satu orang keluarga untuk mengatur urutan foto. Biar sesi foto cepat dan semua orang tua kebagian di foto."
-  },
-  {
-   "slug": "v2-20261012-2-timeline-h30",
-   "text": "Persiapan 30 hari menjelang acara, urutan kerjanya (simpan):\n\nH-30: cek ulang kesepakatan tertulis dengan tiap vendor, minta konfirmasi\nH-21: fitting busana yang terakhir\nH-14: ingatkan tamu, kunci jumlah tamu\nH-10: draf rundown ke MC dan keluarga inti",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-12",
-   "addon": "Tips tambahan: simpan semua kesepakatan vendor (jam, jumlah orang, pembayaran) di satu folder. Gampang dicek kalau ada yang lupa."
-  },
-  {
-   "slug": "v2-20261012-3-peserta-kantor",
-   "text": "Panitia gathering kantor, hitung pesertanya begini (simpan):\n\nMulai dari daftar karyawan per divisi, kurangi yang dinas luar atau cuti, lalu tambahkan mitra, klien, dan keluarga bila diundang. Jangan lupa panitia dan pengisi acara ikut dihitung.\n\nMinta konfirmasi hadir dua minggu sebelumnya, baru pilih ruangan dari angka akhirnya.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-12"
-  },
-  {
-   "slug": "v2-20261012-4-libur-mei-2027",
-   "text": "Pekan 17-20 Mei 2027 penuh tanggal merah: Iduladha Senin, cuti bersama Selasa dan Rabu, Waisak Kamis. Kalau Jumat 21 Mei diambil cuti, libur bisa sembilan hari (15-23 Mei) (simpan).\n\nBuat yang lagi cari tanggal acara, tamu kemungkinan lagi bepergian. Cuti bersama swasta tergantung kantor.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-12",
-   "evidence": "https://www.rctiplus.com/news/detail/ekonomi/5477837/jadwal-long-weekend-2027--ada-libur-panjang-9-hari-",
-   "addon": "Catatan: tanggal Iduladha mengikuti penetapan pemerintah, jadi pantau pengumumannya sebelum kirim undangan."
-  },
-  {
-   "slug": "v2-20261012-5-harga-wedding",
-   "text": "Cek kisaran biaya dulu sebelum survey: wedding di TAMO mulai 12 juta. Lokasi Jl. Royal Park TL1/7-8, Lidah. Sudah 500+ acara. WA di link bio untuk info lengkap.",
-   "v": 2,
-   "pillar": "offer",
-   "for_date": "2026-10-12"
-  },
-  {
-   "slug": "v2-20261013-1-info-undangan",
-   "text": "Info yang wajib ada di undangan biar tamu nggak banyak nanya (simpan):\n\n1. Nama penyelenggara dan jenis acara\n2. Hari, tanggal, dan jam mulai\n3. Nama tempat dan alamat lengkap, plus link peta\n4. Dress code atau tema warna, kalau ada\n5. Kontak yang bisa dihubungi untuk konfirmasi hadir\n\nCek ulang tanggal dan jam sebelum dicetak atau dikirim.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-13",
-   "addon": "Tips tambahan: kirim undangan digital dulu ke keluarga inti, minta mereka cek ejaan nama dan gelar sebelum disebar ke semua tamu.",
-   "topic_tag": "Wedding Threads"
-  },
-  {
-   "slug": "v2-20261013-2-bulan-sepi-2027",
-   "text": "5 bulan di 2027 yang tanpa tanggal merah dan cuti bersama (simpan): April, Juli, September, Oktober, November.\n\nBuat yang lagi cari tanggal acara, di bulan-bulan itu tamu cenderung nggak terbentur libur panjang atau jadwal bepergian. Tetap cek kalender sekolah dan kantor tamu inti ya.\n\nSumber: SKB 3 Menteri libur nasional dan cuti bersama 2027.",
-   "v": 2,
-   "pillar": "calendar",
-   "for_date": "2026-10-13",
-   "evidence": "https://www.rctiplus.com/news/detail/okezone/5476467/catat--ini-5-bulan-di-2027-yang-tak-punya-libur-nasional-dan-cuti-bersama",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v2-20261013-3-rundown-ultah-ortu",
-   "text": "Rundown ulang tahun orang tua yang hangat, cukup 5 blok (simpan):\n\n1. Tamu datang, foto bersama di area depan\n2. Pembukaan singkat oleh MC atau anak tertua\n3. Sambutan keluarga dan doa\n4. Tiup lilin, potong kue, foto keluarga\n5. Makan bersama dan ngobrol santai\n\nSisipkan slideshow foto lama sebelum blok 3, biasanya jadi momen yang paling diingat.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-13",
-   "addon": "Ulang tahun mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio.",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v2-20261013-4-h90-persiapan",
-   "text": "Persiapan nikah di rentang H-90 sampai H-31, urutan kerjanya (simpan):\n\nH-90: finalkan desain undangan, fitting pertama baju pengantin dan keluarga\nH-75: rapikan daftar tamu, cek ulang alamat dan nomornya\nH-60: sebar undangan, konfirmasi vendor secara tertulis\nH-45: susun draf prosesi dan rundown, pantau konfirmasi hadir\nH-31: cek sisa pembayaran vendor dan jadwalnya\n\nSesuaikan dengan kondisi keluarga masing-masing.",
-   "v": 2,
-   "pillar": "education",
-   "for_date": "2026-10-13",
-   "topic_tag": "Wedding Threads"
-  },
-  {
-   "slug": "v3-20261013-rundown-gathering",
-   "for_date": "2026-10-13",
-   "v": 3,
-   "pillar": "series",
-   "hook": "list",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Family gathering kantor setengah hari, urutan acaranya biar nggak garing (simpan):\n\n1. Registrasi, bagi name tag dan kelompok\n2. Pembukaan MC dan sambutan pimpinan, singkat saja\n3. Ice breaking per kelompok\n4. Makan siang\n5. Games antar divisi\n6. Pengumuman pemenang, doorprize, foto bersama\n\nSambutan pimpinan cukup sekali di awal. Kalau dipecah dua, energi peserta biasanya turun.",
-   "addon": "Mau template rundown gathering yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
-  },
-  {
-   "slug": "v2-20261014-1-urutan-booking-vendor",
-   "text": "Urutan booking vendor nikah, mana yang dikunci duluan (simpan):\n\n1. Tanggal dan tempat acara\n2. Fotografer dan videografer\n3. Dekorasi\n4. MUA dan busana\n5. MC dan hiburan\n\nAlasannya: tanggal menentukan semua jadwal lain, dan vendor yang jadwalnya padat biasanya paling cepat terisi. Konfirmasi tiap vendor secara tertulis.",
-   "pillar": "series",
-   "hook": "list",
-   "cta": "soft",
-   "addon": "Mau checklist booking vendor yang tinggal dicentang? Minta lewat WA di link bio ya 🤍",
-   "v": 3,
-   "for_date": "2026-10-14",
-   "topic_tag": "Wedding Threads",
-   "image": "https://tamo-assets.vercel.app/ig/threads_TH01.jpg"
-  },
-  {
-   "slug": "v2-20261014-2-anniversary-ortu",
-   "text": "Anniversary orang tua yang ke-25 atau ke-30 itu layak dirayakan bareng keluarga besar 🤍\n\nIde sederhana: minta tiap anak dan cucu kirim satu foto lama, jadikan slideshow, lalu putar sebelum tiup lilin. Rooftop berkanopi kaca di TAMO bisa jadi latar foto keluarganya.\n\nTanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-14",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v2-20261014-3-natal-2027",
-   "text": "Penutup 2027 bisa jadi akhir pekan tiga hari: 24 Desember berstatus cuti bersama, lalu 25 Desember Natal jatuh di hari Sabtu (simpan).\n\nUntuk reuni atau kumpul keluarga besar di pekan itu, kabari tamu yang tinggal jauh lebih awal supaya mereka sempat atur tiket dan cuti.\n\nSumber: SKB 3 Menteri.",
-   "pillar": "calendar",
-   "hook": "local",
-   "cta": "none",
-   "evidence": "https://news.detik.com/berita/d-8664018/daftar-6-long-weekend-di-2027-catat-tanggalnya",
-   "v": 3,
-   "for_date": "2026-10-14",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v2-20261014-4-alur-tamu",
-   "text": "4 titik di acara yang paling sering bikin tamu antre atau bingung (simpan):\n\n1. Meja registrasi atau penerima tamu\n2. Area foto bersama pengantin atau tuan rumah\n3. Area makan\n4. Pintu keluar saat acara selesai\n\nSebelum hari H, jalan dari pintu masuk sampai pintu keluar sambil bayangkan 100 tamu datang bersamaan. Titik yang menyempit biasanya langsung kelihatan.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "addon": "Tips tambahan: tugaskan satu orang keluarga yang kenal banyak tamu di meja registrasi, supaya tamu langsung diarahkan ke tempat duduk.",
-   "v": 3,
-   "for_date": "2026-10-14",
-   "topic_tag": "surabaya",
-   "image": "https://tamo-assets.vercel.app/ig/threads_TH02.jpg"
-  },
-  {
-   "slug": "v2-20261014-5-lamaran-lantai3",
-   "text": "Lamaran dengan 50-100 tamu: di TAMO ada hall lantai 3 yang lebih kecil untuk lamaran dan pemberkatan.\n\nLamaran mulai 12 juta, bebas bawa dekor dan vendor sendiri. Kalau tamunya bertambah, hall terbesar di lantai 1-2 biasanya muat 100-250 tamu.\n\nCek tanggal dan pricelist lewat WA di link bio.",
-   "pillar": "offer",
-   "hook": "list",
-   "cta": "explicit",
-   "v": 3,
-   "for_date": "2026-10-14",
-   "topic_tag": "Wedding Threads"
-  },
-  {
-   "slug": "v3-20261013-conv-budget-kaget",
-   "for_date": "2026-10-13",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Yang udah nikah, spill dong: pos budget mana yang paling bikin kaget? 👀\n\nMakanan, dekor, baju, dokumentasi, atau malah biaya yang sama sekali nggak kepikiran di awal?\n\nJawaban kalian bisa jadi bekal buat yang lagi planning, biar budgetnya nggak jebol."
-  },
-  {
-   "slug": "v3-20261013-conv-acara-keluarga",
-   "for_date": "2026-10-13",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "text": "Warga Surabaya, acara keluarga paling berkesan yang pernah kalian datangi itu acara apa? 🎉\n\nUlang tahun oma, reuni keluarga besar, syukuran rumah baru, sweet seventeen...\n\nCeritain satu momen yang sampai sekarang masih keinget."
-  },
-  {
-   "slug": "v3-20261013-conv-vendor-syukur",
-   "for_date": "2026-10-13",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Vendor nikah mana yang paling kalian syukuri udah dibooking duluan? 🤍\n\nMUA, fotografer, WO, MC, atau yang lain? Ceritain alasannya.\n\nCalon pengantin yang lagi nyusun daftar vendor pasti kebantu banget sama jawaban kalian."
-  },
-  {
-   "slug": "v3-20261015-1-agustus-2027",
-   "text": "Agustus 2027 cuma punya dua tanggal merah (simpan):\n\n- Minggu, 15 Agustus: Maulid Nabi Muhammad SAW\n- Selasa, 17 Agustus: Hari Kemerdekaan RI\n\nTidak ada cuti bersama di bulan itu. Jadi 17 Agustus yang jatuh di hari Selasa belum otomatis jadi long weekend, tamu harus ambil cuti sendiri.\n\nBuat yang lagi atur tanggal acara, tanyakan dulu rencana tamu inti.",
-   "pillar": "calendar",
-   "hook": "local",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "evidence": "https://nasional.kompas.com/read/2026/09/15/14232211/ini-daftar-lengkap-hari-libur-nasional-2027-beserta-jadwal-cuti-bersama",
-   "v": 3,
-   "for_date": "2026-10-15"
-  },
-  {
-   "slug": "v3-20261015-2-rencana-hujan",
-   "text": "Rencana cadangan kalau hujan untuk acara, 5 poin ini (simpan):\n\n1. Tentukan batas jam: kapan keputusan pindah ke opsi dalam ruangan\n2. Siapkan jalur masuk tamu yang terlindung dari hujan\n3. Pastikan dekor dan perlengkapan audio aman dari air\n4. Kabari vendor dan MC soal rencana B sebelum hari H\n5. Sediakan tempat untuk payung dan jas hujan tamu",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "addon": "Tips tambahan: tulis rencana B di rundown, bukan cuma di kepala satu orang. Jadi siapa pun yang pegang rundown tahu harus bagaimana.",
-   "v": 3,
-   "for_date": "2026-10-15",
-   "image": "https://tamo-assets.vercel.app/ig/threads_TH03.jpg"
-  },
-  {
-   "slug": "v3-20261015-3-baby-shower",
-   "text": "Satu hal yang sering terlupa di baby shower dan gender reveal: foto bersama kakek-nenek dan calon orang tua 🤍\n\nJadwalkan di awal, sebelum tamu mulai ngobrol dan berpencar.\n\nKalau keluarga besar mau ikut hadir, TAMO muat 50-300 tamu dan boleh bawa dekor sendiri. Tanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
-   "pillar": "ideas",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "v": 3,
-   "for_date": "2026-10-15"
-  },
-  {
-   "slug": "v3-20261015-vendor-spotlight-mua",
-   "for_date": "2026-10-15",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "MUA Surabaya, spill portofolio kalian dong 💄\n\nBuat calon pengantin dan keluarga yang lagi cari MUA untuk lamaran, sangjit, atau resepsi, kolom komentar ini bisa jadi katalog.\n\nFormat biar gampang dilihat: nama, spesialisasi (bride, engagement, family), area, plus satu foto hasil favorit kalian."
-  },
-  {
-   "slug": "v3-20261015-4-rundown-sweet17",
-   "text": "Sweet seventeen yang berkesan biasanya punya alur jelas (simpan):\n\n1. Tamu datang dan foto di area depan\n2. Orang tua menyambut\n3. Entrance si ulang tahun\n4. Tiup lilin\n5. Makan, games, penampilan teman\n6. Foto sahabat dan keluarga\n\nBatasi tiap sesi dengan menit, supaya pesta tetap hidup sampai penutup.",
-   "pillar": "series",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-15",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261016-1-rundown-reuni",
-   "text": "Reuni angkatan yang bikin orang betah sampai akhir, susunannya begini (simpan):\n\nPertama, name tag dengan foto zaman sekolah buat pemecah suasana. Lalu sambutan singkat ketua panitia, makan, kuis nostalgia, dan slideshow foto lama.\n\nTutup dengan foto angkatan, lalu sisakan waktu ngobrol bebas yang panjang. Itu alasan utama orang datang.",
-   "pillar": "series",
-   "hook": "list",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-16",
-   "topic_tag": "surabaya",
-   "addon": "Reuni dengan ratusan alumni? Hall terbesar TAMO di lantai 1-2 biasanya muat 100-250 tamu, boleh bawa dekor dan vendor sendiri. Tanya tanggal lewat WA di link bio ya."
-  },
-  {
-   "slug": "v3-20261016-2-tas-darurat",
-   "text": "Tas darurat hari H, isinya apa saja (simpan):\n\n1. Peniti, jarum dan benang, lem kain\n2. Tisu, tisu basah, plester luka\n3. Powerbank dan charger\n4. Obat pribadi dan minyak angin\n5. Bedak, lipstik, dan minyak blotting untuk touch-up\n6. Sepatu cadangan yang lebih nyaman\n\nTitipkan ke satu orang keluarga yang selalu dekat, bukan ke pengantin.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-16",
-   "topic_tag": "Wedding Threads",
-   "addon": "Tips tambahan: sediakan camilan kecil dan air minum untuk pengantin. Hari H sering lewat jam makan tanpa terasa."
-  },
-  {
-   "slug": "v3-20261016-3-launching-produk",
-   "text": "Launching produk atau press gathering? Ruangnya perlu terasa seperti brand-mu.\n\nKamu bebas bawa dekor dan vendor sendiri ke TAMO. Kapasitas 50-300 tamu, tarif acara kantor mulai 5 juta.\n\nPenasaran soal tanggal? Kirim pesan lewat WhatsApp di link bio.",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "explicit",
-   "v": 3,
-   "for_date": "2026-10-16",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261016-4-syukuran",
-   "text": "Rumah baru atau usaha baru, dua alasan bagus buat syukuran 🤍\n\nBayangkan foto keluarga di rooftop berkanopi kaca, jadi kenang-kenangan atau bahan konten usaha barumu. Di TAMO kamu bebas bawa dekor dan vendor sendiri.\n\nBoleh tanya-tanya dulu soal tanggal lewat WhatsApp di link bio, tanpa harus booking.",
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-16",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261016-5-wisuda",
-   "text": "Wisuda itu momen sekali seumur hidup, sayang kalau fotonya cuma di depan gedung kampus 🎓\n\nIde: syukuran kecil bareng keluarga, lalu sesi foto keluarga di rooftop berkanopi kaca. TAMO bisa disewa per jam untuk photoshoot, mulai 1 juta.\n\nTanya jadwal lewat WA di link bio, nggak harus langsung booking.",
-   "pillar": "ideas",
-   "hook": "story",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-16",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261017-1-brief-mc",
-   "text": "Sebelum hari H, 5 hal ini sebaiknya sudah ada di tangan MC (simpan):\n\n1. Rundown final, lengkap dengan jamnya\n2. Ejaan dan cara baca nama keluarga serta tamu kehormatan\n3. Siapa yang memberi sambutan dan berapa menit jatahnya\n4. Titik pergantian: kapan musik, kapan foto, kapan makan\n5. Hal yang sebaiknya tidak disebut di depan tamu\n\nMC yang siap bikin acara terasa mengalir.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-17",
-   "topic_tag": "Wedding Threads",
-   "addon": "Tambahan: kirim rundown ke MC minimal H-3, dan sepakati satu orang keluarga yang jadi kontaknya di hari H."
-  },
-  {
-   "slug": "v3-20261017-2-merah-senin-jumat-2027",
-   "text": "4 tanggal merah 2027 yang jatuh di Senin atau Jumat, otomatis jadi libur tiga hari (simpan):\n\n- Jumat, 1 Januari\n- Senin, 8 Maret (Nyepi)\n- Jumat, 26 Maret (Wafat Yesus Kristus)\n- Senin, 17 Mei (Iduladha)\n\nBuat yang lagi cari tanggal acara, tamu dari luar kota biasanya lebih leluasa di akhir pekan panjang seperti ini.",
-   "pillar": "calendar",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-17",
-   "topic_tag": "surabaya",
-   "evidence": "https://www.antaranews.com/berita/5748023/daftar-libur-nasional-2027-dan-cuti-bersama-total-26-hari"
-  },
-  {
-   "slug": "v3-20261017-3-seragam-keluarga",
-   "text": "Soal seragam keluarga, urutan ini biasanya bikin semua pihak tenang (simpan):\n\n1. Tentukan warna dan tema dulu, bareng orang tua kedua pihak\n2. Kabari keluarga besar sekitar 2-3 bulan sebelumnya\n3. Kirim contoh warna, bukan cuma nama warna\n4. Kumpulkan ukuran dan jadwalkan fitting\n5. Siapkan cadangan untuk yang telat konfirmasi\n\nSemakin awal diumumkan, semakin sedikit yang bingung di hari H.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-17",
-   "topic_tag": "Wedding Threads"
-  },
-  {
-   "slug": "v3-20261017-4-arisan-besar",
-   "text": "Arisan keluarga besar bisa jadi acara yang ditunggu-tunggu, bukan sekadar kumpul rutin.\n\nCoba taruh kartu nama di tiap meja dengan label 'cucu dari Eyang ...' atau gambar pohon keluarga kecil, supaya sepupu yang jarang ketemu langsung punya bahan ngobrol.\n\nTAMO muat 50-300 pax, cukup untuk keluarga besar dari semua cabang.\n\nMau tanya tanggal dulu? Chat aja lewat WA di link bio, nggak harus langsung booking.",
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-17",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261017-5-ultah-bawa-dekor",
-   "text": "Ulang tahun ke-40, ke-50, atau ke-60 layak dirayakan lebih dari sekadar makan bareng.\n\nBayangkan sesi foto keluarga di rooftop berkanopi kaca, dengan dekor dari tim langgananmu sendiri.\n\nUlang tahun di TAMO mulai 12 juta, dan kamu bebas bawa dekor serta vendor sendiri.",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-17",
-   "topic_tag": "surabaya",
-   "addon": "Mau cek kisaran biaya atau tanya tanggal? Kabari lewat WA di link bio ya, ceritakan jenis acara dan perkiraan jumlah tamunya."
-  },
-  {
-   "slug": "v3-20261018-1-rundown-baby-shower",
-   "text": "Susunan acara baby shower biar nggak bingung mulai dari mana (simpan):\n\n1. Tamu tiba dan tulis pesan untuk si kecil\n2. MC membuka dengan sapaan hangat\n3. Satu permainan ringan, jangan lebih\n4. Makan dan ngobrol\n5. Sesi foto: keluarga inti, lalu semua tamu\n\nPesan tamu itu bisa dijilid jadi kenang-kenangan.",
-   "pillar": "series",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-18",
-   "topic_tag": "surabaya",
-   "addon": "Jadwalkan sesi foto di awal, selagi calon ibu masih segar dan dandanan masih rapi."
-  },
-  {
-   "slug": "v3-20261018-2-tengah-minggu-2027",
-   "text": "Beberapa tanggal merah 2027 jatuh di tengah minggu, sering bikin tamu ambil cuti sambung (simpan):\n\n- Selasa, 5 Januari: Isra Mikraj\n- Rabu-Kamis, 10-11 Maret: Idulfitri\n- Kamis, 6 Mei: Kenaikan Yesus Kristus\n\nKalau acaramu dekat tanggal-tanggal ini, kabari undangan lebih awal.",
-   "pillar": "calendar",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-18",
-   "topic_tag": "surabaya",
-   "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
-  },
-  {
-   "slug": "v3-20261018-3-sweet17-mulai-12jt",
-   "text": "Sweet seventeen cuma sekali, dan fotonya bakal dilihat lagi bertahun-tahun.\n\nUlang tahun di TAMO mulai 12 juta. Rooftop berkanopi kaca bisa dipakai buat foto, dan dekor boleh dari tim pilihanmu sendiri.\n\nTanya tanggal dulu aja lewat WhatsApp di link bio, nggak harus langsung booking.",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-18",
-   "topic_tag": "surabaya",
-   "addon": "Mau cek kisaran biaya? Ceritakan konsep dan perkiraan jumlah tamu lewat WA di link bio ya."
-  },
-  {
-   "slug": "v3-20261018-4-tempat-duduk-keluarga",
-   "text": "Susunan tempat duduk keluarga di acara besar, urutan kerjanya (simpan):\n\n1. Tentukan dulu meja utama: orang tua dan sesepuh\n2. Kelompokkan keluarga per cabang, bukan acak\n3. Taruh tamu lansia dekat jalur masuk dan area toilet\n4. Siapkan meja anak-anak di dekat meja orang tuanya\n5. Buat denah sederhana, lalu cetak satu untuk penerima tamu\n\nDenah yang jelas bikin tamu langsung duduk tanpa antre bertanya.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-18",
-   "topic_tag": "surabaya",
-   "addon": "Tips tambahan: sepakati satu orang yang berhak mengubah denah di hari H, supaya perubahan dadakan tidak bikin meja bentrok."
-  },
-  {
-   "slug": "v3-20261018-5-gathering-akhir-tahun",
-   "text": "Gathering akhir tahun yang paling diingat tim biasanya bukan yang termewah, tapi yang bikin semua merasa dihargai 🎉\n\nCoba sisipkan sesi apresiasi singkat tiap divisi, lalu foto satu tim di rooftop berkanopi kaca.\n\nPanitia HR boleh tanya-tanya jadwal dulu lewat WA di link bio, tarif kantor mulai 5 juta.",
-   "pillar": "ideas",
-   "hook": "insider",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-18",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261019-1-rundown-launching-produk",
-   "text": "Peluncuran produk baru, alur acara 6 blok (simpan):\n\n1. Registrasi tamu undangan dan media\n2. Pembukaan MC\n3. Pengungkapan produk\n4. Demo inti\n5. Tanya jawab dan networking\n6. Foto bersama\n\nPengungkapan produk sebaiknya jangan di ujung acara, saat perhatian peserta sudah turun.",
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-19",
-   "topic_tag": "surabaya",
-   "addon": "Tips tambahan: tunjuk satu penghubung media agar wawancara dadakan tidak menggeser rundown."
-  },
-  {
-   "slug": "v3-20261019-2-budget-mulai-tamu",
-   "text": "Budget acara paling gampang dihitung mundur dari jumlah tamu (simpan):\n\n1. Tebak dulu perkiraan tamu\n2. Minta penawaran tiap vendor untuk angka itu\n3. Jumlahkan semua, tambah dana cadangan\n4. Baru cocokkan dengan ruang yang tersedia\n\nKalau dihitung dari ruangan dulu, biasanya ada pos yang terlewat.",
-   "pillar": "education",
-   "hook": "tradeoff",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-19",
-   "topic_tag": "surabaya",
-   "addon": "Tips tambahan: kumpulkan semua penawaran dalam satu spreadsheet agar perbandingannya jelas."
-  },
-  {
-   "slug": "v3-20261019-4-pensiun-orang-tua",
-   "text": "Pensiun orang tua bukan sekadar hari terakhir kerja, tapi pintu menuju bab baru 🤍\n\nIde: kumpulkan satu pesan singkat dari rekan lama dan anak-anak, jilid jadi buku kenangan, lalu serahkan saat foto keluarga.\n\nKalau mau digelar di TAMO, boleh tanya jadwal lewat WA di link bio dulu.",
-   "pillar": "ideas",
-   "hook": "story",
-   "cta": "soft",
-   "v": 3,
-   "for_date": "2026-10-19",
-   "topic_tag": "surabaya"
-  },
-  {
-   "slug": "v3-20261019-5-libur-2027-26-hari",
-   "text": "Jumlah hari libur resmi 2027 menurut SKB 3 Menteri: 26 hari, terdiri dari 18 libur nasional dan 8 cuti bersama (simpan).\n\nUntuk penyelenggara acara, artinya banyak minggu yang perlu dicek dulu sebelum mengirim undangan. Cuti bersama bagi karyawan swasta mengikuti kebijakan kantor.",
-   "pillar": "calendar",
-   "hook": "other",
-   "cta": "none",
-   "v": 3,
-   "for_date": "2026-10-19",
-   "topic_tag": "surabaya",
-   "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
-  },
-  {
-   "slug": "v3-20261020-1-rundown-sangjit",
-   "for_date": "2026-10-20",
-   "v": 3,
-   "pillar": "series",
-   "hook": "list",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Urutan sangjit dari tiba sampai foto bersama (simpan):\n\n1. Rombongan pria tiba, nampan biasanya dibawa kerabat muda\n2. Tuan rumah menyambut di pintu\n3. Nampan diserahkan satu per satu\n4. Orang tua ngobrol santai\n5. Pihak wanita membalas dengan sebagian isi nampan\n6. Makan bersama dan foto keluarga\n\nAdat tiap keluarga bisa beda, sepakati dulu sama orang tua.",
-   "addon": "Mau template rundown sangjit yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
-  },
-  {
-   "slug": "v3-20261020-4-ideas-prom",
-   "for_date": "2026-10-20",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Satu video kilas balik kelas 10 bisa bikin perpisahan SMA diingat sampai reuni 🎓\n\nIde: bikin satu sudut foto per kelas, lalu putar videonya sebelum acara inti dimulai. Rooftop berkanopi kaca di TAMO bisa jadi latar foto angkatan.\n\nPanitia yang lagi cari tempat, tanya tanggal dulu lewat WA di link bio ya."
-  },
-  {
-   "slug": "v3-20261020-2-dresscode-undangan",
-   "for_date": "2026-10-20",
-   "v": 3,
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Cara nulis dresscode di undangan biar tamu nggak salah kostum (simpan):\n\n1. Sebut warnanya dengan jelas, misalnya sage, biru dusty, atau earth tone\n2. Kasih contoh gambar kecil kalau warnanya jarang dipakai\n3. Bedakan aturan untuk keluarga inti dan tamu umum\n4. Tulis juga yang sebaiknya dihindari, misalnya putih polos\n5. Taruh di halaman yang sama dengan jam dan lokasi acara"
-  },
-  {
-   "slug": "v3-20261020-5-ideas-komunitas",
-   "for_date": "2026-10-20",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Klub lari, klub buku, atau komunitas fotografi di Surabaya, akhir tahun gini enaknya ditutup sama acara kumpul bareng 🙌\n\nIde: kasih penghargaan kecil buat anggota paling rajin, terus tiap orang cerita satu momen favorit tahun ini. Sederhana, tapi bikin komunitas makin dekat.\n\nCari tempat buat acaranya? Info lengkap lewat WA di link bio."
-  },
-  {
-   "slug": "v3-20261020-3-offer-hall-lantai12",
-   "for_date": "2026-10-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "explicit",
-   "topic_tag": "Wedding Threads",
-   "text": "Untuk resepsi 100-250 tamu, hall terbesar TAMO lengkap dengan mezzanine.\n\nTips survei: tentukan dulu posisi pelaminan dan jalur masuk tamu, lalu cek apakah nyaman dilihat dari kursi paling belakang.\n\nWedding mulai 12 juta. Pricelist via WhatsApp, link ada di bio."
-  },
-  {
-   "slug": "v3-20261021-1-rundown-seminar",
-   "for_date": "2026-10-21",
-   "v": 3,
-   "pillar": "series",
-   "hook": "list",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Seminar atau workshop setengah hari, susunan biar peserta nggak ngantuk (simpan):\n\n1. Daftar ulang sambil kopi pagi\n2. Pembuka singkat dari panitia\n3. Materi inti pertama\n4. Kuis atau tanya jawab interaktif\n5. Materi inti kedua\n6. Penutup dan sesi networking\n\nTaruh materi terpenting di blok pertama, saat fokus peserta masih segar.",
-   "addon": "Mau template rundown seminar yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
-  },
-  {
-   "slug": "v3-20261021-2-tanggal-tamu-luar-kota",
-   "for_date": "2026-10-21",
-   "v": 3,
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "text": "Cara milih tanggal acara kalau banyak keluarga dari luar kota (simpan):\n\n1. Tanya dulu keluarga inti yang paling jauh, kapan mereka bisa ambil cuti\n2. Hindari musim mudik dan akhir tahun, tiket dan hotel biasanya mahal\n3. Kalau pilih akhir pekan yang panjang, kabari lebih awal supaya tamu sempat pesan tiket\n4. Kabari tanggal minimal tiga bulan sebelumnya\n5. Siapkan info penginapan terdekat di undangan digital"
-  },
-  {
-   "slug": "v3-20261021-4-ideas-kelas-komunitas",
-   "for_date": "2026-10-21",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Kelas merangkai bunga, kelas masak, atau workshop lilin aromaterapi, acara kecil seperti ini cocok buat quality time bareng teman 🌷\n\nIde: undang satu pengajar, siapkan meja panjang buat praktik, dan tutup dengan foto hasil karya masing-masing.\n\nPengin bikin kelas sendiri? Ngobrol dulu lewat WA di link bio ya."
-  },
-  {
-   "slug": "v3-20261021-3-offer-weekday-corporate",
-   "for_date": "2026-10-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "explicit",
-   "topic_tag": "surabaya",
-   "text": "Pelatihan karyawan baru atau kick-off proyek akhir tahun butuh ruang yang cukup buat semua peserta.\n\nTips panitia: kirim agenda dan denah meja sehari sebelumnya, supaya pagi harinya semua langsung duduk sesuai kelompok.\n\nTAMO muat 50-300 pax, acara kantor mulai 5 juta. Mau cek tanggal hari kerja? Lewat WhatsApp, link ada di bio."
-  },
-  {
-   "slug": "v3-20261018-vendor-spotlight-wo-eo-partner-call",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Buat WO & EO Surabaya yang lagi cari venue partner 👋\n\nKita TAMO, venue di Citraland, Surabaya Barat. Udah 1000+ acara digelar, dan klien bebas bawa dekor & vendor sendiri.\n\nLagi pengen kenalan dan kerja bareng lebih banyak WO/EO nih. Tulis di reply ya:\nnama | IG | acara andalan + 1 foto hasil kerja favorit\n\nNanti tim kami DM satu-satu, atau chat WhatsApp aja (link di bio).\n\nLagi cari WO/EO? Simpan thread ini, reply-nya bakal jadi katalog WO & EO Surabaya 📌",
-   "addon": "Contoh: Nama WO | IG kalian | wedding intimate & lamaran + 1 foto hasil kerja 😄",
-   "image": "https://tamo-assets.vercel.app/ig/threads_WOEO.jpg"
-  },
-  {
-   "slug": "v3-20261018-vendor-spotlight-wo-eo-partner-call-2",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "WO & EO Surabaya, mana suaranya? 👀\n\nKita TAMO, venue di Surabaya Barat. Udah 1000+ acara lewat sini, dan hari H yang lancar hampir selalu ada WO/EO yang sigap di belakangnya.\n\nPengen kenal lebih banyak nih. Reply IG kalian + satu acara yang paling bikin kalian bangga. Foto boleh banget.\n\nSiapa tahu kita ketemu di project berikutnya 🤝"
-  },
-  {
-   "slug": "v3-viral-m1-simpan-prewed-2-jam",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Sesi foto prewed 2 jam, contoh pembagian waktunya biar nggak habis buat ganti baju (simpan):\n\nMenit 0-15: pemanasan, foto berdua yang santai biar ekspresi luwes\nMenit 15-60: foto wajib dengan outfit pertama (menghadap kamera, close-up cincin)\nMenit 60-75: ganti outfit dan touch-up\nMenit 75-105: pose bebas dengan outfit kedua\nMenit 105-120: cek hasil bareng fotografer, ulang yang kurang\n\nDatang sudah full makeup dan pakai outfit pertama, jadi menit pertama langsung terpakai."
-  },
-  {
-   "slug": "v3-viral-n2-intimate-dua-kubu",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "education",
-   "hook": "tradeoff",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Ada dua kubu soal intimate wedding, dan dua-duanya masuk akal.\n\nKubu pertama: intimate itu kecil. Keluarga inti, sahabat, cukup.\nKubu kedua: intimate itu soal kedekatan. Ratusan tamu pun tetap intimate, asal semuanya orang yang benar-benar kenal sama pengantin.\n\nKalian masuk kubu yang mana?"
-  },
-  {
-   "slug": "v3-viral-m2-simpan-beres-setelah-resepsi",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Amplop, kado, barang sewaan: urutan beres-beres begitu resepsi selesai (simpan):\n\n1. Amplop dibuka berdua dengan satu saksi keluarga, langsung dicatat\n2. Kado difoto dan dicatat, supaya ucapan terima kasih nggak terlewat\n3. Baju sewaan dikumpulkan di satu tas, catat tanggal kembalinya\n4. Tanya vendor: ada barang yang tertinggal atau dititipkan?\n5. Kirim terima kasih singkat ke keluarga inti dan vendor hari itu juga\n\nTunjuk satu orang keluarga buat memegang daftar ini sejak awal."
-  },
-  {
-   "slug": "v3-viral-n1-vendor-spotlight-foto-video",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "local",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Fotografer dan videografer wedding Surabaya, sekarang giliran karya kalian yang tampil 📸\n\nSatu balasan, satu karya: foto atau potongan video favorit kalian, plus satu kalimat tentang momen yang paling kalian tunggu tiap meliput pernikahan.\n\nCalon pengantin yang lagi cari vendor dokumentasi, simpan thread ini dan intip satu-satu dari kolom balasan."
-  },
-  {
-   "slug": "v3-viral-n3-networking-wo-kebiasaan-kecil",
-   "for_date": "2026-10-18",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Tiap WO punya satu kebiasaan kecil yang diam-diam menyelamatkan acara.\n\nAda yang selalu cetak rundown cadangan. Ada yang briefing keluarga inti sebelum tamu datang. Ada yang menunjuk satu orang khusus pegang barang titipan.\n\nWO dan EO Surabaya, kebiasaan kecil kalian apa? Ceritain di balasan, biar calon pengantin juga ikut belajar 🤍"
-  },
-  {
-   "slug": "v3-20261019-3-offer-venue-atau-allin",
-   "text": "Sewa venue saja atau paket all-in, ditentukan satu hal: seberapa banyak yang mau kamu urus sendiri.\n\nTAMO punya dua pilihan itu. Isi dan harga paket all-in kami jelaskan lewat WA. Tanya tanggal dulu aja, nggak harus langsung booking: sebut jenis acara, perkiraan tamu, dan bulan yang dibidik. Link ada di bio.",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "for_date": "2026-10-19",
-   "topic_tag": "surabaya",
-   "addon": "Tips: sebelum membandingkan, tulis dulu apa saja yang sudah pasti kamu punya dan siapa yang mengurusnya. Sisanya baru dicari atau ditanyakan."
-  },
-  {
-   "slug": "v3-20261021-5-notulen-keputusan-acara",
-   "text": "Keputusan acara keluarga sering hilang di grup chat. Coba catat 4 hal ini dalam satu catatan bersama (simpan):\n\n1. Tanggal dan jam yang sudah disepakati\n2. Perkiraan jumlah tamu dan siapa yang mengonfirmasi\n3. Siapa pegang tugas apa, lengkap dengan tenggat\n4. Hal yang belum diputuskan dan siapa yang memutuskan\n\nSatu catatan, satu rujukan bersama.",
-   "v": 3,
-   "pillar": "education",
-   "hook": "list",
-   "cta": "none",
-   "for_date": "2026-10-21",
-   "topic_tag": "surabaya",
-   "addon": "Tips tambahan: kirim ringkasan catatan ke grup tiap selesai rapat, biar yang nggak hadir tetap tahu keputusan terbaru."
-  },
-  {
-   "slug": "v3-20261019-pinned-mulai-di-sini",
-   "for_date": "2026-10-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "list",
-   "cta": "explicit",
-   "topic_tag": "surabaya",
-   "text": "Baru kenal TAMO? Mulai dari sini 🤍\n\nTAMO Venue di Citraland, Surabaya Barat, sudah jadi tempat 1000+ acara: wedding, lamaran, sangjit, ulang tahun, sampai acara kantor.\n\n- Muat 50-300 pax di 3 lantai, hall full AC\n- Pilihannya: venue saja, paket venue + katering, atau paket all-in (EO, dekor, lighting, katering) yang tinggal datang\n- Parkir muat 100+ mobil, valet gratis\n\nCek tanggal kosong dan pricelist lewat WA di link bio, langsung dibalas tim kami."
-  }
- ]
+  "config": {
+    "per_day": 5,
+    "paused": false,
+    "min_gap_h": 1,
+    "topic_tags": {
+      "default": "surabaya"
+    }
+  },
+  "queue": [
+    {
+      "slug": "t00-bantu-cari-venue",
+      "text": "Warga Surabaya yang lagi cari venue buat acara, sini merapat 🙋\n\nTulis di kolom balasan:\n1. Acara apa\n2. Kira-kira kapan\n3. Jumlah tamu\n\nKami jawab satu-satu, jujur, termasuk tips kalau ternyata TAMO bukan yang paling pas buat acaramu. Biar nggak pusing sendirian 🤍"
+    },
+    {
+      "slug": "t02-dear-threads-lamaran",
+      "text": "Dear Threads, tolong pertemukan kami sama kakak-kakak di Surabaya yang lagi pusing cari tempat lamaran 🙏\n\nKami TAMO, venue di Citraland, Surabaya Barat. Udah 500+ acara di sini, dari lamaran intim sampai resepsi 200+ tamu.\n\nLamaran mulai 12 juta, dekor & vendor boleh bawa sendiri.\n\nMention temenmu yang tahun ini mau lamaran ya 🤍"
+    },
+    {
+      "slug": "t01-weekend-vs-weekday",
+      "text": "Tim nikah weekend atau tim nikah weekday?\n\nJujur, weekday itu underrated. Tamu yang dateng beneran yang sayang sama kalian, dan tanggal juga lebih gampang dapet.\n\nKalian pilih yang mana, dan kenapa? 👇"
+    },
+    {
+      "slug": "t04-photoshoot-per-jam",
+      "text": "Info buat yang mau foto prewed, maternity, atau foto keluarga yang proper:\n\nTAMO bisa disewa per jam buat photoshoot, mulai 1 juta 📸\n\nRooftop kanopi kaca, salah satu spot favorit buat foto. Lokasinya di Citraland, Surabaya Barat.\n\nSimpan dulu, siapa tau nanti butuh."
+    },
+    {
+      "slug": "t05-rawonnya-mana",
+      "text": "Nikahan di Surabaya itu belum lengkap kalau belum ada yang nanya:\n\n\"Rawonnya mana?\"\n\nSebutin satu hal yang WAJIB ada di nikahan Surabaya versi kamu 👇"
+    },
+    {
+      "slug": "t06-corporate-hr",
+      "text": "Buat HR & tim event kantor di Surabaya: lagi cari tempat gathering, launching, atau seminar yang nggak kelihatan kayak ballroom hotel lagi?\n\nTAMO di Citraland muat 200+ orang, mulai 5 juta.\n\nWeekday masih banyak tanggal kosong. Tag rekan kantormu yang tiap tahun kebagian tugas cari venue 😅"
+    },
+    {
+      "slug": "t12-hot-take-tamu-kenal",
+      "text": "Hot take: nikahan yang tamunya kamu kenal semua lebih berkesan daripada nikahan yang tamunya cuma antri salaman terus pulang.\n\nSetuju atau nggak?"
+    },
+    {
+      "slug": "t03-bawa-vendor-sendiri",
+      "text": "Hal yang bikin banyak pasangan akhirnya pilih TAMO: boleh bawa dekor dan vendor sendiri.\n\nPunya temen fotografer? Tante yang jago dekor? MUA langganan dari SMA? Bawa aja.\n\nNikahannya punya kalian, bukan punya katalog paket.\n\nVendor siapa yang paling pengen kamu ajak di hari H?"
+    },
+    {
+      "slug": "t09-survey-venue-checklist",
+      "text": "5 hal yang wajib ditanya pas survey venue (simpan dulu):\n\n1. Kapasitas duduk vs berdiri\n2. Jam loading vendor mulai kapan\n3. Overtime dihitung gimana\n4. Boleh bawa vendor sendiri atau wajib paket\n5. Parkirnya muat berapa mobil\n\nAda yang mau nambahin? Yang udah pernah nikah pasti punya daftar sendiri 😆"
+    },
+    {
+      "slug": "t29-harga-terbuka",
+      "text": "Nanya harga venue itu sering bikin sungkan. Jadi harga TAMO (Citraland, Surabaya Barat) kami tulis terbuka aja ya 🤍\n\nMulai dari:\n- Wedding, lamaran, ulang tahun: 12 juta\n- Acara kantor: 5 juta\n- Photoshoot: 1 juta (sewa per jam)\n\nDekor dan vendor boleh bawa sendiri. Mau tanya detail atau tanggal? Tulis di balasan atau WA lewat link di bio, kami jawab satu-satu."
+    },
+    {
+      "slug": "t30-hari-batik",
+      "text": "2 Oktober itu Hari Batik Nasional 🤍\n\nBatik atau kebaya, kamu tim yang mana?\n\nKalau mau foto yang proper, TAMO bisa disewa per jam buat photoshoot, mulai 1 juta. Rooftop-nya yang berkanopi kaca juga bisa dipakai buat foto.\n\nInfo lengkap lewat WA di bio ya!"
+    },
+    {
+      "slug": "t31-checklist-sebelum-dp",
+      "text": "5 hal yang wajib dipastiin sebelum DP venue (simpan dulu):\n\n1. Tanggal dan jam pakai tertulis jelas\n2. DP bisa dipindah tanggal atau hangus kalau batal\n3. Biaya tambahan di luar harga sewa (listrik, kebersihan, parkir)\n4. Jam bongkar pasang dekor dan batas selesai acara\n5. Semua yang dijanjikan tertulis di perjanjian, bukan cuma di chat\n\nAda yang mau nambahin? 👇"
+    },
+    {
+      "slug": "t32-rooftop-sehari",
+      "text": "Kalau kamu punya rooftop berkanopi kaca sehari penuh, mau dipakai buat apa? 👀\n\nDi TAMO, rooftop-nya bisa dipakai buat akad, resepsi, atau photoshoot.\n\nCerita di balasan, kami penasaran!"
+    },
+    {
+      "slug": "t33-undangan-vendor",
+      "text": "Buat WO, MUA, dekorator, dan fotografer di Surabaya: klien yang pilih TAMO boleh bawa vendor mereka sendiri 🤍\n\nPernah handle acara di TAMO? Komen portofolio atau tag akun kalian di sini, kami mampir lihat.\n\nKlien kalian lagi cari venue? Info lengkap lewat WA di bio ya!"
+    },
+    {
+      "slug": "t34-lupa-di-lamaran",
+      "text": "3 hal yang sering kelupaan pas lamaran (simpan dulu):\n\n1. Titik kumpul rombongan keluarga sebelum masuk\n2. Jam datang rombongan, kasih jeda 30 menit biar nggak panik\n3. Tempat duduk orang tua dan titik foto keluarga\n\nLamaran di TAMO mulai 12 juta, dekor bebas atur sendiri. Info lengkap lewat WA di bio ya!\n\nAda yang mau nambahin?"
+    },
+    {
+      "slug": "t07-ulang-tahun",
+      "text": "Sweet seventeen, ulang tahun anak, ulang tahun Mama yang ke-60. Semuanya layak dirayain di tempat yang bagus.\n\nTAMO bisa buat pesta ulang tahun mulai 12 juta, muat 200+ tamu, dekornya bebas kamu atur.\n\nUlang tahun siapa yang pengen kamu rayain gede-gedean tahun ini?"
+    },
+    {
+      "slug": "t08-momen-kecil",
+      "text": "Setelah 500+ acara di TAMO, satu hal yang kami pelajari:\n\nYang paling diingat itu bukan dekornya. Tapi momen kecil. Papa yang nangis diam-diam. Sahabat yang pidatonya kepanjangan. Ponakan yang joget sendirian.\n\nMomen kecil apa yang paling kamu inget dari nikahan orang lain?"
+    },
+    {
+      "slug": "t16-dear-threads-ultah",
+      "text": "Dear Threads, pertemukan kami sama yang lagi nyiapin ulang tahun Papa, Mama, atau Oma tahun depan 🙏\n\nTAMO di Citraland, Surabaya Barat. Muat 200+ tamu, dekor dan vendor bebas bawa sendiri. Ulang tahun mulai 12 juta.\n\nInfo lengkap WA lewat link di bio ya."
+    },
+    {
+      "slug": "t22-year-end-kantor",
+      "text": "Akhir tahun = musim gathering kantor.\n\nKalau tim kamu lagi cari tempat year-end party, TAMO di Citraland, Surabaya Barat bisa. Muat 200+ orang, corporate mulai 5 juta, dekor dan vendor bebas atur sendiri.\n\nCek tanggal WA lewat link di bio ya."
+    },
+    {
+      "slug": "v2-20261006-1-urutan-budget",
+      "text": "Urutan nyusun budget nikah biar nggak kaget di akhir (simpan dulu):\n\n1. Tentukan dulu jumlah tamu\n2. Pilih 2-3 prioritas (misalnya venue, dokumentasi, dekor)\n3. Alokasikan dana ke prioritas itu duluan\n4. Sisakan dana cadangan untuk biaya tak terduga\n5. Catat semua penawaran di satu sheet",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-06",
+      "addon": "Tips tambahan: minta penawaran tertulis dari tiap vendor, lalu bandingkan item yang sama, jangan cuma total harganya."
+    },
+    {
+      "slug": "v2-20261006-2-sisa-libur-natal",
+      "text": "Sisa kalender 2026: tanggal merah berikutnya tinggal Natal 🎄\n\nJumat 25 Desember, ditambah cuti bersama Kamis 24 Desember. Jadi ada libur 4 hari, 24-27 Desember.\n\nBuat yang mau bikin acara akhir tahun atau kumpul keluarga besar, mulai catat tanggalnya dari sekarang.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-06",
+      "evidence": "https://www.detik.com/hikmah/khazanah/d-8121287/skb-3-menteri-libur-nasional-dan-cuti-bersama-2026-download-di-sini"
+    },
+    {
+      "slug": "v2-20261006-3-foto-rooftop-jam",
+      "text": "Foto di bawah rooftop berkanopi kaca, sewanya per jam, mulai 1 juta 📸\n\nPas buat wisuda, pasangan baru, sahabat satu geng, atau keluarga besar yang jarang kumpul lengkap. Siapkan dulu konsep dan daftar pose, biar tiap jamnya terpakai maksimal.\n\nInfo lengkap lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-06",
+      "addon": "Biar sesi foto lancar, siapkan daftar pose dan referensi foto sebelum hari H. Waktu per jam itu singkat kalau baru mikir pose di lokasi."
+    },
+    {
+      "slug": "v2-20261006-4-timeline-h12",
+      "text": "Timeline persiapan nikah, versi ringkas (simpan):\n\nH-12 bulan: tentukan budget, jumlah tamu, dan venue\nH-9 bulan: booking vendor utama\nH-6 bulan: busana dan undangan mulai digarap\nH-3 bulan: kirim undangan, finalkan rundown\nH-1 bulan: konfirmasi ulang semua vendor\nH-1: cek perlengkapan, istirahat cukup",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-06",
+      "addon": "Kalau bisa, tunjuk satu orang sebagai penanggung jawab hari H. Jadi pengantin nggak perlu ngurusin hal kecil di tengah acara."
+    },
+    {
+      "slug": "v2-20261006-5-weekday-kosong",
+      "text": "Fleksibel soal hari? Coba pertimbangkan weekday.\n\nDi TAMO weekday masih banyak tanggal kosong, jadi lebih leluasa memilih hari.\n\nCek tanggal lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-06"
+    },
+    {
+      "slug": "v2-20261007-1-hitung-tamu",
+      "text": "Cara hitung jumlah tamu biar undangan nggak kelebihan atau kekurangan (simpan):\n\n1. Daftar tamu per kelompok: keluarga A, keluarga B, teman, kantor\n2. Tandai mana yang pasti diundang dan mana yang cadangan\n3. Kirim undangan yang pasti dulu\n4. Minta konfirmasi hadir (RSVP) jauh sebelum hari H\n5. Baru isi slot kosong dari daftar cadangan",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-07",
+      "addon": "Jangan hitung semua undangan pasti hadir. Cek jumlah tamu dengan kapasitas venue dan siapkan sedikit ruang cadangan."
+    },
+    {
+      "slug": "v2-20261007-2-angka-kembar",
+      "text": "Tanggal cantik sisa 2026 (cek harinya dulu):\n\n10-10-2026: Sabtu (tinggal 3 hari lagi)\n11-11-2026: Rabu\n12-12-2026: Sabtu\n\nBuat yang suka tanggal angka kembar, simpan ya. Kalau mau acara di 11-11 atau 12-12, mulai direncanakan dari sekarang.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-07",
+      "evidence": "https://www.timeanddate.com/calendar/?year=2026&country=1"
+    },
+    {
+      "slug": "v2-20261007-3-tanya-vendor",
+      "text": "5 pertanyaan ke vendor (dekor, MUA, fotografer) sebelum deal (simpan):\n\n1. Tanggal dan jam kerja sudah pasti tersedia?\n2. Apa saja yang termasuk di paket, tertulis ya\n3. Berapa kali revisi atau preview?\n4. Jadwal pembayarannya bagaimana?\n5. Kalau berhalangan, ada pengganti?",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-07"
+    },
+    {
+      "slug": "v2-20261007-4-townhall-kantor",
+      "text": "Townhall, launching produk, atau rapat besar seluruh divisi?\n\nTAMO muat 200+ orang, jadi cocok buat acara kantor yang pesertanya banyak. Corporate mulai 5 juta.\n\nPricelist lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-07",
+      "addon": "Buat HR: kirim rundown ke semua pengisi acara minimal sehari sebelumnya, biar urutan dan durasi nggak molor."
+    },
+    {
+      "slug": "v2-20261007-5-akad-rooftop",
+      "text": "Akad, resepsi, sampai sesi foto, semua bisa di bawah rooftop berkanopi kaca 🤍\n\nBuat pasangan yang pengennya simpel dan nggak pindah-pindah lokasi: rooftop TAMO bisa untuk ketiganya. Wedding mulai 12 juta.\n\nPricelist lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-07"
+    },
+    {
+      "slug": "v2-20261008-1-rundown-resepsi",
+      "text": "Rundown resepsi yang rapi itu bisa dimulai dari 6 blok ini (simpan):\n\n1. Tamu datang dan registrasi\n2. Pembukaan dan sambutan keluarga\n3. Prosesi utama\n4. Makan dan hiburan\n5. Sesi foto bersama keluarga dan tamu\n6. Penutup\n\nTulis perkiraan durasi tiap blok, lalu bagikan ke MC, vendor, dan keluarga inti.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-08",
+      "addon": "Tips tambahan: tunjuk satu orang sebagai pemegang rundown di hari H, biar MC dan vendor punya satu tempat bertanya."
+    },
+    {
+      "slug": "v2-20261008-2-seserahan-susun",
+      "text": "Mau susun seserahan tapi bingung mulai dari mana? Ini urutan yang biasa dipakai (simpan):\n\n1. Diskusikan daftar dengan keluarga kedua pihak\n2. Catat ukuran dan selera calon pasangan\n3. Atur budget per item\n4. Beli bertahap, jangan sekaligus\n5. Foto dan cek ulang semua barang sebelum dikemas\n\nSeserahan adalah tradisi yang tiap keluarga punya gayanya sendiri, jadi sesuaikan dengan kesepakatan bersama.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-08"
+    },
+    {
+      "slug": "v2-20261008-4-lamaran-intim",
+      "text": "Bayangin hari lamaranmu berjalan tenang: kedua keluarga sempat ngobrol panjang, cincin disematkan, lalu foto bersama sambil tersenyum lega 🤍\n\nLamaran mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-08",
+      "addon": "Buat yang lagi hitung tamu: tulis dulu daftar keluarga inti dua pihak, baru tentukan ruangnya."
+    },
+    {
+      "slug": "v2-20261008-5-seminar-kantor",
+      "text": "Peserta seminar atau pelatihan banyak? Ruangnya harus lega supaya narasumber, panitia, dan peserta sama-sama nyaman, dari sesi pembukaan sampai tanya jawab, termasuk saat sesi diskusi kelompok.\n\nAcara kantor / corporate mulai 5 juta. Cek tanggal lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-08"
+    },
+    {
+      "slug": "v2-20261008-3-merah-sabtu-2027",
+      "text": "3 tanggal merah 2027 yang jatuh di hari Sabtu (simpan buat yang lagi incar tanggal acara):\n\n- Sabtu, 6 Februari: Tahun Baru Imlek\n- Sabtu, 1 Mei: Hari Buruh\n- Sabtu, 25 Desember: Natal\n\nKalau Sabtu pilihanmu bertepatan dengan salah satunya, pertimbangkan jadwal keluarga dan tamu yang mungkin bepergian.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-08",
+      "evidence": "https://www.merahputih.com/post/read/libur-nasional-cuti-bersama-2027"
+    },
+    {
+      "slug": "v2-20261009-1-pilih-hari-acara",
+      "text": "Bingung milih hari buat acara? Urutan ini biasanya paling aman (simpan):\n\n1. Tanya dulu orang yang paling harus hadir: orang tua, kakek-nenek, keluarga inti\n2. Cek jadwal ujian, dinas luar, atau cuti kerja mereka\n3. Siapkan 2-3 hari pilihan, bukan satu\n4. Baru hubungi venue dan vendor utama dengan opsi itu\n5. Kabari semua yang diundang secepatnya",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-09",
+      "addon": "Tips tambahan: kalau tamu banyak yang datang dari luar kota, kabari tanggalnya lebih awal supaya mereka sempat atur tiket dan penginapan."
+    },
+    {
+      "slug": "v2-20261009-2-long-weekend-2027",
+      "text": "Long weekend 2027 yang perlu dicatat sebelum nentuin tanggal acara dan kirim undangan (simpan):\n\n- 1-3 Januari (Tahun Baru)\n- 5-7 Februari (Imlek, termasuk cuti bersama Jumat 5 Februari)\n- 25-28 Maret (cuti bersama Kamis 25 Maret, Wafat Yesus Kristus, Paskah)\n- 15-20 Mei (Idul Adha, Waisak, dan cuti bersama)\n\nSumber: SKB 3 Menteri 2027.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-09",
+      "evidence": "https://katadata.co.id/lifestyle/varia/6aab70674840d/daftar-long-weekend-2027-ada-6-libur-panjang-dari-januari-desember"
+    },
+    {
+      "slug": "v2-20261009-3-pic-hari-h",
+      "text": "Biar hari H nggak semua nanya ke pengantin atau tuan rumah, bagi tugas ke keluarga dari jauh hari (simpan):\n\n1. Satu orang jaga meja tamu dan buku tamu\n2. Satu orang jadi penghubung vendor\n3. Satu orang atur rombongan keluarga\n4. Satu orang pegang dokumen dan perlengkapan cadangan\n\nKasih nama dan nomor kontaknya di rundown.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-09"
+    },
+    {
+      "slug": "v2-20261009-5-reuni-200",
+      "text": "Reuni angkatan yang hadirnya ratusan? Cari ruang yang cukup lega, supaya obrolan nggak terpotong antrean masuk.\n\nTAMO muat 200+ orang. Alamat: Jl. Royal Park TL1/7-8, Lidah, Citraland. Tanya-tanya lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-09"
+    },
+    {
+      "slug": "v2-20261009-4-foto-keluarga",
+      "text": "Daftar foto keluarga yang sering kelupaan di hari H (simpan):\n\n1. Pengantin atau tuan rumah dengan orang tua dan kakek-nenek\n2. Keluarga inti kedua pihak\n3. Keluarga besar, per cabang keluarga\n4. Sahabat dan rekan terdekat\n\nTulis daftarnya, lalu minta satu orang keluarga memanggil tiap kelompok. Jadi fotografer nggak perlu mencari-cari orang.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-09",
+      "addon": "Tips tambahan: sebut jam sesi foto keluarga di rundown, biar semua orang tahu kapan harus kumpul."
+    },
+    {
+      "slug": "v2-20261010-1-cuti-bersama-2027",
+      "text": "8 cuti bersama 2027, siapa tahu mengubah rencana tanggal acaramu (simpan):\n\n- Jumat, 5 Februari\n- Selasa, 9 Maret\n- Jumat, 12 Maret\n- Senin, 15 Maret\n- Kamis, 25 Maret\n- Selasa, 18 Mei\n- Rabu, 19 Mei\n- Jumat, 24 Desember\n\nCuti bersama wajib untuk ASN, untuk swasta mengikuti kebijakan kantor masing-masing.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-10",
+      "evidence": "https://www.antaranews.com/berita/5748023/daftar-libur-nasional-2027-dan-cuti-bersama-total-26-hari",
+      "addon": "Sumber: SKB 3 Menteri 2027 (ditandatangani 15 September 2026)."
+    },
+    {
+      "slug": "v2-20261010-2-checklist-h1",
+      "text": "Malam sebelum acara, cek 5 hal ini (simpan):\n\n1. Rundown final sudah dikirim ke MC dan vendor\n2. Nomor kontak penanggung jawab tiap vendor tersimpan\n3. Perlengkapan keluarga dan dokumen sudah dikemas\n4. Jam tiba semua vendor sudah dikonfirmasi ulang\n5. Pengantin atau tuan rumah tidur cukup",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-10"
+    },
+    {
+      "slug": "v2-20261010-4-dana-cadangan",
+      "text": "Pos budget yang sering dilupakan: dana cadangan (simpan).\n\nSisihkan satu pos khusus untuk hal tak terduga, misalnya tamu bertambah, vendor minta tambahan jam, atau perlengkapan yang ternyata kurang.\n\nCatat di spreadsheet yang sama dengan budget utama, dan jangan dipakai kecuali memang mendesak.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-10",
+      "addon": "Tips tambahan: tiap ada pengeluaran baru, catat di hari yang sama biar total budget selalu terlihat jelas."
+    },
+    {
+      "slug": "v2-20261010-5-farewell-kantor",
+      "text": "Perpisahan rekan lama, sambutan rekan baru, perayaan target tercapai: semua bisa jadi momen hangat.\n\nMulai 5 juta untuk acara corporate. Cek tanggal lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-10"
+    },
+    {
+      "slug": "v2-20261010-3-timeline-h7",
+      "text": "Seminggu terakhir sebelum acara, ini yang perlu beres (simpan):\n\nH-7: konfirmasi akhir jumlah tamu ke semua pihak\nH-5: rundown terkirim ke MC dan keluarga inti\nH-3: cincin, dokumen, dan souvenir dikumpulkan di satu tas\nH-2: cek ulang pelunasan vendor\nH-1: tidur cukup, jangan begadang",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-10",
+      "addon": "Tips tambahan: simpan nomor semua vendor dalam satu catatan, lalu bagikan ke satu orang keluarga yang dipercaya. Jadi di hari H, pengantin nggak perlu jadi pusat pertanyaan."
+    },
+    {
+      "slug": "v2-20261011-1-rundown-lamaran",
+      "text": "Rundown lamaran yang rapi itu cukup 6 blok (simpan):\n\n1. Rombongan keluarga tiba dan disambut\n2. Pembukaan oleh MC, perkenalan kedua keluarga\n3. Penyampaian maksud kedatangan\n4. Tukar cincin dan penyerahan seserahan\n5. Doa dan ramah tamah\n6. Foto bersama keluarga\n\nTiap blok kasih perkiraan menit, supaya acaranya nggak molor.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-11"
+    },
+    {
+      "slug": "v2-20261011-2-tamu-lamaran",
+      "text": "Cara hitung jumlah tamu lamaran, mulai dari lingkaran terdekat (simpan):\n\n1. Keluarga inti kedua pihak\n2. Paman, bibi, dan sepupu terdekat\n3. Sesepuh atau tokoh keluarga yang dihormati\n4. Sahabat dekat, kalau memang diundang\n\nJumlahkan per kelompok, lalu tambah sedikit cadangan kursi. Lamaran biasanya lebih intim dari resepsi, jadi daftarnya bisa jauh lebih pendek.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-11",
+      "addon": "Tip: tanya dulu ke pihak keluarga lain berapa orang yang akan ikut rombongan. Angka yang pasti dari awal bikin hitungan kursi dan konsumsi jauh lebih tenang."
+    },
+    {
+      "slug": "v2-20261011-3-libur-maret-2027",
+      "text": "Maret 2027: Nyepi di Senin 8 Maret, lalu Idulfitri 10-11 Maret diapit cuti bersama, dan ditutup cuti bersama Senin 15 Maret. Hasilnya libur sampai delapan hari berturut-turut, atau sepuluh hari kalau dihitung dari Sabtu 6 Maret (simpan).\n\nBuat yang lagi atur tanggal acara, banyak tamu kemungkinan lagi mudik atau liburan. Cuti bersama swasta mengikuti kebijakan kantor.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-11",
+      "evidence": "https://economy.okezone.com/read/2026/09/16/320/3242330/libur-panjang-10-hari-di-maret-2027-catat-tanggalnya?page=all",
+      "addon": "Catatan: tanggal Idulfitri mengikuti penetapan pemerintah, jadi pantau pengumumannya menjelang waktunya sebelum kirim undangan."
+    },
+    {
+      "slug": "v2-20261011-4-budget-lamaran",
+      "text": "Anggaran lamaran sering bocor di biaya receh (simpan).\n\nSelain tempat dan cincin, coba catat dari awal:\n- ongkos transport rombongan\n- parsel dan souvenir untuk keluarga\n- tata rias dan busana\n- foto dan video\n\nBiaya kecil begini kalau dijumlah bisa lumayan, jadi lebih aman ditulis sebelum hari H.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-11",
+      "addon": "Lamaran mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio."
+    },
+    {
+      "slug": "v2-20261011-5-tamo-4-poin",
+      "text": "Empat hal tentang TAMO buat yang lagi shortlist venue:\n\n1. Sudah 500+ acara\n2. Muat 200+ orang\n3. Rooftop berkanopi kaca untuk akad, resepsi, photoshoot\n4. Dekor dan vendor boleh bawa sendiri\n\nInfo lengkap lewat WA di link bio.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-11"
+    },
+    {
+      "slug": "v2-20261012-1-rundown-akad",
+      "text": "Rundown acara akad tanpa resepsi, versi ringkas (simpan):\n\n- Pembuka: keluarga dan tamu tiba, MC membuka\n- Inti: prosesi sesuai arahan keluarga dan pihak yang memimpin\n- Penutup: ramah tamah singkat, lalu sesi foto\n\nKarena acaranya singkat, bagian foto perlu daftar urutan sendiri.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-12",
+      "addon": "Tip: tunjuk satu orang keluarga untuk mengatur urutan foto. Biar sesi foto cepat dan semua orang tua kebagian di foto."
+    },
+    {
+      "slug": "v2-20261012-2-timeline-h30",
+      "text": "Persiapan 30 hari menjelang acara, urutan kerjanya (simpan):\n\nH-30: cek ulang kesepakatan tertulis dengan tiap vendor, minta konfirmasi\nH-21: fitting busana yang terakhir\nH-14: ingatkan tamu, kunci jumlah tamu\nH-10: draf rundown ke MC dan keluarga inti",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-12",
+      "addon": "Tips tambahan: simpan semua kesepakatan vendor (jam, jumlah orang, pembayaran) di satu folder. Gampang dicek kalau ada yang lupa."
+    },
+    {
+      "slug": "v2-20261012-3-peserta-kantor",
+      "text": "Panitia gathering kantor, hitung pesertanya begini (simpan):\n\nMulai dari daftar karyawan per divisi, kurangi yang dinas luar atau cuti, lalu tambahkan mitra, klien, dan keluarga bila diundang. Jangan lupa panitia dan pengisi acara ikut dihitung.\n\nMinta konfirmasi hadir dua minggu sebelumnya, baru pilih ruangan dari angka akhirnya.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-12"
+    },
+    {
+      "slug": "v2-20261012-4-libur-mei-2027",
+      "text": "Pekan 17-20 Mei 2027 penuh tanggal merah: Iduladha Senin, cuti bersama Selasa dan Rabu, Waisak Kamis. Kalau Jumat 21 Mei diambil cuti, libur bisa sembilan hari (15-23 Mei) (simpan).\n\nBuat yang lagi cari tanggal acara, tamu kemungkinan lagi bepergian. Cuti bersama swasta tergantung kantor.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-12",
+      "evidence": "https://www.rctiplus.com/news/detail/ekonomi/5477837/jadwal-long-weekend-2027--ada-libur-panjang-9-hari-",
+      "addon": "Catatan: tanggal Iduladha mengikuti penetapan pemerintah, jadi pantau pengumumannya sebelum kirim undangan."
+    },
+    {
+      "slug": "v2-20261012-5-harga-wedding",
+      "text": "Cek kisaran biaya dulu sebelum survey: wedding di TAMO mulai 12 juta. Lokasi Jl. Royal Park TL1/7-8, Lidah. Sudah 500+ acara. WA di link bio untuk info lengkap.",
+      "v": 2,
+      "pillar": "offer",
+      "for_date": "2026-10-12"
+    },
+    {
+      "slug": "v2-20261013-1-info-undangan",
+      "text": "Info yang wajib ada di undangan biar tamu nggak banyak nanya (simpan):\n\n1. Nama penyelenggara dan jenis acara\n2. Hari, tanggal, dan jam mulai\n3. Nama tempat dan alamat lengkap, plus link peta\n4. Dress code atau tema warna, kalau ada\n5. Kontak yang bisa dihubungi untuk konfirmasi hadir\n\nCek ulang tanggal dan jam sebelum dicetak atau dikirim.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-13",
+      "addon": "Tips tambahan: kirim undangan digital dulu ke keluarga inti, minta mereka cek ejaan nama dan gelar sebelum disebar ke semua tamu.",
+      "topic_tag": "Wedding Threads"
+    },
+    {
+      "slug": "v2-20261013-2-bulan-sepi-2027",
+      "text": "5 bulan di 2027 yang tanpa tanggal merah dan cuti bersama (simpan): April, Juli, September, Oktober, November.\n\nBuat yang lagi cari tanggal acara, di bulan-bulan itu tamu cenderung nggak terbentur libur panjang atau jadwal bepergian. Tetap cek kalender sekolah dan kantor tamu inti ya.\n\nSumber: SKB 3 Menteri libur nasional dan cuti bersama 2027.",
+      "v": 2,
+      "pillar": "calendar",
+      "for_date": "2026-10-13",
+      "evidence": "https://www.rctiplus.com/news/detail/okezone/5476467/catat--ini-5-bulan-di-2027-yang-tak-punya-libur-nasional-dan-cuti-bersama",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v2-20261013-3-rundown-ultah-ortu",
+      "text": "Rundown ulang tahun orang tua yang hangat, cukup 5 blok (simpan):\n\n1. Tamu datang, foto bersama di area depan\n2. Pembukaan singkat oleh MC atau anak tertua\n3. Sambutan keluarga dan doa\n4. Tiup lilin, potong kue, foto keluarga\n5. Makan bersama dan ngobrol santai\n\nSisipkan slideshow foto lama sebelum blok 3, biasanya jadi momen yang paling diingat.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-13",
+      "addon": "Ulang tahun mulai 12 juta di TAMO, Citraland. Info lengkap lewat WA di link bio.",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v2-20261013-4-h90-persiapan",
+      "text": "Persiapan nikah di rentang H-90 sampai H-31, urutan kerjanya (simpan):\n\nH-90: finalkan desain undangan, fitting pertama baju pengantin dan keluarga\nH-75: rapikan daftar tamu, cek ulang alamat dan nomornya\nH-60: sebar undangan, konfirmasi vendor secara tertulis\nH-45: susun draf prosesi dan rundown, pantau konfirmasi hadir\nH-31: cek sisa pembayaran vendor dan jadwalnya\n\nSesuaikan dengan kondisi keluarga masing-masing.",
+      "v": 2,
+      "pillar": "education",
+      "for_date": "2026-10-13",
+      "topic_tag": "Wedding Threads"
+    },
+    {
+      "slug": "v3-20261013-rundown-gathering",
+      "for_date": "2026-10-13",
+      "v": 3,
+      "pillar": "series",
+      "hook": "list",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "text": "Family gathering kantor setengah hari, urutan acaranya biar nggak garing (simpan):\n\n1. Registrasi, bagi name tag dan kelompok\n2. Pembukaan MC dan sambutan pimpinan, singkat saja\n3. Ice breaking per kelompok\n4. Makan siang\n5. Games antar divisi\n6. Pengumuman pemenang, doorprize, foto bersama\n\nSambutan pimpinan cukup sekali di awal. Kalau dipecah dua, energi peserta biasanya turun.",
+      "addon": "Mau template rundown gathering yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
+    },
+    {
+      "slug": "v2-20261014-1-urutan-booking-vendor",
+      "text": "Urutan booking vendor nikah, mana yang dikunci duluan (simpan):\n\n1. Tanggal dan tempat acara\n2. Fotografer dan videografer\n3. Dekorasi\n4. MUA dan busana\n5. MC dan hiburan\n\nAlasannya: tanggal menentukan semua jadwal lain, dan vendor yang jadwalnya padat biasanya paling cepat terisi. Konfirmasi tiap vendor secara tertulis.",
+      "pillar": "series",
+      "hook": "list",
+      "cta": "soft",
+      "addon": "Mau checklist booking vendor yang tinggal dicentang? Minta lewat WA di link bio ya 🤍",
+      "v": 3,
+      "for_date": "2026-10-14",
+      "topic_tag": "Wedding Threads",
+      "image": "https://tamo-assets.vercel.app/ig/threads_TH01.jpg"
+    },
+    {
+      "slug": "v2-20261014-2-anniversary-ortu",
+      "text": "Anniversary orang tua yang ke-25 atau ke-30 itu layak dirayakan bareng keluarga besar 🤍\n\nIde sederhana: minta tiap anak dan cucu kirim satu foto lama, jadikan slideshow, lalu putar sebelum tiup lilin. Rooftop berkanopi kaca di TAMO bisa jadi latar foto keluarganya.\n\nTanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
+      "pillar": "ideas",
+      "hook": "other",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-14",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v2-20261014-3-natal-2027",
+      "text": "Penutup 2027 bisa jadi akhir pekan tiga hari: 24 Desember berstatus cuti bersama, lalu 25 Desember Natal jatuh di hari Sabtu (simpan).\n\nUntuk reuni atau kumpul keluarga besar di pekan itu, kabari tamu yang tinggal jauh lebih awal supaya mereka sempat atur tiket dan cuti.\n\nSumber: SKB 3 Menteri.",
+      "pillar": "calendar",
+      "hook": "local",
+      "cta": "none",
+      "evidence": "https://news.detik.com/berita/d-8664018/daftar-6-long-weekend-di-2027-catat-tanggalnya",
+      "v": 3,
+      "for_date": "2026-10-14",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v2-20261014-4-alur-tamu",
+      "text": "4 titik di acara yang paling sering bikin tamu antre atau bingung (simpan):\n\n1. Meja registrasi atau penerima tamu\n2. Area foto bersama pengantin atau tuan rumah\n3. Area makan\n4. Pintu keluar saat acara selesai\n\nSebelum hari H, jalan dari pintu masuk sampai pintu keluar sambil bayangkan 100 tamu datang bersamaan. Titik yang menyempit biasanya langsung kelihatan.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "addon": "Tips tambahan: tugaskan satu orang keluarga yang kenal banyak tamu di meja registrasi, supaya tamu langsung diarahkan ke tempat duduk.",
+      "v": 3,
+      "for_date": "2026-10-14",
+      "topic_tag": "surabaya",
+      "image": "https://tamo-assets.vercel.app/ig/threads_TH02.jpg"
+    },
+    {
+      "slug": "v2-20261014-5-lamaran-lantai3",
+      "text": "Lamaran dengan 50-100 tamu: di TAMO ada hall lantai 3 yang lebih kecil untuk lamaran dan pemberkatan.\n\nLamaran mulai 12 juta, bebas bawa dekor dan vendor sendiri. Kalau tamunya bertambah, hall terbesar di lantai 1-2 biasanya muat 100-250 tamu.\n\nCek tanggal dan pricelist lewat WA di link bio.",
+      "pillar": "offer",
+      "hook": "list",
+      "cta": "explicit",
+      "v": 3,
+      "for_date": "2026-10-14",
+      "topic_tag": "Wedding Threads"
+    },
+    {
+      "slug": "v3-20261013-conv-budget-kaget",
+      "for_date": "2026-10-13",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "question",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Yang udah nikah, spill dong: pos budget mana yang paling bikin kaget? 👀\n\nMakanan, dekor, baju, dokumentasi, atau malah biaya yang sama sekali nggak kepikiran di awal?\n\nJawaban kalian bisa jadi bekal buat yang lagi planning, biar budgetnya nggak jebol."
+    },
+    {
+      "slug": "v3-20261013-conv-acara-keluarga",
+      "for_date": "2026-10-13",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "question",
+      "cta": "none",
+      "topic_tag": "surabaya",
+      "text": "Warga Surabaya, acara keluarga paling berkesan yang pernah kalian datangi itu acara apa? 🎉\n\nUlang tahun oma, reuni keluarga besar, syukuran rumah baru, sweet seventeen...\n\nCeritain satu momen yang sampai sekarang masih keinget."
+    },
+    {
+      "slug": "v3-20261013-conv-vendor-syukur",
+      "for_date": "2026-10-13",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "question",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Vendor nikah mana yang paling kalian syukuri udah dibooking duluan? 🤍\n\nMUA, fotografer, WO, MC, atau yang lain? Ceritain alasannya.\n\nCalon pengantin yang lagi nyusun daftar vendor pasti kebantu banget sama jawaban kalian."
+    },
+    {
+      "slug": "v3-20261015-1-agustus-2027",
+      "text": "Agustus 2027 cuma punya dua tanggal merah (simpan):\n\n- Minggu, 15 Agustus: Maulid Nabi Muhammad SAW\n- Selasa, 17 Agustus: Hari Kemerdekaan RI\n\nTidak ada cuti bersama di bulan itu. Jadi 17 Agustus yang jatuh di hari Selasa belum otomatis jadi long weekend, tamu harus ambil cuti sendiri.\n\nBuat yang lagi atur tanggal acara, tanyakan dulu rencana tamu inti.",
+      "pillar": "calendar",
+      "hook": "local",
+      "cta": "none",
+      "topic_tag": "surabaya",
+      "evidence": "https://nasional.kompas.com/read/2026/09/15/14232211/ini-daftar-lengkap-hari-libur-nasional-2027-beserta-jadwal-cuti-bersama",
+      "v": 3,
+      "for_date": "2026-10-15"
+    },
+    {
+      "slug": "v3-20261015-2-rencana-hujan",
+      "text": "Rencana cadangan kalau hujan untuk acara, 5 poin ini (simpan):\n\n1. Tentukan batas jam: kapan keputusan pindah ke opsi dalam ruangan\n2. Siapkan jalur masuk tamu yang terlindung dari hujan\n3. Pastikan dekor dan perlengkapan audio aman dari air\n4. Kabari vendor dan MC soal rencana B sebelum hari H\n5. Sediakan tempat untuk payung dan jas hujan tamu",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "topic_tag": "surabaya",
+      "addon": "Tips tambahan: tulis rencana B di rundown, bukan cuma di kepala satu orang. Jadi siapa pun yang pegang rundown tahu harus bagaimana.",
+      "v": 3,
+      "for_date": "2026-10-15",
+      "image": "https://tamo-assets.vercel.app/ig/threads_TH03.jpg"
+    },
+    {
+      "slug": "v3-20261015-3-baby-shower",
+      "text": "Satu hal yang sering terlupa di baby shower dan gender reveal: foto bersama kakek-nenek dan calon orang tua 🤍\n\nJadwalkan di awal, sebelum tamu mulai ngobrol dan berpencar.\n\nKalau keluarga besar mau ikut hadir, TAMO muat 50-300 tamu dan boleh bawa dekor sendiri. Tanya tanggal dulu aja lewat WA di link bio, nggak harus langsung booking.",
+      "pillar": "ideas",
+      "hook": "insider",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "v": 3,
+      "for_date": "2026-10-15"
+    },
+    {
+      "slug": "v3-20261015-vendor-spotlight-mua",
+      "for_date": "2026-10-15",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "question",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "MUA Surabaya, spill portofolio kalian dong 💄\n\nBuat calon pengantin dan keluarga yang lagi cari MUA untuk lamaran, sangjit, atau resepsi, kolom komentar ini bisa jadi katalog.\n\nFormat biar gampang dilihat: nama, spesialisasi (bride, engagement, family), area, plus satu foto hasil favorit kalian."
+    },
+    {
+      "slug": "v3-20261015-4-rundown-sweet17",
+      "text": "Sweet seventeen yang berkesan biasanya punya alur jelas (simpan):\n\n1. Tamu datang dan foto di area depan\n2. Orang tua menyambut\n3. Entrance si ulang tahun\n4. Tiup lilin\n5. Makan, games, penampilan teman\n6. Foto sahabat dan keluarga\n\nBatasi tiap sesi dengan menit, supaya pesta tetap hidup sampai penutup.",
+      "pillar": "series",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-15",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261016-1-rundown-reuni",
+      "text": "Reuni angkatan yang bikin orang betah sampai akhir, susunannya begini (simpan):\n\nPertama, name tag dengan foto zaman sekolah buat pemecah suasana. Lalu sambutan singkat ketua panitia, makan, kuis nostalgia, dan slideshow foto lama.\n\nTutup dengan foto angkatan, lalu sisakan waktu ngobrol bebas yang panjang. Itu alasan utama orang datang.",
+      "pillar": "series",
+      "hook": "list",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-16",
+      "topic_tag": "surabaya",
+      "addon": "Reuni dengan ratusan alumni? Hall terbesar TAMO di lantai 1-2 biasanya muat 100-250 tamu, boleh bawa dekor dan vendor sendiri. Tanya tanggal lewat WA di link bio ya."
+    },
+    {
+      "slug": "v3-20261016-2-tas-darurat",
+      "text": "Tas darurat hari H, isinya apa saja (simpan):\n\n1. Peniti, jarum dan benang, lem kain\n2. Tisu, tisu basah, plester luka\n3. Powerbank dan charger\n4. Obat pribadi dan minyak angin\n5. Bedak, lipstik, dan minyak blotting untuk touch-up\n6. Sepatu cadangan yang lebih nyaman\n\nTitipkan ke satu orang keluarga yang selalu dekat, bukan ke pengantin.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-16",
+      "topic_tag": "Wedding Threads",
+      "addon": "Tips tambahan: sediakan camilan kecil dan air minum untuk pengantin. Hari H sering lewat jam makan tanpa terasa."
+    },
+    {
+      "slug": "v3-20261016-3-launching-produk",
+      "text": "Launching produk atau press gathering? Ruangnya perlu terasa seperti brand-mu.\n\nKamu bebas bawa dekor dan vendor sendiri ke TAMO. Kapasitas 50-300 tamu, tarif acara kantor mulai 5 juta.\n\nPenasaran soal tanggal? Kirim pesan lewat WhatsApp di link bio.",
+      "pillar": "offer",
+      "hook": "other",
+      "cta": "explicit",
+      "v": 3,
+      "for_date": "2026-10-16",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261016-4-syukuran",
+      "text": "Rumah baru atau usaha baru, dua alasan bagus buat syukuran 🤍\n\nBayangkan foto keluarga di rooftop berkanopi kaca, jadi kenang-kenangan atau bahan konten usaha barumu. Di TAMO kamu bebas bawa dekor dan vendor sendiri.\n\nBoleh tanya-tanya dulu soal tanggal lewat WhatsApp di link bio, tanpa harus booking.",
+      "pillar": "ideas",
+      "hook": "other",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-16",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261016-5-wisuda",
+      "text": "Wisuda itu momen sekali seumur hidup, sayang kalau fotonya cuma di depan gedung kampus 🎓\n\nIde: syukuran kecil bareng keluarga, lalu sesi foto keluarga di rooftop berkanopi kaca. TAMO bisa disewa per jam untuk photoshoot, mulai 1 juta.\n\nTanya jadwal lewat WA di link bio, nggak harus langsung booking.",
+      "pillar": "ideas",
+      "hook": "story",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-16",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261017-1-brief-mc",
+      "text": "Sebelum hari H, 5 hal ini sebaiknya sudah ada di tangan MC (simpan):\n\n1. Rundown final, lengkap dengan jamnya\n2. Ejaan dan cara baca nama keluarga serta tamu kehormatan\n3. Siapa yang memberi sambutan dan berapa menit jatahnya\n4. Titik pergantian: kapan musik, kapan foto, kapan makan\n5. Hal yang sebaiknya tidak disebut di depan tamu\n\nMC yang siap bikin acara terasa mengalir.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-17",
+      "topic_tag": "Wedding Threads",
+      "addon": "Tambahan: kirim rundown ke MC minimal H-3, dan sepakati satu orang keluarga yang jadi kontaknya di hari H."
+    },
+    {
+      "slug": "v3-20261017-2-merah-senin-jumat-2027",
+      "text": "4 tanggal merah 2027 yang jatuh di Senin atau Jumat, otomatis jadi libur tiga hari (simpan):\n\n- Jumat, 1 Januari\n- Senin, 8 Maret (Nyepi)\n- Jumat, 26 Maret (Wafat Yesus Kristus)\n- Senin, 17 Mei (Iduladha)\n\nBuat yang lagi cari tanggal acara, tamu dari luar kota biasanya lebih leluasa di akhir pekan panjang seperti ini.",
+      "pillar": "calendar",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-17",
+      "topic_tag": "surabaya",
+      "evidence": "https://www.antaranews.com/berita/5748023/daftar-libur-nasional-2027-dan-cuti-bersama-total-26-hari"
+    },
+    {
+      "slug": "v3-20261017-3-seragam-keluarga",
+      "text": "Soal seragam keluarga, urutan ini biasanya bikin semua pihak tenang (simpan):\n\n1. Tentukan warna dan tema dulu, bareng orang tua kedua pihak\n2. Kabari keluarga besar sekitar 2-3 bulan sebelumnya\n3. Kirim contoh warna, bukan cuma nama warna\n4. Kumpulkan ukuran dan jadwalkan fitting\n5. Siapkan cadangan untuk yang telat konfirmasi\n\nSemakin awal diumumkan, semakin sedikit yang bingung di hari H.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-17",
+      "topic_tag": "Wedding Threads"
+    },
+    {
+      "slug": "v3-20261017-4-arisan-besar",
+      "text": "Arisan keluarga besar bisa jadi acara yang ditunggu-tunggu, bukan sekadar kumpul rutin.\n\nCoba taruh kartu nama di tiap meja dengan label 'cucu dari Eyang ...' atau gambar pohon keluarga kecil, supaya sepupu yang jarang ketemu langsung punya bahan ngobrol.\n\nTAMO muat 50-300 pax, cukup untuk keluarga besar dari semua cabang.\n\nMau tanya tanggal dulu? Chat aja lewat WA di link bio, nggak harus langsung booking.",
+      "pillar": "ideas",
+      "hook": "other",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-17",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261017-5-ultah-bawa-dekor",
+      "text": "Ulang tahun ke-40, ke-50, atau ke-60 layak dirayakan lebih dari sekadar makan bareng.\n\nBayangkan sesi foto keluarga di rooftop berkanopi kaca, dengan dekor dari tim langgananmu sendiri.\n\nUlang tahun di TAMO mulai 12 juta, dan kamu bebas bawa dekor serta vendor sendiri.",
+      "pillar": "offer",
+      "hook": "other",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-17",
+      "topic_tag": "surabaya",
+      "addon": "Mau cek kisaran biaya atau tanya tanggal? Kabari lewat WA di link bio ya, ceritakan jenis acara dan perkiraan jumlah tamunya."
+    },
+    {
+      "slug": "v3-20261018-1-rundown-baby-shower",
+      "text": "Susunan acara baby shower biar nggak bingung mulai dari mana (simpan):\n\n1. Tamu tiba dan tulis pesan untuk si kecil\n2. MC membuka dengan sapaan hangat\n3. Satu permainan ringan, jangan lebih\n4. Makan dan ngobrol\n5. Sesi foto: keluarga inti, lalu semua tamu\n\nPesan tamu itu bisa dijilid jadi kenang-kenangan.",
+      "pillar": "series",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-18",
+      "topic_tag": "surabaya",
+      "addon": "Jadwalkan sesi foto di awal, selagi calon ibu masih segar dan dandanan masih rapi."
+    },
+    {
+      "slug": "v3-20261018-2-tengah-minggu-2027",
+      "text": "Beberapa tanggal merah 2027 jatuh di tengah minggu, sering bikin tamu ambil cuti sambung (simpan):\n\n- Selasa, 5 Januari: Isra Mikraj\n- Rabu-Kamis, 10-11 Maret: Idulfitri\n- Kamis, 6 Mei: Kenaikan Yesus Kristus\n\nKalau acaramu dekat tanggal-tanggal ini, kabari undangan lebih awal.",
+      "pillar": "calendar",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-18",
+      "topic_tag": "surabaya",
+      "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
+    },
+    {
+      "slug": "v3-20261018-3-sweet17-mulai-12jt",
+      "text": "Sweet seventeen cuma sekali, dan fotonya bakal dilihat lagi bertahun-tahun.\n\nUlang tahun di TAMO mulai 12 juta. Rooftop berkanopi kaca bisa dipakai buat foto, dan dekor boleh dari tim pilihanmu sendiri.\n\nTanya tanggal dulu aja lewat WhatsApp di link bio, nggak harus langsung booking.",
+      "pillar": "offer",
+      "hook": "other",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-18",
+      "topic_tag": "surabaya",
+      "addon": "Mau cek kisaran biaya? Ceritakan konsep dan perkiraan jumlah tamu lewat WA di link bio ya."
+    },
+    {
+      "slug": "v3-20261018-4-tempat-duduk-keluarga",
+      "text": "Susunan tempat duduk keluarga di acara besar, urutan kerjanya (simpan):\n\n1. Tentukan dulu meja utama: orang tua dan sesepuh\n2. Kelompokkan keluarga per cabang, bukan acak\n3. Taruh tamu lansia dekat jalur masuk dan area toilet\n4. Siapkan meja anak-anak di dekat meja orang tuanya\n5. Buat denah sederhana, lalu cetak satu untuk penerima tamu\n\nDenah yang jelas bikin tamu langsung duduk tanpa antre bertanya.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-18",
+      "topic_tag": "surabaya",
+      "addon": "Tips tambahan: sepakati satu orang yang berhak mengubah denah di hari H, supaya perubahan dadakan tidak bikin meja bentrok."
+    },
+    {
+      "slug": "v3-20261018-5-gathering-akhir-tahun",
+      "text": "Gathering akhir tahun yang paling diingat tim biasanya bukan yang termewah, tapi yang bikin semua merasa dihargai 🎉\n\nCoba sisipkan sesi apresiasi singkat tiap divisi, lalu foto satu tim di rooftop berkanopi kaca.\n\nPanitia HR boleh tanya-tanya jadwal dulu lewat WA di link bio, tarif kantor mulai 5 juta.",
+      "pillar": "ideas",
+      "hook": "insider",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-18",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261019-1-rundown-launching-produk",
+      "text": "Peluncuran produk baru, alur acara 6 blok (simpan):\n\n1. Registrasi tamu undangan dan media\n2. Pembukaan MC\n3. Pengungkapan produk\n4. Demo inti\n5. Tanya jawab dan networking\n6. Foto bersama\n\nPengungkapan produk sebaiknya jangan di ujung acara, saat perhatian peserta sudah turun.",
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-19",
+      "topic_tag": "surabaya",
+      "addon": "Tips tambahan: tunjuk satu penghubung media agar wawancara dadakan tidak menggeser rundown."
+    },
+    {
+      "slug": "v3-20261019-2-budget-mulai-tamu",
+      "text": "Budget acara paling gampang dihitung mundur dari jumlah tamu (simpan):\n\n1. Tebak dulu perkiraan tamu\n2. Minta penawaran tiap vendor untuk angka itu\n3. Jumlahkan semua, tambah dana cadangan\n4. Baru cocokkan dengan ruang yang tersedia\n\nKalau dihitung dari ruangan dulu, biasanya ada pos yang terlewat.",
+      "pillar": "education",
+      "hook": "tradeoff",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-19",
+      "topic_tag": "surabaya",
+      "addon": "Tips tambahan: kumpulkan semua penawaran dalam satu spreadsheet agar perbandingannya jelas."
+    },
+    {
+      "slug": "v3-20261019-4-pensiun-orang-tua",
+      "text": "Pensiun orang tua bukan sekadar hari terakhir kerja, tapi pintu menuju bab baru 🤍\n\nIde: kumpulkan satu pesan singkat dari rekan lama dan anak-anak, jilid jadi buku kenangan, lalu serahkan saat foto keluarga.\n\nKalau mau digelar di TAMO, boleh tanya jadwal lewat WA di link bio dulu.",
+      "pillar": "ideas",
+      "hook": "story",
+      "cta": "soft",
+      "v": 3,
+      "for_date": "2026-10-19",
+      "topic_tag": "surabaya"
+    },
+    {
+      "slug": "v3-20261019-5-libur-2027-26-hari",
+      "text": "Jumlah hari libur resmi 2027 menurut SKB 3 Menteri: 26 hari, terdiri dari 18 libur nasional dan 8 cuti bersama (simpan).\n\nUntuk penyelenggara acara, artinya banyak minggu yang perlu dicek dulu sebelum mengirim undangan. Cuti bersama bagi karyawan swasta mengikuti kebijakan kantor.",
+      "pillar": "calendar",
+      "hook": "other",
+      "cta": "none",
+      "v": 3,
+      "for_date": "2026-10-19",
+      "topic_tag": "surabaya",
+      "evidence": "https://setneg.go.id/baca/index/inilah_skb_3_menteri_libur_nasional_dan_cuti_bersama_2027"
+    },
+    {
+      "slug": "v3-20261020-1-rundown-sangjit",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "series",
+      "hook": "list",
+      "cta": "soft",
+      "topic_tag": "Wedding Threads",
+      "text": "Urutan sangjit dari tiba sampai foto bersama (simpan):\n\n1. Rombongan pria tiba, nampan biasanya dibawa kerabat muda\n2. Tuan rumah menyambut di pintu\n3. Nampan diserahkan satu per satu\n4. Orang tua ngobrol santai\n5. Pihak wanita membalas dengan sebagian isi nampan\n6. Makan bersama dan foto keluarga\n\nAdat tiap keluarga bisa beda, sepakati dulu sama orang tua.",
+      "addon": "Mau template rundown sangjit yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
+    },
+    {
+      "slug": "v3-20261020-4-ideas-prom",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "ideas",
+      "hook": "local",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "text": "Satu video kilas balik kelas 10 bisa bikin perpisahan SMA diingat sampai reuni 🎓\n\nIde: bikin satu sudut foto per kelas, lalu putar videonya sebelum acara inti dimulai. Rooftop berkanopi kaca di TAMO bisa jadi latar foto angkatan.\n\nPanitia yang lagi cari tempat, tanya tanggal dulu lewat WA di link bio ya."
+    },
+    {
+      "slug": "v3-20261020-2-dresscode-undangan",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Cara nulis dresscode di undangan biar tamu nggak salah kostum (simpan):\n\n1. Sebut warnanya dengan jelas, misalnya sage, biru dusty, atau earth tone\n2. Kasih contoh gambar kecil kalau warnanya jarang dipakai\n3. Bedakan aturan untuk keluarga inti dan tamu umum\n4. Tulis juga yang sebaiknya dihindari, misalnya putih polos\n5. Taruh di halaman yang sama dengan jam dan lokasi acara"
+    },
+    {
+      "slug": "v3-20261020-5-ideas-komunitas",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "ideas",
+      "hook": "other",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "text": "Klub lari, klub buku, atau komunitas fotografi di Surabaya, akhir tahun gini enaknya ditutup sama acara kumpul bareng 🙌\n\nIde: kasih penghargaan kecil buat anggota paling rajin, terus tiap orang cerita satu momen favorit tahun ini. Sederhana, tapi bikin komunitas makin dekat.\n\nCari tempat buat acaranya? Info lengkap lewat WA di link bio."
+    },
+    {
+      "slug": "v3-20261020-3-offer-hall-lantai12",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "offer",
+      "hook": "local",
+      "cta": "explicit",
+      "topic_tag": "Wedding Threads",
+      "text": "Untuk resepsi 100-250 tamu, hall terbesar TAMO lengkap dengan mezzanine.\n\nTips survei: tentukan dulu posisi pelaminan dan jalur masuk tamu, lalu cek apakah nyaman dilihat dari kursi paling belakang.\n\nWedding mulai 12 juta. Pricelist via WhatsApp, link ada di bio."
+    },
+    {
+      "slug": "v3-20261021-1-rundown-seminar",
+      "for_date": "2026-10-21",
+      "v": 3,
+      "pillar": "series",
+      "hook": "list",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "text": "Seminar atau workshop setengah hari, susunan biar peserta nggak ngantuk (simpan):\n\n1. Daftar ulang sambil kopi pagi\n2. Pembuka singkat dari panitia\n3. Materi inti pertama\n4. Kuis atau tanya jawab interaktif\n5. Materi inti kedua\n6. Penutup dan sesi networking\n\nTaruh materi terpenting di blok pertama, saat fokus peserta masih segar.",
+      "addon": "Mau template rundown seminar yang tinggal isi jamnya? Minta lewat WA di link bio ya 🤍"
+    },
+    {
+      "slug": "v3-20261021-2-tanggal-tamu-luar-kota",
+      "for_date": "2026-10-21",
+      "v": 3,
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "topic_tag": "surabaya",
+      "text": "Cara milih tanggal acara kalau banyak keluarga dari luar kota (simpan):\n\n1. Tanya dulu keluarga inti yang paling jauh, kapan mereka bisa ambil cuti\n2. Hindari musim mudik dan akhir tahun, tiket dan hotel biasanya mahal\n3. Kalau pilih akhir pekan yang panjang, kabari lebih awal supaya tamu sempat pesan tiket\n4. Kabari tanggal minimal tiga bulan sebelumnya\n5. Siapkan info penginapan terdekat di undangan digital"
+    },
+    {
+      "slug": "v3-20261021-4-ideas-kelas-komunitas",
+      "for_date": "2026-10-21",
+      "v": 3,
+      "pillar": "ideas",
+      "hook": "other",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "text": "Kelas merangkai bunga, kelas masak, atau workshop lilin aromaterapi, acara kecil seperti ini cocok buat quality time bareng teman 🌷\n\nIde: undang satu pengajar, siapkan meja panjang buat praktik, dan tutup dengan foto hasil karya masing-masing.\n\nPengin bikin kelas sendiri? Ngobrol dulu lewat WA di link bio ya."
+    },
+    {
+      "slug": "v3-20261021-3-offer-weekday-corporate",
+      "for_date": "2026-10-21",
+      "v": 3,
+      "pillar": "offer",
+      "hook": "local",
+      "cta": "explicit",
+      "topic_tag": "surabaya",
+      "text": "Pelatihan karyawan baru atau kick-off proyek akhir tahun butuh ruang yang cukup buat semua peserta.\n\nTips panitia: kirim agenda dan denah meja sehari sebelumnya, supaya pagi harinya semua langsung duduk sesuai kelompok.\n\nTAMO muat 50-300 pax, acara kantor mulai 5 juta. Mau cek tanggal hari kerja? Lewat WhatsApp, link ada di bio."
+    },
+    {
+      "slug": "v3-20261018-vendor-spotlight-wo-eo-partner-call",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "local",
+      "cta": "soft",
+      "topic_tag": "Wedding Threads",
+      "text": "Buat WO & EO Surabaya yang lagi cari venue partner 👋\n\nKita TAMO, venue di Citraland, Surabaya Barat. Udah 1000+ acara digelar, dan klien bebas bawa dekor & vendor sendiri.\n\nLagi pengen kenalan dan kerja bareng lebih banyak WO/EO nih. Tulis di reply ya:\nnama | IG | acara andalan + 1 foto hasil kerja favorit\n\nNanti tim kami DM satu-satu, atau chat WhatsApp aja (link di bio).\n\nLagi cari WO/EO? Simpan thread ini, reply-nya bakal jadi katalog WO & EO Surabaya 📌",
+      "addon": "Contoh: Nama WO | IG kalian | wedding intimate & lamaran + 1 foto hasil kerja 😄",
+      "image": "https://tamo-assets.vercel.app/ig/threads_WOEO.jpg"
+    },
+    {
+      "slug": "v3-20261018-vendor-spotlight-wo-eo-partner-call-2",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "local",
+      "cta": "soft",
+      "topic_tag": "Wedding Threads",
+      "text": "WO & EO Surabaya, mana suaranya? 👀\n\nKita TAMO, venue di Surabaya Barat. Udah 1000+ acara lewat sini, dan hari H yang lancar hampir selalu ada WO/EO yang sigap di belakangnya.\n\nPengen kenal lebih banyak nih. Reply IG kalian + satu acara yang paling bikin kalian bangga. Foto boleh banget.\n\nSiapa tahu kita ketemu di project berikutnya 🤝"
+    },
+    {
+      "slug": "v3-viral-m1-simpan-prewed-2-jam",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Sesi foto prewed 2 jam, contoh pembagian waktunya biar nggak habis buat ganti baju (simpan):\n\nMenit 0-15: pemanasan, foto berdua yang santai biar ekspresi luwes\nMenit 15-60: foto wajib dengan outfit pertama (menghadap kamera, close-up cincin)\nMenit 60-75: ganti outfit dan touch-up\nMenit 75-105: pose bebas dengan outfit kedua\nMenit 105-120: cek hasil bareng fotografer, ulang yang kurang\n\nDatang sudah full makeup dan pakai outfit pertama, jadi menit pertama langsung terpakai."
+    },
+    {
+      "slug": "v3-viral-n2-intimate-dua-kubu",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "education",
+      "hook": "tradeoff",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Ada dua kubu soal intimate wedding, dan dua-duanya masuk akal.\n\nKubu pertama: intimate itu kecil. Keluarga inti, sahabat, cukup.\nKubu kedua: intimate itu soal kedekatan. Ratusan tamu pun tetap intimate, asal semuanya orang yang benar-benar kenal sama pengantin.\n\nKalian masuk kubu yang mana?"
+    },
+    {
+      "slug": "v3-viral-m2-simpan-beres-setelah-resepsi",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Amplop, kado, barang sewaan: urutan beres-beres begitu resepsi selesai (simpan):\n\n1. Amplop dibuka berdua dengan satu saksi keluarga, langsung dicatat\n2. Kado difoto dan dicatat, supaya ucapan terima kasih nggak terlewat\n3. Baju sewaan dikumpulkan di satu tas, catat tanggal kembalinya\n4. Tanya vendor: ada barang yang tertinggal atau dititipkan?\n5. Kirim terima kasih singkat ke keluarga inti dan vendor hari itu juga\n\nTunjuk satu orang keluarga buat memegang daftar ini sejak awal."
+    },
+    {
+      "slug": "v3-viral-n1-vendor-spotlight-foto-video",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "local",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Fotografer dan videografer wedding Surabaya, sekarang giliran karya kalian yang tampil 📸\n\nSatu balasan, satu karya: foto atau potongan video favorit kalian, plus satu kalimat tentang momen yang paling kalian tunggu tiap meliput pernikahan.\n\nCalon pengantin yang lagi cari vendor dokumentasi, simpan thread ini dan intip satu-satu dari kolom balasan."
+    },
+    {
+      "slug": "v3-viral-n3-networking-wo-kebiasaan-kecil",
+      "for_date": "2026-10-18",
+      "v": 3,
+      "pillar": "networking",
+      "hook": "other",
+      "cta": "none",
+      "topic_tag": "Wedding Threads",
+      "text": "Tiap WO punya satu kebiasaan kecil yang diam-diam menyelamatkan acara.\n\nAda yang selalu cetak rundown cadangan. Ada yang briefing keluarga inti sebelum tamu datang. Ada yang menunjuk satu orang khusus pegang barang titipan.\n\nWO dan EO Surabaya, kebiasaan kecil kalian apa? Ceritain di balasan, biar calon pengantin juga ikut belajar 🤍"
+    },
+    {
+      "slug": "v3-20261019-3-offer-venue-atau-allin",
+      "text": "Sewa venue saja atau paket all-in, ditentukan satu hal: seberapa banyak yang mau kamu urus sendiri.\n\nTAMO punya dua pilihan itu. Isi dan harga paket all-in kami jelaskan lewat WA. Tanya tanggal dulu aja, nggak harus langsung booking: sebut jenis acara, perkiraan tamu, dan bulan yang dibidik. Link ada di bio.",
+      "v": 3,
+      "pillar": "offer",
+      "hook": "tradeoff",
+      "cta": "soft",
+      "for_date": "2026-10-19",
+      "topic_tag": "surabaya",
+      "addon": "Tips: sebelum membandingkan, tulis dulu apa saja yang sudah pasti kamu punya dan siapa yang mengurusnya. Sisanya baru dicari atau ditanyakan."
+    },
+    {
+      "slug": "v3-20261021-5-notulen-keputusan-acara",
+      "text": "Keputusan acara keluarga sering hilang di grup chat. Coba catat 4 hal ini dalam satu catatan bersama (simpan):\n\n1. Tanggal dan jam yang sudah disepakati\n2. Perkiraan jumlah tamu dan siapa yang mengonfirmasi\n3. Siapa pegang tugas apa, lengkap dengan tenggat\n4. Hal yang belum diputuskan dan siapa yang memutuskan\n\nSatu catatan, satu rujukan bersama.",
+      "v": 3,
+      "pillar": "education",
+      "hook": "list",
+      "cta": "none",
+      "for_date": "2026-10-21",
+      "topic_tag": "surabaya",
+      "addon": "Tips tambahan: kirim ringkasan catatan ke grup tiap selesai rapat, biar yang nggak hadir tetap tahu keputusan terbaru."
+    },
+    {
+      "slug": "v3-20261019-pinned-mulai-di-sini",
+      "for_date": "2026-10-19",
+      "v": 3,
+      "pillar": "offer",
+      "hook": "list",
+      "cta": "explicit",
+      "topic_tag": "surabaya",
+      "text": "Baru kenal TAMO? Mulai dari sini 🤍\n\nTAMO Venue di Citraland, Surabaya Barat, sudah jadi tempat 1000+ acara: wedding, lamaran, sangjit, ulang tahun, sampai acara kantor.\n\n- Muat 50-300 pax di 3 lantai, hall full AC\n- Pilihannya: venue saja, paket venue + katering, atau paket all-in (EO, dekor, lighting, katering) yang tinggal datang\n- Parkir muat 100+ mobil, valet gratis\n\nCek tanggal kosong dan pricelist lewat WA di link bio, langsung dibalas tim kami."
+    },
+    {
+      "slug": "tanggal-kosong-20261020",
+      "for_date": "2026-10-20",
+      "v": 3,
+      "pillar": "offer",
+      "hook": "local",
+      "cta": "soft",
+      "topic_tag": "surabaya",
+      "evidence": "https://calendar.google.com/calendar/embed?src=e34afe054aca9100e4ddda0196f0957aea52d2488cb40c19b2ecebfad23e117a%40group.calendar.google.com",
+      "text": "Buat yang lagi nyari tanggal: ini weekend yang per hari ini belum terisi di TAMO, sampai pertengahan Desember.\n\nOktober: Sabtu 31\nNovember: Sabtu 7, Minggu 8\nDesember: Sabtu 5, Minggu 6, Minggu 13\n\nMau lebih hemat? Acara weekday juga bisa.\nTanya paket & kunci tanggalnya via WA di link bio ya"
+    }
+  ]
 }
