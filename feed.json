@@ -946,6 +946,59 @@
    "topic_tag": "surabaya",
    "evidence": "https://calendar.google.com/",
    "text": "Buat yang lagi nyari tanggal: ini weekend yang per hari ini belum terisi di TAMO, sampai pertengahan Desember.\n\nOktober: Sabtu 31\nNovember: Sabtu 7, Minggu 8\nDesember: Sabtu 5, Minggu 6, Minggu 13\n\nMau lebih hemat? Acara weekday juga bisa.\nTanya paket & kunci tanggalnya via WA di link bio ya"
+  },
+  {
+   "slug": "v3-20261022-1-pos-biaya-terlewat",
+   "for_date": "2026-10-22",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "text": "6 pos biaya acara yang sering terlewat waktu bikin anggaran (simpan):\n\n1. Dokumentasi: foto, video, atau keduanya\n2. Hiburan dan MC\n3. Souvenir dan hampers\n4. Transport dan akomodasi keluarga dari luar kota\n5. Tips untuk tim vendor di hari H\n6. Dana cadangan untuk hal tak terduga\n\nVenue dan makanan biasanya sudah masuk hitungan. Enam ini yang sering baru muncul belakangan.",
+   "addon": "Tips tambahan: tulis semua pos di satu spreadsheet, lalu tandai mana yang sudah ada penawaran dan mana yang masih perkiraan."
+  },
+  {
+   "slug": "v3-20261022-2-ideas-foto-keluarga-3-generasi",
+   "for_date": "2026-10-22",
+   "v": 3,
+   "pillar": "ideas",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "surabaya",
+   "text": "Foto keluarga tiga generasi, kakek-nenek, orang tua, cucu, jarang banget punya waktu buat diatur rapi 🤍\n\nIde: pilih satu pagi, kumpulkan semua, lalu foto bareng. Di TAMO, photoshoot bisa sewa per jam mulai 1 juta, dan rooftop berkanopi kaca bisa jadi latarnya.\n\nMau tanya detailnya? Cukup lewat WA di link bio."
+  },
+  {
+   "slug": "v3-20261022-3-conv-ortu-mantu",
+   "for_date": "2026-10-22",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Buat orang tua, mantu itu bukan cuma hari H, tapi berbulan-bulan mikirin daftar tamu, besan, dan jadwal keluarga besar.\n\nOrang tua yang tahun depan mau mantu, apa yang paling bikin deg-degan? Ceritain di balasan, biar sesama orang tua dan calon pengantin ikut lega 🤍",
+   "addon": "Buat yang mau lebih praktis: TAMO punya paket all-in (EO, dekor, lighting, katering), tinggal datang. Tanya paket via WA di link bio ya."
+  },
+  {
+   "slug": "v3-20261022-4-daftar-tamu-tiga-lapis",
+   "for_date": "2026-10-22",
+   "v": 3,
+   "pillar": "education",
+   "hook": "tradeoff",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "text": "Daftar tamu paling gampang dirapikan kalau dibagi tiga lapis (simpan):\n\n1. Wajib hadir: keluarga inti dan sahabat dekat\n2. Sebaiknya diundang: kerabat dan teman kuliah atau kerja\n3. Kalau masih ada ruang: kenalan dan rekan jauh\n\nHitung dulu lapis 1 dan 2, baru lihat sisa kapasitas dan budget buat lapis 3. Jauh lebih tenang daripada mencoret nama satu per satu belakangan.",
+   "addon": "Tips tambahan: minta kedua keluarga mengisi daftar mereka sendiri-sendiri, baru digabung. Angka akhirnya jadi lebih realistis."
+  },
+  {
+   "slug": "v3-20261022-5-conv-calon-lamaran",
+   "for_date": "2026-10-22",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "question",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Lamaran dan sangjit itu momen dua keluarga saling kenal, dan persiapannya sering lebih ribet dari yang dibayangkan.\n\nYang lagi siapin lamaran atau sangjit, bagian mana yang paling bikin bingung: urutan acara, seserahan, atau bagi tugas keluarga? Tulis di balasan, nanti kita bahas bareng 🙌"
   }
  ]
 }
