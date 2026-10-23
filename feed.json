@@ -1064,6 +1064,36 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-10-27",
    "addon": "Mau checklist persiapan H-90 sampai H-31 juga? Minta lewat WA di link bio ya"
+  },
+  {
+   "slug": "v3-20261024-2-oneliner-makeup-molor",
+   "text": "Rundown serapi apa pun tetap geser kalau makeup pengantin molor.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-24"
+  },
+  {
+   "slug": "v3-20261025-2-oneliner-daftar-tamu-dua-keluarga",
+   "text": "Daftar tamu dua keluarga jarang berhenti di angka rencana awal.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-25"
+  },
+  {
+   "slug": "v3-20261025-3-seserahan-6-langkah",
+   "text": "Seserahan yang rapi itu cukup 6 langkah (simpan):\n\n1. Sepakati daftar isi dua keluarga\n2. Bagi tugas belanja per orang\n3. Cek ukuran dan warna sebelum beli\n4. Foto semua isi sebelum dikemas\n5. Beri label di tiap nampan\n6. Tunjuk satu orang pengatur urutan nampan\n\nSimpan nota semua barang di satu map, jaga-jaga ada yang perlu ditukar.",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-25"
   }
  ]
 }
