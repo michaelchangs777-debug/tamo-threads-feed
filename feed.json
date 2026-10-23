@@ -1,6 +1,6 @@
 {
  "config": {
-  "per_day": 5,
+  "per_day": 4,
   "paused": false,
   "min_gap_h": 1,
   "topic_tags": {
@@ -1012,46 +1012,6 @@
    "addon": "Mau checklist survei venue yang tinggal dicentang? Minta lewat WA di link bio ya 🤍"
   },
   {
-   "slug": "v3-20261023-2-ideas-ultah-pertama",
-   "for_date": "2026-10-23",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Ulang tahun pertama anak sering jadi reuni keluarga besar: kakek-nenek, om-tante, sepupu semua datang bawa anak kecil.\n\nAcara siang lebih ramah buat si kecil, dan hall full AC TAMO membuat tamu tetap adem. Ulang tahun mulai 12 juta, bebas bawa dekor sendiri.\n\nTanya tanggal dulu aja lewat WA di link bio."
-  },
-  {
-   "slug": "v3-20261023-3-conv-ortu-sweet17",
-   "for_date": "2026-10-23",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "text": "Anak umur 16 tahun biasanya sudah punya bayangan sendiri soal pesta sweet seventeen-nya, dan bayangan itu sering beda dari ide orang tuanya.\n\nOrang tua yang anaknya mau sweet seventeen, pesta seperti apa yang dia minta, dan di bagian mana akhirnya kalian setuju? Tulis di balasan 🎉"
-  },
-  {
-   "slug": "v3-20261023-4-offer-venue-katering-satu-pintu",
-   "for_date": "2026-10-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "explicit",
-   "topic_tag": "surabaya",
-   "text": "Makin banyak vendor yang dikoordinasi sendiri, makin banyak chat grup yang harus dipantau menjelang hari H.\n\nBuat yang mau lebih ringkas, TAMO punya paket venue + katering (satu pintu) dan paket all-in (EO, dekor, lighting, katering): tinggal datang. Atau sewa venue saja dan bawa vendor sendiri, itu juga bisa.\n\nTanya paket via WA di link bio."
-  },
-  {
-   "slug": "v3-20261023-5-conv-dekor-spill",
-   "for_date": "2026-10-23",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "local",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Dekor yang bagus itu bukan cuma soal bunga, tapi soal bagaimana ruangan terasa begitu tamu melangkah masuk.\n\nTim dekor Surabaya, spill portofolio terbaru kalian dong 🌸 Calon pengantin dan keluarga yang lagi cari inspirasi pasti senang lihat karya kalian."
-  },
-  {
    "slug": "v3-20261024-1-peran-hari-h",
    "for_date": "2026-10-24",
    "v": 3,
@@ -1061,28 +1021,6 @@
    "topic_tag": "Wedding Threads",
    "text": "Hari H jauh lebih tenang kalau 5 peran ini sudah ada orangnya dari awal (simpan):\n\n1. Penghubung vendor: satu orang, bukan pengantin\n2. Penerima tamu dan penjaga daftar hadir\n3. Pemegang amplop dan kado\n4. Pendamping orang tua dan keluarga sepuh\n5. Penjaga waktu yang pegang rundown",
    "addon": "Tambahan: tulis nama dan nomor tiap penanggung jawab di satu kertas, lalu kasih ke MC, WO, dan keluarga inti. Satu halaman cukup."
-  },
-  {
-   "slug": "v3-20261024-2-ideas-maternity-shoot",
-   "for_date": "2026-10-24",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "surabaya",
-   "text": "Perut yang lagi membuncit itu fase singkat, dan foto maternity bikin fase itu bisa dikenang lama 🤍\n\nIde: sesi foto berdua bareng suami, atau bertiga bareng si kakak, di rooftop berkanopi kaca TAMO. Photoshoot bisa sewa per jam, mulai 1 juta, jadi bisa disesuaikan dengan waktu bumil yang gampang capek.",
-   "addon": "Mau tanya jadwal atau kisaran sesi dulu? Nggak harus langsung booking, tanya aja lewat WA di link bio ya."
-  },
-  {
-   "slug": "v3-20261024-3-conv-pengantin-absen",
-   "for_date": "2026-10-24",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Nyari venue, vendor, dan tanggal itu lebih tenang kalau tahu ada banyak pasangan lain yang lagi di fase yang sama.\n\nCalon pengantin Surabaya tahun depan, absen dulu yuk: bulan nikah + konsep kalian 💍 Biar kita saling kenal, dan vendor yang lewat bisa lihat siapa yang lagi nyari.",
-   "addon": "Buat yang masih bingung soal venue: bisa venue saja, atau lewat paket yang lebih praktis. Tanya lewat WA di link bio ya."
   },
   {
    "slug": "v3-20261024-4-jam-sewa-vs-jam-acara",
