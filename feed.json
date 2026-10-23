@@ -1,6 +1,6 @@
 {
  "config": {
-  "per_day": 4,
+  "per_day": 3,
   "paused": false,
   "min_gap_h": 1,
   "topic_tags": {
@@ -1021,17 +1021,6 @@
    "topic_tag": "Wedding Threads",
    "text": "Hari H jauh lebih tenang kalau 5 peran ini sudah ada orangnya dari awal (simpan):\n\n1. Penghubung vendor: satu orang, bukan pengantin\n2. Penerima tamu dan penjaga daftar hadir\n3. Pemegang amplop dan kado\n4. Pendamping orang tua dan keluarga sepuh\n5. Penjaga waktu yang pegang rundown",
    "addon": "Tambahan: tulis nama dan nomor tiap penanggung jawab di satu kertas, lalu kasih ke MC, WO, dan keluarga inti. Satu halaman cukup."
-  },
-  {
-   "slug": "v3-20261024-4-jam-sewa-vs-jam-acara",
-   "for_date": "2026-10-24",
-   "v": 3,
-   "pillar": "education",
-   "hook": "tradeoff",
-   "cta": "none",
-   "topic_tag": "surabaya",
-   "text": "Jam sewa venue dan jam acara itu dua hal berbeda, dan sering baru sadar waktu hari H (simpan):\n\n1. Tanyakan: jam sewa dihitung dari dekor masuk, atau dari tamu datang?\n2. Bongkar dekor juga butuh waktu setelah tamu pulang\n3. Tanyakan batas jam masuk dan keluar vendor\n4. Hitung mundur: acara selesai jam berapa, tim bongkar mulai jam berapa\n5. Tanyakan aturan kalau acara molor",
-   "addon": "Tips: minta jam masuk dan jam keluar vendor tertulis, supaya WO dan tim dekor punya patokan yang sama."
   },
   {
    "slug": "v3-20261024-5-conv-mc-spill",
