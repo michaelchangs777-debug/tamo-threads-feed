@@ -1094,6 +1094,26 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "for_date": "2026-10-25"
+  },
+  {
+   "slug": "v3-20261026-2-oneliner-kursi-lansia",
+   "text": "Di hari lamaran, kursi untuk eyang sering terlupa padahal denah sudah rapi.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-26"
+  },
+  {
+   "slug": "v3-20261026-3-kabar-keluarga-besar",
+   "text": "Kabar nikah ke keluarga besar paling aman dicicil, bukan sekali jalan (simpan):\n\n1. H-90: tanggal dan kota acara\n2. H-60: konsep dan dresscode\n3. H-30: undangan resmi, lengkap dengan lokasi\n4. H-14: konfirmasi jumlah yang hadir\n5. H-7: jam kumpul dan siapa yang dijemput\n6. H-1: pesan singkat pengingat\n\nTunjuk satu orang tua dari tiap pihak sebagai penyambung kabar.",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-26"
   }
  ]
 }
