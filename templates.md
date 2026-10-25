@@ -96,3 +96,17 @@ Jam di template hanya contoh; sesuaikan dengan acaranya.
 ## Aturan untuk penulis postingan (cloud writer)
 Postingan pillar "series" hanya boleh menawarkan template yang sudah ada di file ini.
 Template baru: tambahkan dulu ke file ini (judul "## Rundown ..." atau "## Checklist ..."), baru postingannya.
+
+## Checklist Lamaran 101 (seri Threads 26 Okt - 1 Nov 2026)
+Mulai dari mana:
+[ ] Kisaran bulan dan tanggal  [ ] Jumlah tamu dua keluarga  [ ] Budget kasar  [ ] Venue  [ ] Juru bicara tiap keluarga  [ ] Daftar seserahan
+Venue dan tanggal:
+[ ] Kapasitas pas  [ ] Jam sewa termasuk waktu dekor  [ ] Parkir rombongan  [ ] Ruangan adem  [ ] Spot foto keluarga  [ ] Boleh bawa vendor sendiri
+Jumlah tamu:
+[ ] Angka total disepakati  [ ] Kuota per keluarga  [ ] Daftar digabung, nama dobel dicek  [ ] Kursi cadangan
+Seserahan (isi tiap keluarga bisa beda):
+[ ] Perhiasan atau cincin  [ ] Kain atau pakaian  [ ] Make-up dan perawatan  [ ] Sepatu dan tas  [ ] Kue dan buah  [ ] Ditata di nampan  [ ] Label urutan penyerahan
+Bagi tugas:
+[ ] Juru bicara pihak pria  [ ] Seserahan dan cincin  [ ] Tuan rumah dan penerima tamu  [ ] Tempat dan hidangan  [ ] Juru bicara pihak wanita
+Seminggu terakhir:
+[ ] Konfirmasi vendor dan jam datang  [ ] Cek ulang jumlah tamu  [ ] Seserahan berlabel  [ ] Juru bicara latihan  [ ] Tas darurat  [ ] Tidur cukup
