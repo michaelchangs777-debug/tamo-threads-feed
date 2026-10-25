@@ -1052,7 +1052,8 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "for_date": "2026-10-26",
-   "addon": "Mau template rundown lamaran yang tinggal isi jamnya? Minta lewat WA di link bio ya"
+   "addon": "Mau template rundown lamaran yang tinggal isi jamnya? Minta lewat WA di link bio ya",
+   "image": "https://tamo-assets.vercel.app/ig/threads_TH04.jpg"
   },
   {
    "slug": "v3-20261027-1-pagi-hari-h-pengantin",
@@ -1113,7 +1114,8 @@
    "hook": "list",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "for_date": "2026-10-26"
+   "for_date": "2026-10-26",
+   "image": "https://tamo-assets.vercel.app/ig/threads_TH05.jpg"
   }
  ]
 }
