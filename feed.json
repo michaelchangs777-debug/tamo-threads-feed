@@ -1241,6 +1241,26 @@
    "topic_tag": "Wedding Threads",
    "text": "Budget nikah kepepet, satu pos harus dikorbankan. Pilihannya cuma tiga:\n\nA. Kurangi tamu: lebih intim, tapi menyusun daftar undangan keluarga jadi lebih rumit\nB. Dekor lebih sederhana: hemat besar, tapi foto terasa polos\nC. Dokumentasi seadanya: hari H tetap meriah, tapi kenangannya tipis\n\nNggak ada jawaban salah. Kalian pilih A, B, atau C, dan kenapa?",
    "addon": "Argumen buat A: yang biasanya dipangkas itu teman jauh dan rekan kerja orang tua. Bikin daftar tiga lapis dulu (wajib, sebaiknya, kalau muat), lalu potong dari lapis terakhir."
+  },
+  {
+   "slug": "v3-20261028-1-oneliner-sambutan-juru-bicara",
+   "text": "Sambutan juru bicara keluarga paling lancar kalau dilatih sehari sebelumnya.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-28"
+  },
+  {
+   "slug": "v3-20261028-3-vendor-spotlight-wedding-karya",
+   "text": "Calon pengantin yang lagi survei vendor biasanya cuma lihat hasil akhirnya. Padahal di balik satu karya, ada tim yang sering berangkat subuh dan membawa perlengkapan berkoper-koper.\n\nVendor wedding Surabaya, tunjukkan satu karya yang paling kalian banggakan tahun ini, plus satu kalimat soal momen di baliknya. Calon pengantin yang baca bisa ikut mengenal kalian 🤍",
+   "v": 3,
+   "pillar": "networking",
+   "hook": "local",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-28"
   }
  ]
 }
