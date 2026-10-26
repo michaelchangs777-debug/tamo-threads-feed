@@ -1231,6 +1231,16 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "for_date": "2026-10-27"
+  },
+  {
+   "slug": "conv-potong-budget-abc-20261026",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "tradeoff",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Budget nikah kepepet, satu pos harus dikorbankan. Pilihannya cuma tiga:\n\nA. Kurangi tamu: lebih intim, tapi menyusun daftar undangan keluarga jadi lebih rumit\nB. Dekor lebih sederhana: hemat besar, tapi foto terasa polos\nC. Dokumentasi seadanya: hari H tetap meriah, tapi kenangannya tipis\n\nNggak ada jawaban salah. Kalian pilih A, B, atau C, dan kenapa?",
+   "addon": "Argumen buat A: yang biasanya dipangkas itu teman jauh dan rekan kerja orang tua. Bikin daftar tiga lapis dulu (wajib, sebaiknya, kalau muat), lalu potong dari lapis terakhir."
   }
  ]
 }
