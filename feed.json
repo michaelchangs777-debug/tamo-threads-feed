@@ -1291,6 +1291,26 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "text": "Nikah dengan 50-100 tamu itu bukan versi hemat dari nikahan besar. Itu acara yang beda sama sekali.\n\nRuangan yang terlalu luas bisa bikin tamu terpencar dan foto terasa kurang hidup. Ruangan yang pas bikin acara terasa penuh dan hangat.\n\nHall lantai 3 TAMO untuk 50-100 tamu, plus rooftop berkanopi kaca buat akad atau foto.\n\nYang lagi rencana intimate wedding: tamu kalian kira-kira berapa, dan apa yang paling bikin bingung?"
+  },
+  {
+   "slug": "v3-20261030-2-oneliner-urutan-foto-keluarga",
+   "text": "Foto keluarga di pelaminan paling cepat kalau urutan difoto sudah ditempel.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-30"
+  },
+  {
+   "slug": "v3-20261030-3-bagi-biaya-dua-keluarga",
+   "text": "Obrolan biaya dua keluarga itu adem kalau urutannya begini (simpan):\n\n1. Tentukan dulu total anggaran bersama\n2. Daftar pos biaya terbesar lebih dulu\n3. Tanya porsi yang nyaman buat tiap keluarga\n4. Catat pembagian di satu lembar\n5. Sisihkan dana cadangan bersama\n6. Cek ulang tiap ada tagihan baru\n\nTips: bahas berdua dulu, baru bawa ke orang tua.",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-30"
   }
  ]
 }
