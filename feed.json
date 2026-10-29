@@ -1320,6 +1320,26 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "text": "Intimate wedding justru lebih susah daripada nikahan besar. Di acara kecil, setiap detail kelihatan.\n\nIni 5 detail yang paling sering kelewat 👇"
+  },
+  {
+   "slug": "v3-20261031-2-oneliner-lagu-masuk",
+   "text": "Lagu masuk pengantin paling aman dipegang satu orang, bukan lima grup chat.",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-31"
+  },
+  {
+   "slug": "v3-20261031-3-vendor-spotlight-dekor",
+   "text": "Dekor itu yang bikin tamu berhenti sebentar di pintu masuk dan bilang \"wah\".\n\nDekorator dan florist Surabaya, tunjukkan satu karya dekor yang paling kalian banggakan, plus satu kalimat soal bagian tersulit memasangnya. Calon pengantin yang baca bisa kenalan dengan gaya kalian lewat kolom balasan 🌿",
+   "v": 3,
+   "pillar": "networking",
+   "hook": "local",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-10-31"
   }
  ]
 }
