@@ -1349,6 +1349,26 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "text": "Panduan intimate wedding 50-100 tamu, dari nol sampai hari H. Simpan dulu, kalian bakal butuh ini:"
+  },
+  {
+   "slug": "v3-20261101-2-oneliner-payung-parkiran",
+   "text": "Payung cadangan di parkiran bikin rombongan lamaran tetap rapi saat hujan.",
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-01"
+  },
+  {
+   "slug": "v3-20261101-3-kontak-dua-keluarga",
+   "text": "Kontak yang sebaiknya dipegang kedua keluarga sebelum hari H (simpan):\n\n1. Juru bicara masing-masing pihak\n2. PIC acara di lokasi\n3. Koordinator seserahan\n4. Pendamping tamu sepuh\n5. Kontak MC, dekor, dan fotografer\n6. Penanggung jawab jam berangkat rombongan\n\nTip: kumpulkan semuanya dalam satu pesan, lalu pin di grup keluarga.",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-01"
   }
  ]
 }
