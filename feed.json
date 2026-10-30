@@ -1340,6 +1340,15 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "for_date": "2026-10-31"
+  },
+  {
+   "slug": "fmt-long-intimate-20261030",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Panduan intimate wedding 50-100 tamu, dari nol sampai hari H. Simpan dulu, kalian bakal butuh ini:"
   }
  ]
 }
