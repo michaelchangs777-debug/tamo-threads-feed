@@ -1662,6 +1662,89 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "text": "Panduan booking vendor nikah buat pemula: urutannya, plus pertanyaan wajib untuk tiap vendor (simpan):"
+  },
+  {
+   "slug": "xb-20261101-09-alur-tamu-resepsi",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "for_date": "2026-11-01",
+   "at": 9,
+   "guide": true,
+   "text": "Alur tamu dari tiba sampai duduk di resepsi cukup 6 langkah (simpan):\n\n1. Penerima tamu menyambut di pintu masuk\n2. Registrasi dan buku tamu\n3. Arahkan ke area welcome drink\n4. Antar keluarga inti ke meja khusus\n5. Tamu lain duduk sesuai meja atau bebas\n6. Petugas siaga di pintu hall\n\nLatih petugasnya sebentar sebelum tamu pertama tiba.",
+   "v": 3,
+   "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "xb-20261101-16-guide-dokumentasi",
+   "pillar": "conversation",
+   "hook": "list",
+   "cta": "soft",
+   "for_date": "2026-11-01",
+   "at": 16,
+   "guide": true,
+   "text": "Foto dan video nikah yang kalian suka itu hasil brief yang jelas, bukan cuma soal fotografernya. Panduan dari pilih vendor sampai terima file (simpan):",
+   "chain": [
+    "Putuskan dulu prioritasnya: foto saja, video saja, atau keduanya. Ini menentukan budget dan jumlah tim yang dibutuhkan.",
+    "Lihat portofolio satu acara utuh, bukan cuma highlight terbaik. Dari situ kelihatan konsistensi hasilnya.",
+    "Tanyakan gaya kerjanya: candid, pakai arahan pose, atau campuran, supaya cocok dengan karakter keluarga kalian.",
+    "Tanyakan jumlah tim dan lama bertugas, lalu minta dituliskan di perjanjian.",
+    "Bikin daftar foto wajib per pihak keluarga: keluarga inti, besan, eyang, dan sahabat dekat.",
+    "Tunjuk satu kerabat sebagai pemandu foto keluarga. Dia kenal wajah keluarga besar, jadi fotografer tidak bingung memanggil siapa.",
+    "Kirim rundown acara ke fotografer dan videografer sebelum hari H, supaya mereka tahu momen kunci dan jamnya.",
+    "Kalau bisa, survei lokasi bareng: cek cahaya, spot foto, dan jalur keluar-masuk tim.",
+    "Tanyakan tenggat hasil, format file, dan cara pengirimannya, termasuk kapan cuplikan awal bisa dilihat.",
+    "Begitu file diterima, simpan salinannya di dua tempat berbeda.",
+    "Lagi cari tempat untuk akad atau resepsi? TAMO punya rooftop berkanopi kaca yang bisa untuk akad, resepsi, dan photoshoot, dan kalian bebas bawa dekor dan vendor sendiri. Di Citraland, Surabaya Barat. Cek tanggal lewat WA di link bio. Simpan thread ini dan kirim ke pasangan kalian."
+   ],
+   "v": 3,
+   "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "xb-20261101-21-perjanjian-vendor",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "for_date": "2026-11-01",
+   "at": 21,
+   "guide": true,
+   "text": "Perjanjian vendor sebaiknya tertulis, 6 hal ini dicek dulu (simpan):\n\n1. Daftar layanan yang didapat\n2. Jam kerja dan lama bertugas\n3. Jadwal DP dan pelunasan\n4. Aturan kalau jadwal berubah\n5. Kontak penanggung jawab di hari H\n6. Hal yang tidak termasuk dalam harga\n\nSimpan salinannya, kirim juga ke pasangan atau orang tua.",
+   "v": 3,
+   "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "v3-20261102-2-oneliner-jam-makan-pengantin",
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "for_date": "2026-11-02",
+   "text": "Pengantin sering lupa makan kalau jam makannya nggak ada di rundown.",
+   "v": 3,
+   "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "xb-20261102-09-persiapan-prewed",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "for_date": "2026-11-02",
+   "at": 9,
+   "guide": true,
+   "text": "Sebelum sesi prewedding, siapkan 6 hal ini (simpan):\n\n1. Pilih konsep dan 2-3 foto referensi\n2. Tentukan lokasi dan jam cahaya bagus\n3. Coba makeup dan outfit sebelum hari-H\n4. Siapkan outfit cadangan\n5. Bawa air minum dan camilan\n6. Sepakati jumlah foto yang diterima\n\nKirim referensinya ke fotografer beberapa hari sebelumnya.",
+   "v": 3,
+   "topic_tag": "Wedding Threads"
+  },
+  {
+   "slug": "xb-20261102-21-rencana-b-hari-h",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "for_date": "2026-11-02",
+   "at": 21,
+   "guide": true,
+   "text": "Rencana B hari-H yang rapi itu cukup 6 hal (simpan):\n\n1. Hujan: siapkan payung dan jalur masuk tamu\n2. Vendor telat: tentukan siapa yang dihubungi\n3. Makeup molor: geser urutan, jangan dipaksakan\n4. Tamu lebih banyak: sisihkan kursi cadangan\n5. Mikrofon bermasalah: simpan baterai cadangan\n6. Satu orang pemegang keputusan di lokasi\n\nTulis di satu lembar, lalu serahkan ke koordinator hari-H.",
+   "v": 3,
+   "topic_tag": "Wedding Threads"
   }
  ]
 }
