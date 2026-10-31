@@ -1653,6 +1653,15 @@
    "guide": true,
    "at": 13,
    "format": "rollcall-money"
+  },
+  {
+   "slug": "guide-c-long-vendor-20261031",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Panduan booking vendor nikah buat pemula: urutannya, plus pertanyaan wajib untuk tiap vendor (simpan):"
   }
  ]
 }
