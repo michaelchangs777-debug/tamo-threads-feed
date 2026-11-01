@@ -1854,7 +1854,7 @@
    "pillar": "education",
    "hook": "list",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "script",
    "text": "Contoh susunan sambutan wakil keluarga pria saat lamaran (simpan dan sesuaikan):\n\n1. Salam dan terima kasih sudah diterima\n2. Perkenalan singkat rombongan\n3. Sampaikan maksud kedatangan\n4. Harapan untuk kedua anak\n5. Tutup dengan permohonan jawaban dari keluarga wanita\n\nCukup beberapa menit, yang penting tulus."
   },
@@ -1904,7 +1904,7 @@
   },
   {
    "slug": "v3-vw12-vendor-ask",
-   "for_date": "2026-11-03",
+   "for_date": "2026-11-07",
    "v": 3,
    "pillar": "networking",
    "hook": "local",
@@ -1920,9 +1920,9 @@
    "pillar": "ideas",
    "hook": "other",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "contrast",
-   "text": "Lamaran zaman dulu: rombongan besar, sambutan panjang, semua serba formal.\n\nLamaran sekarang: keluarga inti, acara satu jam, banyak yang lanjut makan malam santai.\n\nDua-duanya sah. Yang penting kedua keluarga sama-sama nyaman."
+   "text": "Ada lamaran dengan rombongan besar, sambutan panjang, serba formal.\n\nAda juga yang keluarga inti saja, satu jam, lanjut makan malam santai.\n\nDua-duanya sah. Yang penting kedua keluarga sama-sama nyaman."
   },
   {
    "slug": "v3-vw14-local-chat",
@@ -1997,7 +1997,7 @@
    "pillar": "education",
    "hook": "list",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "dos-donts",
    "text": "Hal yang sebaiknya dihindari saat lamaran (simpan):\n\n1. Rombongan datang jauh lewat dari jam janjian\n2. Sambutan yang kepanjangan\n3. Membahas budget nikahan di depan semua tamu\n4. Membandingkan dengan lamaran saudara lain\n\nLamaran itu kesan pertama antar keluarga."
   },
@@ -2046,17 +2046,6 @@
    "text": "Resepsi tanpa sesi lempar bunga: kurang seru atau justru lebih nyaman?\n\nBanyak pasangan sekarang ganti dengan momen lain, misalnya kasih bunga ke pasangan yang paling lama menikah di ruangan.\n\nKalian tim yang mana?"
   },
   {
-   "slug": "v3-vw25-vendor-ask",
-   "for_date": "2026-11-05",
-   "v": 3,
-   "pillar": "networking",
-   "hook": "local",
-   "cta": "none",
-   "topic_tag": "Dekorasi",
-   "format": "vendor-ask",
-   "text": "Florist Surabaya, bunga apa yang paling tahan lama buat dekor acara seharian? 🌷\n\nBagi rekomendasinya di balasan, sekalian foto karya kalian.\n\nYang lagi nyiapin acara, thread ini bisa jadi contekan pilih bunga."
-  },
-  {
    "slug": "v3-vw26-idea-list",
    "for_date": "2026-11-05",
    "v": 3,
@@ -2065,7 +2054,7 @@
    "cta": "none",
    "topic_tag": "Persiapan Nikah",
    "format": "idea-list",
-   "text": "Ide momen pemberkatan nikah yang bikin keluarga terharu (simpan):\n\n1. Orang tua mengantar pengantin satu per satu\n2. Saudara membacakan doa\n3. Janji nikah yang ditulis sendiri\n4. Lagu dari paduan suara keluarga\n5. Pelukan dengan orang tua setelah pemberkatan\n\nAcara singkat pun bisa sangat berkesan."
+   "text": "Ide momen setelah pemberkatan nikah yang bikin keluarga terharu (simpan):\n\n1. Orang tua mengantar pengantin satu per satu\n2. Saudara menyampaikan pesan singkat\n3. Surat untuk pasangan, dibacakan di depan keluarga\n4. Lagu dari paduan suara keluarga\n5. Pelukan dengan orang tua setelah pemberkatan\n\nAcara singkat pun bisa sangat berkesan."
   },
   {
    "slug": "v3-vw27-checklist",
@@ -2074,7 +2063,7 @@
    "pillar": "education",
    "hook": "list",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "checklist",
    "text": "Yang perlu dibahas dua keluarga setelah lamaran (simpan):\n\n1. Tanggal dan jenis acara pernikahan\n2. Perkiraan jumlah tamu tiap pihak\n3. Adat yang mau dipakai\n4. Pembagian biaya\n5. Siapa perwakilan tiap keluarga untuk koordinasi\n\nObrolan ini lebih enak dilakukan sambil makan bareng."
   },
@@ -2098,7 +2087,7 @@
    "cta": "none",
    "topic_tag": "Ulang Tahun",
    "format": "idea-list",
-   "text": "Ide perayaan setengah abad yang elegan (simpan):\n\n1. Makan malam formal dengan dress code\n2. Musik akustik live\n3. Pameran foto dari tiap dekade hidupnya\n4. Ucapan dari sahabat lama\n5. Kue dengan desain yang mengingatkan hobinya\n\nSetengah abad layak dirayakan dengan anggun."
+   "text": "Ide ulang tahun ke-50 yang elegan (simpan):\n\n1. Makan malam formal dengan dress code\n2. Musik akustik live\n3. Pameran foto dari tiap dekade hidupnya\n4. Ucapan dari sahabat lama\n5. Kue dengan desain yang mengingatkan hobinya\n\nSetengah abad layak dirayakan dengan anggun."
   },
   {
    "slug": "v3-vw30-faq",
@@ -2120,7 +2109,7 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "format": "micro-story",
-   "text": "Pengantin paling santai yang pernah kami lihat bukan yang paling banyak budgetnya.\n\nTapi yang sudah membagi tugas ke keluarga jauh hari, lalu di hari H cuma bilang \"aku mau nikmatin aja.\"\n\nDan memang itu yang terjadi."
+   "text": "Pengantin yang paling santai di hari H biasanya yang sudah membagi tugas ke keluarga jauh hari, lalu di hari H cuma bilang \"aku mau nikmatin aja.\"\n\nBiasanya memang begitu jadinya."
   },
   {
    "slug": "v3-vw32-explainer",
@@ -2129,20 +2118,9 @@
    "pillar": "education",
    "hook": "list",
    "cta": "none",
-   "topic_tag": "Sangjit",
+   "topic_tag": "Wedding Threads",
    "format": "explainer",
-   "text": "Makna beberapa isi nampan sangjit yang sering dibawa (simpan):\n\n1. Kue: harapan hidup yang manis\n2. Buah: kelimpahan rezeki\n3. Angpao: berkat untuk keluarga\n4. Perhiasan: tanda kesungguhan\n5. Kain atau baju: kebutuhan calon pengantin\n\nMakna dan isinya bisa beda tiap keluarga, cek dulu ke orang tua."
-  },
-  {
-   "slug": "v3-vw33-offer-direct",
-   "for_date": "2026-11-06",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Fotografi",
-   "format": "offer-direct",
-   "text": "Rooftop berkanopi kaca di Citraland ini sering dipakai buat prewedding, katalog produk, sampai foto wisuda.\n\nCahaya alaminya masuk, tapi hujan nggak jadi masalah.\n\nPhotoshoot per jam mulai 1 juta. Tanya slot via WA di link bio."
+   "text": "Isi nampan sangjit yang umum dan makna yang biasa dipercaya (simpan):\n\n1. Kue: harapan hidup yang manis\n2. Buah: kelimpahan rezeki\n3. Angpao: berkat untuk keluarga\n4. Perhiasan: tanda kesungguhan\n5. Kain atau baju: kebutuhan calon pengantin\n\nMakna dan isinya bisa beda tiap keluarga, cek dulu ke keluarga yang paham adatnya."
   },
   {
    "slug": "v3-vw34-contrast",
@@ -2184,7 +2162,7 @@
    "pillar": "conversation",
    "hook": "other",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "poll-like",
    "text": "Lamaran kalian dulu: di rumah atau di venue?\n\nDi rumah lebih akrab, di venue lebih rapi dan nggak repot beres-beres.\n\nCerita pilihan kalian di balasan."
   },
@@ -2197,7 +2175,7 @@
    "cta": "none",
    "topic_tag": "Persiapan Nikah",
    "format": "insider-lessons",
-   "text": "Dari 1000+ acara di TAMO, ini pertanyaan yang paling menyelamatkan calon pengantin:\n\n\"Kalau rencana A gagal, siapa yang memutuskan rencana B?\"\n\nTentukan satu orang dari keluarga yang berhak memutuskan di hari H. Pengantin nggak perlu ditanya hal teknis."
+   "text": "Dari 1000+ acara di TAMO, ini pertanyaan yang sering menyelamatkan calon pengantin:\n\n\"Kalau rencana A gagal, siapa yang memutuskan rencana B?\"\n\nTentukan satu orang dari keluarga yang berhak memutuskan di hari H. Pengantin nggak perlu ditanya hal teknis."
   },
   {
    "slug": "v3-vw39-idea-list",
@@ -2241,7 +2219,7 @@
    "cta": "none",
    "topic_tag": "Ulang Tahun",
    "format": "idea-list",
-   "text": "Ide baby shower yang santai dan nggak ribet (simpan):\n\n1. Tebak ukuran perut calon mama pakai pita\n2. Pojok tulis pesan untuk si bayi\n3. Tebak foto bayi para tamu\n4. Kado popok dengan pesan lucu\n5. Kue sederhana dengan tema warna lembut\n\nYang penting calon mama bisa duduk santai dan menikmati."
+   "text": "Ide baby shower yang santai dan nggak ribet (simpan):\n\n1. Tebak tanggal lahir si bayi\n2. Pojok tulis pesan untuk si bayi\n3. Tebak foto bayi para tamu\n4. Kado popok dengan pesan lucu\n5. Kue sederhana dengan tema warna lembut\n\nYang penting calon mama bisa duduk santai dan menikmati."
   },
   {
    "slug": "v3-vw43-checklist",
@@ -2338,9 +2316,9 @@
    "pillar": "ideas",
    "hook": "other",
    "cta": "none",
-   "topic_tag": "Lamaran",
+   "topic_tag": "Wedding Threads",
    "format": "micro-story",
-   "text": "Lamaran yang paling menyentuh biasanya bukan yang paling mewah.\n\nTapi yang ada momen calon pengantin pria bicara sendiri ke orang tua pasangannya, pelan dan jujur.\n\nNggak perlu dihafal. Orang tua bisa merasakan ketulusannya."
+   "text": "Kalau adat keluarga mengizinkan, momen yang sering paling menyentuh di lamaran: calon pengantin pria bicara sendiri ke orang tua pasangannya, pelan dan jujur.\n\nNggak perlu dihafal. Orang tua bisa merasakan ketulusannya."
   }
  ]
 }
