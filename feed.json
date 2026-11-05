@@ -1,13 +1,132 @@
 {
  "config": {
-  "per_day": 8,
+  "per_day": 15,
   "paused": false,
-  "min_gap_h": 1,
+  "min_gap_h": 0.5,
   "topic_tags": {
    "default": "surabaya"
   }
  },
  "queue": [
+  {
+   "slug": "car-1105-tc1",
+   "for_date": "2026-11-05",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "format": "carousel-guide",
+   "text": "Panduan teh pai dalam 4 slide ✨\nGeser untuk lihat urutan yang umum dan tiga persiapan kecilnya. Tiap keluarga bisa beda, jadi cocokkan dulu ya.\n\nKirim ke keluarga kalian 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC1_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC1_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC1_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC1_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc4",
+   "for_date": "2026-11-05",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "format": "carousel-guide",
+   "text": "Hal kecil yang bikin tamu betah sampai akhir acara ✨\nLima yang paling terasa dan tiga detail yang sering terlupa. Cocok untuk nikahan, lamaran, sampai ulang tahun.\n\nSimpan untuk persiapan acara kalian 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC4_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC4_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC4_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC4_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc5",
+   "for_date": "2026-11-05",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "format": "carousel-guide",
+   "text": "Pesta ulang tahun pertama si kecil, biar anak tetap nyaman ✨\nLima hal yang paling membantu dan tiga hal kecil yang sering terlupa.\n\nKirim ke teman yang anaknya sebentar lagi satu tahun 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC5_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC5_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC5_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC5_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc2",
+   "for_date": "2026-11-06",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "format": "carousel-guide",
+   "text": "Seserahan rapi dalam 6 langkah ✨\nDari daftar yang disepakati dua keluarga sampai nampan siap dibawa, plus tiga hal kecil yang sering terlupa.\n\nKirim ke keluarga yang ikut menyiapkan 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC2_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC2_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC2_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC2_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc7",
+   "for_date": "2026-11-06",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "format": "carousel-guide",
+   "text": "MC ulang tahun anak perlu tahu lima hal ini ✨\nPlus tiga hal kecil di hari-H yang sering terlewat. Geser sampai akhir ya.\n\nBagikan ke orang tua yang lagi siapin pesta 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC7_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC7_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC7_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC7_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc3",
+   "for_date": "2026-11-07",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "format": "carousel-guide",
+   "text": "Contoh susunan sambutan keluarga pria saat lamaran ✨\nLima bagian yang umum, plus tiga tips untuk juru bicaranya. Sesuaikan dengan adat keluarga kalian ya.\n\nKirim ke om atau kerabat yang jadi juru bicara 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC3_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC3_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC3_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC3_s04.jpg"
+   ]
+  },
+  {
+   "slug": "car-1105-tc6",
+   "for_date": "2026-11-07",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "none",
+   "topic_tag": "surabaya",
+   "format": "carousel-guide",
+   "text": "Checklist acara komunitas atau workshop biar panitia nggak kewalahan ✨\nLima hal sebelum hari-H dan tiga detail yang langsung dirasakan peserta.\n\nKirim ke teman satu panitia 🤍",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC6_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC6_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC6_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC6_s04.jpg"
+   ]
+  },
   {
    "slug": "t00-bantu-cari-venue",
    "text": "Warga Surabaya yang lagi cari venue buat acara, sini merapat 🙋\n\nTulis di kolom balasan:\n1. Acara apa\n2. Kira-kira kapan\n3. Jumlah tamu\n\nKami jawab satu-satu, jujur, termasuk tips kalau ternyata TAMO bukan yang paling pas buat acaramu. Biar nggak pusing sendirian 🤍"
