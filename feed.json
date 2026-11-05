@@ -2945,10 +2945,16 @@
    "hook": "list",
    "cta": "soft",
    "topic_tag": "Wedding Threads",
-   "format": "calendar-data",
+   "format": "carousel-calendar-data",
    "evidence": "https://www.al-habib.info/kalender-islam/global/kalender-islam-global-tahun-2027-m.htm",
    "text": "Tanggal cantik 2027, mana yang bentrok dan mana yang aman (simpan):\n\n2.2.27 Selasa: relatif aman\n20.2 & 27.2.27 Sabtu: masuk bulan Ramadan (perkiraan 8 Feb-9 Mar)\n6.6.27 Minggu: awal Muharam alias 1 Suro (bulan Suro sekitar 6 Jun-4 Jul, banyak dihindari keluarga Jawa)\n7.7.27 Rabu: relatif aman, tapi hari kerja\n8.8 & 28.8.27: masuk Bulan Hantu (sekitar 2-31 Agustus) yang banyak dihindari keluarga Tionghoa\n10.10 & 12.12.27 Minggu: relatif aman\n\nTiap keluarga punya hitungan sendiri, cek dulu ya.",
-   "addon": "Satu lagi: 10.10.27 dan 12.12.27 jatuh di hari Minggu dan bebas dari ketiganya, jadi bisa jadi diincar lebih dulu. Mau cek tanggal? WA di link bio"
+   "addon": "Satu lagi: 10.10.27 dan 12.12.27 jatuh di hari Minggu dan bebas dari ketiganya, jadi bisa jadi diincar lebih dulu. Mau cek tanggal? WA di link bio",
+   "images": [
+    "https://tamo-assets.vercel.app/ig/threads_car_TC8_s01.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC8_s02.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC8_s03.jpg",
+    "https://tamo-assets.vercel.app/ig/threads_car_TC8_s04.jpg"
+   ]
   },
   {
    "slug": "v3-kal-2027-data-syawal",
