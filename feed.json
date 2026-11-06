@@ -1661,19 +1661,6 @@
    "format": "ama"
   },
   {
-   "slug": "exp-20261106-isian",
-   "text": "Isi titik-titiknya versi kalian: lamaran yang lancar itu yang ______.",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-06",
-   "guide": true,
-   "at": 13,
-   "format": "isian"
-  },
-  {
    "slug": "exp-20261107-rollcall-money",
    "text": "Budget sangjit in this economy tuh realistisnya berapa sih? Yang udah lewat, spill dong biar yang baru mulai nabung ada gambaran.",
    "v": 3,
@@ -1756,19 +1743,6 @@
    "guide": true,
    "at": 13,
    "format": "ama"
-  },
-  {
-   "slug": "exp-20261113-isian",
-   "text": "Lengkapi: menu prasmanan yang paling cepat ludes di pesta keluarga kalian selalu ______.",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-13",
-   "guide": true,
-   "at": 13,
-   "format": "isian"
   },
   {
    "slug": "exp-20261114-rollcall-money",
@@ -2197,17 +2171,6 @@
    "addon": "Satu lagi: catat hasil obrolannya di satu chat grup dua keluarga, biar nggak ada versi yang beda-beda. Mau cek tanggal? WA di link bio"
   },
   {
-   "slug": "v3-vw28-fill-in",
-   "for_date": "2026-11-05",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Persiapan Nikah",
-   "format": "fill-in",
-   "text": "Lengkapi kalimat ini:\n\n\"Kalau bisa ngulang persiapan nikahan, aku bakal ...\"\n\nJawaban kalian bisa jadi pelajaran buat yang baru mulai nyiapin."
-  },
-  {
    "slug": "v3-vw29-idea-list",
    "for_date": "2026-11-06",
    "v": 3,
@@ -2469,17 +2432,6 @@
    "topic_tag": "Sangjit",
    "format": "beda-x-vs-y",
    "text": "Sangjit dan lamaran sering dianggap sama. Padahal asal-usulnya beda.\n\nLamaran: keluarga pria datang menyampaikan maksud, kedua keluarga sepakat.\nSangjit: tradisi Tionghoa, keluarga pria mengantar seserahan dalam nampan, keluarga wanita membalas sebagian.\n\nDi sebagian keluarga Tionghoa, sangjit sekaligus jadi acara lamarannya; ada juga yang memisahkan keduanya.\n\nDi keluarga kalian, sangjit itu ya lamarannya juga?"
-  },
-  {
-   "slug": "v3-1101-ft10-myth-hemat",
-   "for_date": "2026-11-01",
-   "v": 3,
-   "pillar": "ideas",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Persiapan Nikah",
-   "format": "fill-in",
-   "text": "Selesai nikahan, biasanya ada satu pos yang terasa paling worth it. Lengkapi versi kalian:\n\n\"Yang paling worth it di nikahan kami ternyata ...\"\n\nJawabannya bisa jadi bahan buat yang lagi nentuin prioritas budget."
   },
   {
    "slug": "v3-1101-ft11-dari-1000-acara",
