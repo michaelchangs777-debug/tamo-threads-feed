@@ -1,8 +1,8 @@
 {
  "config": {
-  "per_day": 15,
+  "per_day": 20,
   "paused": false,
-  "min_gap_h": 0.5,
+  "min_gap_h": 0.1,
   "topic_tags": {
    "default": "surabaya"
   }
@@ -1835,7 +1835,7 @@
    "hook": "list",
    "cta": "none",
    "for_date": "2026-11-01",
-   "at": 21,
+   "at": 17,
    "guide": true,
    "text": "Perjanjian vendor sebaiknya tertulis, 6 hal ini dicek dulu (simpan):\n\n1. Daftar layanan yang didapat\n2. Jam kerja dan lama bertugas\n3. Jadwal DP dan pelunasan\n4. Aturan kalau jadwal berubah\n5. Kontak penanggung jawab di hari H\n6. Hal yang tidak termasuk dalam harga\n\nSimpan salinannya, kirim juga ke pasangan atau orang tua.",
    "v": 3,
@@ -1869,7 +1869,7 @@
    "hook": "list",
    "cta": "none",
    "for_date": "2026-11-02",
-   "at": 21,
+   "at": 17,
    "guide": true,
    "text": "Rencana B hari-H yang rapi itu cukup 6 hal (simpan):\n\n1. Hujan: siapkan payung dan jalur masuk tamu\n2. Vendor telat: tentukan siapa yang dihubungi\n3. Makeup molor: geser urutan, jangan dipaksakan\n4. Tamu lebih banyak: sisihkan kursi cadangan\n5. Mikrofon bermasalah: simpan baterai cadangan\n6. Satu orang pemegang keputusan di lokasi\n\nTulis di satu lembar, lalu serahkan ke koordinator hari-H.",
    "v": 3,
@@ -2549,7 +2549,7 @@
    "slug": "xb-20261103-21-jadwal-vendor-masuk",
    "pillar": "education",
    "cta": "none",
-   "at": 21,
+   "at": 17,
    "text": "Jadwal vendor masuk di hari-H yang rapi itu cukup 6 urutan (simpan):\n\n1. Dekor masuk paling awal, selagi ruangan kosong\n2. Lighting dan sound dicek setelah dekor selesai\n3. MUA mulai sesuai jadwal pengantin\n4. Fotografer datang untuk foto persiapan\n5. Vendor makanan datang sebelum tamu pertama\n6. MC dan hiburan cek mikrofon terakhir\n\nTempel jadwalnya dan kirim ke semua vendor sehari sebelumnya."
   },
   {
@@ -2584,7 +2584,7 @@
    "slug": "xb-20261104-21-penjaga-amplop",
    "pillar": "education",
    "cta": "none",
-   "at": 21,
+   "at": 17,
    "text": "Titipan amplop dan kado di resepsi yang aman itu cukup 6 langkah (simpan):\n\n1. Tunjuk dua orang kepercayaan untuk menjaga kotak\n2. Taruh kotak di titik yang selalu terlihat\n3. Siapkan meja khusus untuk kado, terpisah dari meja tamu\n4. Catat kado yang datang, kalau perlu dengan nama pengirim\n5. Jangan tinggalkan kotak tanpa penjaga, walau sebentar\n6. Pindahkan ke tangan keluarga inti sebelum tamu bubar\n\nBicarakan dulu siapa yang membawa pulang, biar nggak saling menunggu."
   },
   {
@@ -2633,7 +2633,7 @@
    "slug": "xb-20261105-21-tamu-luar-kota",
    "pillar": "education",
    "cta": "soft",
-   "at": 21,
+   "at": 17,
    "text": "Menjamu tamu luar kota yang tenang itu cukup 6 persiapan (simpan):\n\n1. Kirim undangan dan lokasi lebih awal supaya mereka bisa pesan tiket\n2. Sertakan peta, jam acara, dan perkiraan jam selesai\n3. Tunjuk satu kerabat sebagai penghubung mereka\n4. Beri info penginapan terdekat dari lokasi\n5. Siapkan tempat duduk yang mudah dijangkau\n6. Pastikan ada yang mengantar mereka kalau pulang malam\n\nTamu luar kota sudah menempuh perjalanan jauh, jadi kepastian kecil seperti ini sangat berarti.",
    "addon": "Satu lagi: kirim pesan selamat datang saat mereka sampai di kota. Kecil, tapi tamu luar kota merasa diperhatikan. Mau cek tanggal? WA di link bio"
   },
@@ -2657,7 +2657,7 @@
    "hook": "list",
    "cta": "soft",
    "for_date": "2026-11-06",
-   "at": 21,
+   "at": 17,
    "guide": true,
    "text": "Pembagian souvenir yang rapi itu cukup 6 langkah (simpan):\n\n1. Hitung jumlah tamu, tambah sedikit cadangan\n2. Pilih satu titik pembagian, bukan keliling\n3. Taruh di meja dekat pintu keluar\n4. Tunjuk dua orang untuk jaga meja\n5. Pisahkan jatah keluarga dan vendor\n6. Simpan sisanya di tempat aman\n\nPaling aman dibagikan di akhir acara, supaya tidak tertinggal di kursi.",
    "v": 3,
