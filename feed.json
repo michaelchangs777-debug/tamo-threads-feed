@@ -3182,6 +3182,57 @@
    "text": "Catatan pembayaran vendor nikah yang aman itu cukup 5 hal (simpan):\n\n1. Tulis nominal DP, termin, dan pelunasan di kontrak\n2. Minta kuitansi tiap pembayaran, lengkap tanggal\n3. Satu orang keluarga pegang semua bukti bayar\n4. Siapkan pelunasan vendor hari-H di amplop terpisah\n5. Catat siapa yang menyerahkan ke siapa\n\nDengan begini, risiko pembayaran dobel atau terlewat jauh lebih kecil.",
    "addon": "Satu lagi: foto kuitansi dan simpan di satu folder bersama keluarga. Kalau kertasnya hilang, buktinya tetap ada. Mau cek tanggal? WA di link bio",
    "at": 17
+  },
+  {
+   "slug": "xb-20261109-09-penerima-tamu",
+   "text": "Tugas penerima tamu di resepsi yang rapi itu cukup 6 hal (simpan):\n\n1. Dua orang di pintu: satu menyapa, satu mencatat\n2. Daftar tamu tercetak, urut abjad, bukan hanya di HP\n3. Tahu tempat duduk keluarga inti dan tamu sepuh\n4. Pegang nomor koordinator untuk tamu yang bingung\n5. Arahkan tamu ke buku tamu dan sesi foto, bukan menumpuk di pintu\n6. Gantian istirahat tiap 45 menit\n\nBriefing mereka 15 menit sebelum pintu dibuka.",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-09",
+   "guide": true,
+   "at": 9,
+   "addon": "Satu lagi: pasang nama kecil di dada penerima tamu, supaya tamu langsung tahu siapa yang ditanya. Mau cek tanggal? WA di link bio"
+  },
+  {
+   "slug": "xb-20261109-16-guide-technical-meeting",
+   "text": "Technical meeting H-1 sering dilewati, padahal di sini masalah hari-H biasanya ketahuan. 10 poin technical meeting nikahan (simpan):",
+   "chain": [
+    "Kumpulkan semua vendor dan koordinator keluarga di satu grup WA, lalu tetapkan satu orang sebagai penentu keputusan hari-H.",
+    "Bagikan rundown final dalam bentuk satu lembar, dengan jam dan nama penanggung jawab tiap blok.",
+    "Minta tiap vendor menyebut jam masuk, jam siap, dan jam bongkar. Tulis di lembar yang sama.",
+    "Cek urutan kedatangan vendor yang saling bergantung: dekor dulu, lalu lighting dan sound. MUA dan dokumentasi biasanya jalan paralel, jadi tanyakan jam mereka butuh area siap.",
+    "Tentukan jalur keluar masuk barang vendor dan siapa yang membuka akses ruangan.",
+    "Sepakati kode isyarat antara MC, sound, dan dokumentasi untuk momen penting seperti masuknya pengantin.",
+    "Tanyakan ke tiap vendor: apa satu hal yang bisa bikin telat? Catat jawabannya, ini sering menyelamatkan hari-H.",
+    "Siapkan nomor kontak darurat dan satu orang keluarga yang pegang amplop pelunasan vendor.",
+    "Lakukan gladi singkat untuk bagian yang paling rumit saja, misalnya masuk pengantin dan sesi foto keluarga.",
+    "Malam itu juga, kirim ulang foto rundown final ke grup WA supaya semua orang pegang versi yang sama.",
+    "Lagi cari tempat resepsi? TAMO bebas bawa dekor dan vendor sendiri, muat 50-300 pax di 3 lantai, di Citraland, Surabaya Barat. Tanya tanggal dulu aja lewat WA di link bio. Simpan thread ini buat H-1 nanti."
+   ],
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-09",
+   "guide": true,
+   "at": 16
+  },
+  {
+   "slug": "xb-20261109-21-urutan-foto-keluarga",
+   "text": "Sesi foto keluarga yang nggak molor itu cukup 6 urutan (simpan):\n\n1. Pengantin dan orang tua inti dulu\n2. Tambah kakak-adik dan pasangan\n3. Keluarga besar pihak pengantin pria\n4. Keluarga besar pihak pengantin wanita\n5. Kedua keluarga digabung\n6. Terakhir, kerabat dekat dan sahabat\n\nTunjuk satu kerabat yang memanggil nama tiap kelompok, supaya fotografer fokus ke kamera.",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-09",
+   "guide": true,
+   "at": 17,
+   "addon": "Satu lagi: tulis daftar kelompok foto di kertas dan berikan ke fotografer sebelum acara. Mau cek tanggal? WA di link bio"
   }
  ]
 }
