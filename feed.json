@@ -3233,6 +3233,57 @@
    "guide": true,
    "at": 17,
    "addon": "Satu lagi: tulis daftar kelompok foto di kertas dan berikan ke fotografer sebelum acara. Mau cek tanggal? WA di link bio"
+  },
+  {
+   "slug": "xb-20261110-09-penutupan-acara",
+   "pillar": "education",
+   "cta": "soft",
+   "at": 9,
+   "text": "Penutupan resepsi yang tidak berantakan itu cukup 6 tugas (simpan):\n\n1. Satu orang keluarga pegang daftar barang bawaan\n2. Kado dan amplop dikumpulkan dulu, dihitung berdua\n3. Vendor bongkar sesuai jam di technical meeting\n4. Barang sewaan dikembalikan lebih dulu\n5. Foto kondisi ruangan terakhir bersama pengelola\n6. Pengantin pulang duluan, sisanya diserahkan ke panitia\n\nTulis satu nama penanggung jawab per tugas.",
+   "addon": "Satu lagi: minta tanda terima atau foto serah terima untuk tiap barang sewaan yang dikembalikan, supaya tidak ada klaim kehilangan belakangan. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-10",
+   "guide": true
+  },
+  {
+   "slug": "xb-20261110-16-guide-kontrak-vendor",
+   "pillar": "conversation",
+   "cta": "soft",
+   "at": 16,
+   "text": "Kontrak vendor nikah sering ditandatangani cepat, padahal pertanyaan yang tepat sebelum tanda tangan bisa mencegah drama belakangan. 10 hal yang dicek sebelum tanda tangan kontrak vendor (simpan):",
+   "chain": [
+    "Pastikan nama paket, jam kerja, dan jumlah personel tertulis jelas, bukan hanya janji lisan.",
+    "Tanyakan apa saja yang sudah termasuk dan apa yang dihitung tambahan, minta ditulis.",
+    "Catat jadwal DP, termin, dan pelunasan beserta tanggalnya.",
+    "Tanya aturan jika tanggal acara berubah: apakah DP hangus, dipindah, atau dikembalikan sebagian.",
+    "Tanya soal kelebihan jam: berapa biaya per jam dan siapa yang berwenang menyetujuinya.",
+    "Minta nama pengganti kalau personel utama berhalangan.",
+    "Tanya jam masuk, jam siap, dan jam bongkar, lalu cocokkan dengan vendor lain.",
+    "Cek apakah vendor perlu listrik, akses khusus, atau area tertentu supaya bisa dibahas dengan venue.",
+    "Minta contoh hasil kerja yang mirip dengan acara kalian, bukan hanya portofolio terbaik.",
+    "Simpan salinan kontrak dan bukti bayar di satu folder yang bisa dibuka dua keluarga.",
+    "Lagi cari tempat resepsi? TAMO bebas bawa dekor dan vendor sendiri, muat 50-300 pax di 3 lantai, di Citraland, Surabaya Barat. Tanya tanggal dulu aja lewat WA di link bio. Simpan thread ini buat bahan tanya vendor nanti."
+   ],
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-10",
+   "guide": true
+  },
+  {
+   "slug": "xb-20261110-21-antrean-makan",
+   "pillar": "education",
+   "cta": "soft",
+   "at": 17,
+   "text": "Antrean makan tamu yang tidak mengular itu cukup 6 trik (simpan):\n\n1. Buka dua jalur prasmanan dari dua sisi\n2. Panggil tamu sepuh dan keluarga inti lebih dulu\n3. Piring ditumpuk di awal jalur, sendok di tiap menu\n4. Meja dipanggil bergiliran oleh MC, bukan serentak\n5. Minuman dan dessert di meja terpisah dari menu utama\n6. Jadwalkan isi ulang menu favorit, jangan tunggu kosong\n\nTanya vendor makanan berapa porsi yang bisa tersaji per menit.",
+   "addon": "Satu lagi: tunjuk satu orang yang memantau menu hampir habis dan memberi aba ke vendor makanan untuk isi ulang. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-10",
+   "guide": true
   }
  ]
 }
