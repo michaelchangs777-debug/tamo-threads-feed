@@ -3284,6 +3284,44 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-10",
    "guide": true
+  },
+  {
+   "slug": "xb-20261111-09-parkir-tamu",
+   "pillar": "education",
+   "at": 9,
+   "text": "Parkir resepsi yang tidak macet itu cukup 6 langkah (simpan):\n\n1. Tanya venue: muat berapa mobil?\n2. Hitung kasar: jumlah tamu dibagi isi mobil\n3. Pisahkan jalur vendor dan jalur tamu\n4. Petugas parkir siap sejam sebelum tamu datang\n5. Drop-off di pintu untuk tamu sepuh\n6. Cantumkan titik parkir di undangan digital\n\nTamu pulang hampir bersamaan, jadi tunjuk satu orang pemantau di jam itu.",
+   "addon": "Satu lagi: simpan nomor petugas parkir di grup koordinasi keluarga. Di TAMO parkir muat 100+ mobil dengan valet gratis. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-11",
+   "guide": true
+  },
+  {
+   "slug": "xb-20261111-16-guide-anggaran-per-tamu",
+   "pillar": "conversation",
+   "at": 16,
+   "text": "Anggaran nikah sering dihitung dari total, padahal banyak pos naik-turun mengikuti jumlah tamu. 10 langkah menyusun anggaran dari jumlah tamu (simpan):",
+   "chain": [
+    "Tetapkan dulu jumlah tamu realistis dari dua keluarga, bukan dari angka impian. Pisahkan daftar menjadi pasti, mungkin, dan cadangan.",
+    "Tulis pos yang naik per tamu: makanan, minuman, souvenir, undangan, hampers.",
+    "Tulis pos yang tetap berapa pun tamunya: dekor utama, dokumentasi, MUA, MC.",
+    "Minta tiap vendor menyebut mana harga yang bergantung jumlah tamu dan mana yang tetap. Catat di satu tabel.",
+    "Hitung biaya per tamu dari pos yang naik per tamu, lalu kalikan dengan skenario jumlah tamu: kecil, sedang, besar.",
+    "Bandingkan skenario itu dengan dana yang tersedia, bukan dengan keinginan dekor.",
+    "Sisihkan pos cadangan khusus untuk tamu tambahan di hari-H.",
+    "Kunci jumlah tamu paling lambat saat memesan makanan dan souvenir, lalu beri tahu dua keluarga batas waktunya.",
+    "Setiap ada tambahan nama, cek ulang tabel yang sama supaya anggaran tidak bergeser diam-diam.",
+    "Simpan tabelnya di satu file yang bisa dibuka dua keluarga, supaya semua melihat angka yang sama.",
+    "Lagi cari tempat resepsi? TAMO muat 50-300 pax di 3 lantai, bebas bawa dekor dan vendor sendiri, di Citraland, Surabaya Barat. Tanya tanggal dulu aja lewat WA di link bio. Simpan thread ini buat menyusun anggaran."
+   ],
+   "v": 3,
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-11",
+   "guide": true
   }
  ]
 }
