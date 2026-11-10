@@ -3323,6 +3323,89 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-11",
    "guide": true
+  },
+  {
+   "slug": "v3-x1110-01-jeda-akad-resepsi",
+   "pillar": "education",
+   "cta": "soft",
+   "text": "Jeda akad ke resepsi di hari yang sama yang tidak bikin tamu menunggu (simpan):\n\n1. Beri jeda tertulis di rundown, jangan ditebak\n2. Siapkan ruang ganti dan MUA touch-up sebelum akad selesai\n3. Tamu resepsi dipersilakan masuk setelah jeda dimulai\n4. Musik latar dan MC siap mengisi jeda\n5. Pembawa acara kabari tamu kapan pengantin masuk\n6. Satu orang panitia pegang pintu masuk pengantin\n\nTamu yang tahu jamnya jarang gelisah.",
+   "addon": "Satu lagi: tulis jam jeda juga di undangan digital, supaya tamu tahu kapan harus tiba. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-11"
+  },
+  {
+   "slug": "v3-x1110-02-pesan-grup-keluarga",
+   "pillar": "education",
+   "cta": "soft",
+   "text": "Pesan grup keluarga H-3 yang tinggal salin dan kirim (simpan):\n\n\"Halo keluarga, ini info hari-H:\n- Kumpul di lokasi jam ... (satu jam sebelum tamu)\n- Seragam: ...\n- Parkir mobil keluarga di: ...\n- Penanggung jawab: amplop ..., foto ..., tamu sepuh ...\n- Hubungi ... kalau ada kendala.\nMohon balas 'siap' ya.\"\n\nIsi titik-titiknya, lalu pin pesan itu di grup.",
+   "addon": "Satu lagi: minta tiap penanggung jawab membalas dengan nama, supaya jelas siapa yang sudah baca. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-11"
+  },
+  {
+   "slug": "xb-20261112-09-ganti-baju-pengantin",
+   "pillar": "education",
+   "cta": "soft",
+   "at": 9,
+   "text": "Ganti busana kedua pengantin tanpa bikin panggung kosong, cukup 5 langkah (simpan):\n\n1. Tentukan blok hiburan 15 menit untuk menutupi waktu ganti\n2. Satu pendamping khusus pegang gaun, jas, dan sepatu cadangan\n3. Peniti, tisu, dan sepatu kedua disiapkan di tas kecil\n4. Rapikan rambut cepat, bukan rias ulang\n5. Jalan masuk kedua dilatih sekali bersama MC",
+   "addon": "Satu lagi: latihan ganti busana sekali di rumah dengan stopwatch, supaya jeda di rundown tidak meleset. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-12",
+   "guide": true
+  },
+  {
+   "slug": "v3-x1110-03-briefing-mc",
+   "pillar": "education",
+   "cta": "soft",
+   "text": "Yang perlu diserahkan ke MC sebelum hari-H itu cukup 6 hal (simpan):\n\n1. Rundown final dengan jam tiap blok\n2. Cara pengucapan nama keluarga yang benar\n3. Daftar sambutan dan urutan pembicara\n4. Cue ke musik dan dokumentasi\n5. Hal yang tidak boleh disebut, kalau ada\n6. Nomor satu orang panitia yang boleh memberi aba\n\nMC yang dibriefing tertulis jarang salah sebut nama.",
+   "addon": "Satu lagi: kirim file rundown ke MC H-3, bukan pagi hari-H, supaya ia sempat bertanya. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-12"
+  },
+  {
+   "slug": "xb-20261112-16-guide-brief-fotografer",
+   "pillar": "conversation",
+   "cta": "soft",
+   "at": 16,
+   "text": "Brief fotografer nikah sering cuma 'foto semuanya'. Padahal daftar shot yang tertulis bikin hasilnya lebih lengkap dan momen penting lebih kecil kemungkinan terlewat. 10 hal yang dikirim ke fotografer sebelum hari-H (simpan):",
+   "chain": [
+    "Kirim rundown final lengkap dengan jam tiap blok, bukan perkiraan.",
+    "Tulis daftar foto keluarga per kelompok dan urutannya, dengan nama yang dipanggil.",
+    "Tandai momen yang tidak boleh terlewat: salam orang tua, cincin, potong kue, sambutan.",
+    "Beri tahu siapa saja anggota keluarga yang sepuh atau butuh dibantu saat difoto.",
+    "Tentukan satu orang keluarga yang kenal semua orang untuk mendampingi fotografer.",
+    "Tanyakan jam masuk fotografer dan kapan ia butuh akses ke ruang rias.",
+    "Tanya apakah perlu waktu khusus untuk foto pengantin berdua, dan berapa menit.",
+    "Sepakati kapan hasil pilihan pertama dikirim dan dalam format apa.",
+    "Cocokkan kerja fotografer dengan videografer dan MC supaya tidak berebut posisi.",
+    "Lagi cari tempat resepsi? TAMO punya rooftop berkanopi kaca yang bisa dipakai untuk photoshoot, bebas bawa vendor sendiri, muat 50-300 pax di 3 lantai, di Citraland, Surabaya Barat. Tanya tanggal dulu aja lewat WA di link bio. Simpan thread ini buat brief fotografer."
+   ],
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-12",
+   "guide": true
+  },
+  {
+   "slug": "xb-20261112-21-pesan-undangan-digital",
+   "pillar": "education",
+   "cta": "soft",
+   "at": 17,
+   "text": "Pesan undangan digital yang benar-benar dibaca itu cukup 6 elemen (simpan):\n\n1. Nama acara dan nama kedua keluarga di kalimat pertama\n2. Hari, jam mulai, dan jam tamu mulai dipersilakan\n3. Nama gedung dan kota, bukan hanya alamat\n4. Titik peta yang bisa diketuk\n5. Info parkir dan akses\n6. Satu nomor kontak untuk RSVP\n\nBanyak tamu hanya membaca dua baris pertama, jadi taruh info paling penting di sana.",
+   "addon": "Satu lagi: kirim ulang pengingat singkat H-3 dengan jam dan titik peta. Banyak tamu lupa jam, bukan lupa datang. Mau cek tanggal? WA di link bio",
+   "v": 3,
+   "hook": "list",
+   "topic_tag": "Wedding Threads",
+   "for_date": "2026-11-12",
+   "guide": true
   }
  ]
 }
