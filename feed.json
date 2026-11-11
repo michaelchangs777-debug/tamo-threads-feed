@@ -3357,7 +3357,8 @@
    "hook": "list",
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-12",
-   "guide": true
+   "guide": true,
+   "image": "https://tamo-assets.vercel.app/ig/threads_TH16.jpg"
   },
   {
    "slug": "v3-x1110-03-briefing-mc",
@@ -3368,7 +3369,8 @@
    "v": 3,
    "hook": "list",
    "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-12"
+   "for_date": "2026-11-12",
+   "image": "https://tamo-assets.vercel.app/ig/threads_TH17.jpg"
   },
   {
    "slug": "xb-20261112-16-guide-brief-fotografer",
