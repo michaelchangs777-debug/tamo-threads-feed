@@ -1,11 +1,12 @@
 {
  "config": {
-  "per_day": 20,
+  "per_day": 35,
   "paused": false,
   "min_gap_h": 0.1,
   "topic_tags": {
    "default": "surabaya"
-  }
+  },
+  "evening": 15
  },
  "queue": [
   {
@@ -6394,6 +6395,157 @@
    "v": 3,
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-26"
+  },
+  {
+   "slug": "v5e-20261114-01-lamaran-lantai3",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Lamaran itu acara dua keluarga yang baru saling kenal. Ruangan terlalu besar bikin suasananya kaku, terlalu sempit bikin om-tante berdiri di lorong.\n\nKarena itu lantai 3 TAMO dibuat lebih kecil, khusus untuk lamaran dan pemberkatan dengan 50-100 tamu.\n\nKalau keluargamu sedang menghitung tamu lamaran, ngobrol dulu dengan kami lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-02-all-in-satu-pintu",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Yang bikin calon mempelai kelelahan biasanya koordinasinya: jadwal meeting bentrok dan vendor saling menunggu kabar.\n\nKarena itu TAMO punya paket all-in (EO, dekor, lighting, katering). Tinggal datang di hari H.\n\nIsi paketnya bisa ditanyakan lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-03-1000-acara-rundown",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "proof",
+   "hook": "story",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Sudah 1000+ acara di TAMO. Pelajaran yang paling sering terulang: acara terasa lancar kalau rundown disusun mundur dari jam selesai.\n\nMau ngobrol soal acaramu? WA kami di link bio."
+  },
+  {
+   "slug": "v5e-20261114-04-prewed-rooftop-per-jam",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "surabaya",
+   "text": "Banyak pasangan menunda foto prewedding karena membayangkan harus ke luar kota, ambil cuti, dan menyewa banyak lokasi.\n\nAlternatif yang dekat: rooftop TAMO berkanopi kaca di Surabaya Barat, disewa per jam saja. Photoshoot mulai 1 juta.\n\nCari slot pemotretan kalian lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-05-weekday-hemat",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "tradeoff",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Sabtu malam bukan kewajiban. Lamaran Kamis sore atau syukuran keluarga Rabu malam sering justru lebih santai, karena yang hadir memang orang-orang terdekat.\n\nSatu lagi alasannya: acara weekday lebih hemat.\n\nKabari kami tanggal tengah minggu incaranmu, WA ada di link bio."
+  },
+  {
+   "slug": "v5e-20261114-06-ultah-anak-adem-parkir",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "surabaya",
+   "text": "Ulang tahun anak sering berubah jadi reuni keluarga besar: oma-opa, sepupu, teman sekolah, semua ikut. Masalahnya muncul di dua tempat, ruangan panas dan mobil yang tidak kebagian tempat.\n\nTAMO punya hall full AC, plus parkir muat 100+ mobil dengan valet gratis. Ulang tahun mulai 12 juta.\n\nTanya detailnya di WA, ada di link bio."
+  },
+  {
+   "slug": "v5e-20261114-07-bebas-bawa-vendor",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Ada pasangan yang sudah jatuh hati pada dekorator teman kuliahnya, atau MUA yang pernah merias kakaknya, lalu kecewa karena venue mewajibkan rekanan sendiri.\n\nDi TAMO bebas bawa dekor dan vendor sendiri. Pilih orang yang kalian percaya.\n\nMinta daftar harga sewa ruangan lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-08-survei-langsung",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Foto saja tidak cukup untuk memutuskan venue. Cahaya, jalur tamu, dan suasana ruangan baru terasa kalau datang sendiri.\n\nTAMO bisa disurvei setiap hari, cukup janjian dulu.\n\nAtur jadwal survei lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-09-resepsi-lantai12",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Resepsi dengan keluarga besar dari dua pihak, rekan kerja papa, dan teman sekolah sejak SD? Daftarnya cepat menembus seratus nama.\n\nUntuk skala itu, lantai 1-2 = hall terbesar dengan mezzanine, biasanya 100-250 tamu..\n\nMau menghitung bersama? Chat kami, WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-10-venue-plus-katering",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Ada keluarga yang ingin dekornya diatur sendiri, tapi tempat dan hidangan cukup satu pihak saja supaya tidak saling lempar tanggung jawab.\n\nPilihan itu tersedia: paket venue + katering, di luar sewa venue saja.\n\nPerbandingan kedua pilihan bisa kami kirim lewat WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-11-tahun-depan-acara-apa",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "local",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Absen dulu: siapa yang sedang merencanakan acara keluarga tahun depan di Surabaya atau Sidoarjo?\n\nTulis jenis acaranya dan perkiraan jumlah tamu di balasan. Kami bantu bayangkan susunan ruangannya. Untuk cek tanggal, WA di link bio."
+  },
+  {
+   "slug": "v5e-20261114-12-akad-rooftop-kaca",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "proof",
+   "hook": "other",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Hujan di musim pernikahan bukan hal aneh di Surabaya, dan banyak keluarga khawatir momen ijab di ruang terbuka jadi berantakan.\n\nRooftop TAMO memakai kanopi kaca: tetap terang alami, tetap terlindung. Bisa untuk akad, resepsi, dan photoshoot.\n\nIngin melihat cahayanya sendiri? Janjian survei di WA, link bio."
+  },
+  {
+   "slug": "v5e-20261114-13-venue-orang-tua-tenang",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Ukuran sukses sebuah resepsi: papa mama bisa duduk, makan, dan menikmati malamnya tanpa sibuk memikirkan apa pun."
+  },
+  {
+   "slug": "v5e-20261114-14-pertanyaan-saat-survei",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Pertanyaan yang wajib diajukan saat survei venue (simpan):\n\n1. Jam berapa vendor boleh mulai loading\n2. Di mana tamu lansia turun dari mobil\n3. Lewat mana jalur masuk pengantin\n4. Di mana keluarga inti bisa istirahat\n5. Berapa lama waktu bongkar setelah acara\n\nJawabannya menentukan rundown kamu.",
+   "addon": "Satu lagi: datang di jam yang sama dengan jam acaramu, supaya tahu cahaya dan suasananya. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5e-20261114-15-siang-atau-malam",
+   "for_date": "2026-11-14",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "tradeoff",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Pilih satu untuk resepsi: siang yang terang, atau malam yang syahdu?\n\nDan alasannya apa?"
   }
  ]
 }
