@@ -6,9 +6,119 @@
   "topic_tags": {
    "default": "surabaya"
   },
-  "evening": 15
+  "evening": 10
  },
  "queue": [
+  {
+   "slug": "v6-20261117-01-survei-jam-acara",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "ideas",
+   "hook": "insider",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Survei venue di jam yang sama dengan jam acara kalian. Ini yang sering terlewat:\n\n1. Cahaya jam 4 sore beda total dengan jam 11 siang, begitu juga di foto.\n2. Lalu lintas menuju lokasi di jam pulang kerja bisa dua kali lebih lama.\n3. Suhu ruangan terasa paling jujur di jam acaranya sendiri.\n4. Kalian bisa membayangkan alur tamu dengan suasana yang sama.\n\nSurvei di jam acara = keputusan yang jarang disesali.",
+   "addon": "TAMO bisa disurvei setiap hari, cukup janjian dulu. Sebutkan jam acara kalian, supaya survei bisa diatur di jam yang sama.\n\nAtur survei lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-02-bandingkan-per-tamu",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "tradeoff",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Membandingkan dua penawaran venue? Jangan bandingkan totalnya, bandingkan per tamu.\n\n1. Bagi total harga dengan jumlah tamu yang muat dengan nyaman, bukan kapasitas maksimal.\n2. Tandai apa yang sudah termasuk dan apa yang dibayar terpisah.\n3. Tambahkan vendor yang wajib dari venue, kalau ada.\n\nPenawaran yang terlihat lebih mahal kadang justru lebih murah per tamu.",
+   "addon": "TAMO punya pilihan venue saja, paket venue + katering, dan paket all-in (EO, dekor, lighting, katering), jadi kalian bisa membandingkan dengan adil.\n\nMinta pricelist lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-03-rumus-parkir",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "insider",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Perkiraan kasar yang jarang dihitung sebelum memilih venue: parkir.\n\nTamu datang berpasangan atau sekeluarga, jadi hitungannya kira-kira satu mobil untuk setiap tiga atau empat orang. Acara 300 tamu bisa berarti 75-100 mobil yang datang hampir bersamaan.\n\nKalau parkir penuh, tamu memutar, telat masuk, dan momen pembuka terlewat. Tanyakan kapasitas parkir sebelum tanyakan dekor.",
+   "addon": "Parkir TAMO muat 100+ mobil, dengan valet gratis. Tamu turun di depan pintu, mobil diurus.\n\nInfo lengkap dan cek tanggal lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-04-nikah-tahun-depan-kunci",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Rencana menikah tahun depan? Tiga hal ini sebaiknya dikunci dari sekarang:\n\n1. Kisaran jumlah tamu. Hampir semua harga dan pilihan venue bergantung di sini.\n2. Dua atau tiga pilihan tanggal, bukan satu. Tanggal favorit biasanya diincar banyak pasangan.\n3. Siapa pengambil keputusan di tiap keluarga.\n\nTiga hal ini beres, sisanya jauh lebih ringan.",
+   "addon": "Sudah punya pilihan tanggal? Cek dulu apakah masih kosong di TAMO. Wedding mulai 12 juta.\n\nTanya tanggal dan pricelist lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-05-tiga-angka-tanya-harga",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "insider",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Mau tanya harga venue dan langsung dapat jawaban yang jelas? Siapkan 3 angka ini sebelum kirim pesan:\n\n1. Perkiraan jumlah tamu.\n2. Tanggal atau bulan acara, plus hari (weekday atau weekend).\n3. Jam acara: pagi, siang, atau malam.\n\nTanpa tiga angka ini, venue mana pun hanya bisa menjawab \"tergantung\".",
+   "addon": "Di TAMO, wedding, lamaran, dan ulang tahun mulai 12 juta, acara kantor mulai 5 juta.\n\nKirim 3 angka tadi lewat WA di link bio, pricelist lengkap kami kirimkan."
+  },
+  {
+   "slug": "v6-20261117-06-gathering-kantor-cek",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Gathering kantor akhir tahun untuk 100+ karyawan? 5 hal yang dicek sebelum memilih tempat:\n\n1. Parkir: karyawan datang sendiri-sendiri, bukan rombongan.\n2. Ruangan ber-AC, apalagi kalau acaranya siang.\n3. Satu ruangan untuk semua, supaya sambutan direksi terdengar sampai belakang.\n4. Lokasi yang tidak memaksa separuh karyawan menembus macet.\n5. Jadwal: weekday sering lebih mudah dapat tanggal.",
+   "addon": "Acara kantor di TAMO mulai 5 juta. Hall full AC, parkir muat 100+ mobil dengan valet gratis, di Citraland, Surabaya Barat.\n\nMinta penawaran lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-07-ultah-anak-pagi-malam",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "ideas",
+   "hook": "tradeoff",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Pesta ulang tahun anak: pagi atau malam?\n\nPagi (sekitar jam 10): anak-anak masih segar, jarang rewel, orang tua bisa lanjut acara lain.\nMalam: lebih leluasa untuk keluarga besar, tapi tamu kecil mulai mengantuk di tengah acara.\n\nPolanya sederhana: kalau tamunya kebanyakan teman sekelas, pilih pagi. Kalau tamunya kebanyakan keluarga besar, malam lebih pas.",
+   "addon": "Ulang tahun di TAMO mulai 12 juta, hall full AC jadi acara siang tetap adem untuk anak-anak.\n\nCek tanggal lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-08-foto-venue-malam",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "insider",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Saat melihat foto venue, minta juga foto acara malamnya.\n\nFoto siang memperlihatkan bangunan. Foto malam memperlihatkan bagaimana lighting, dekor, dan wajah tamu terlihat di jam resepsi yang sebenarnya.\n\nBanyak venue terlihat mirip di siang hari. Perbedaannya baru terasa setelah lampu menyala.",
+   "addon": "Rooftop TAMO berkanopi kaca, bisa untuk akad, resepsi, dan photoshoot, siang maupun malam. Lebih baik lagi kalau dilihat langsung.\n\nAtur survei lewat WA di link bio."
+  },
+  {
+   "slug": "v6-20261117-09-pertanyaan-tertulis",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "list",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Sebelum deal dengan venue, minta jawaban tertulis untuk hal-hal ini:\n\n1. Apa saja yang termasuk dalam harga.\n2. Jam mulai, jam selesai, dan aturan kalau lewat waktu.\n3. Jam masuk vendor untuk persiapan.\n4. Vendor luar: boleh atau tidak, dan syaratnya.\n5. Skema pembayaran dan pembatalan.\n\nJawaban lisan mudah terlupa. Jawaban tertulis menyelamatkan dua keluarga dari salah paham.",
+   "addon": "Ada pertanyaan seperti ini untuk TAMO? Tanyakan langsung ke tim kami, semua dijawab lewat chat supaya mudah disimpan.\n\nWA di link bio."
+  },
+  {
+   "slug": "v6-20261117-10-tanggal-keluarga-penuh",
+   "for_date": "2026-11-17",
+   "v": 3,
+   "pillar": "offer",
+   "hook": "tradeoff",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Tanggal sudah dipilih keluarga, tapi venue incaran penuh di jam itu. 3 jalan keluar sebelum ganti tanggal:\n\n1. Geser jam: acara siang sering masih tersedia saat malam sudah terisi.\n2. Tanya ruangan lain di venue yang sama.\n3. Pertimbangkan weekday di minggu yang sama, terutama untuk akad atau pemberkatan.\n\nTanggal dari keluarga biasanya bisa dipertahankan, cukup jamnya yang fleksibel.",
+   "addon": "Di TAMO, weekday masih banyak tanggal kosong, dan acara weekday lebih hemat. Ada 3 lantai dengan ukuran hall berbeda.\n\nCek tanggal kalian lewat WA di link bio."
+  },
   {
    "slug": "car-1106-tca",
    "for_date": "2026-11-07",
