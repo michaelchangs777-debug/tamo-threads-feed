@@ -6,7 +6,8 @@
   "topic_tags": {
    "default": "surabaya"
   },
-  "evening": 30
+  "evening": 30,
+  "link_every": 6
  },
  "queue": [
   {
