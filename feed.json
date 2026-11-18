@@ -4965,46 +4965,6 @@
    "addon": "Satu lagi: simpan semuanya di satu folder yang bisa dibuka berdua. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261119-15-q-undang-mantan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Sebagian pasangan mengundang mantan, sebagian besar memilih tidak.\n\nMenurut kalian, mantan boleh diundang ke nikahan atau nggak?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-19"
-  },
-  {
-   "slug": "v5-20261119-16-q-undangan-cetak",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Undangan cetak mulai jarang, tapi banyak orang tua masih memintanya.\n\nDi keluarga kalian, siapa yang paling ngotot soal undangan cetak?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-19"
-  },
-  {
-   "slug": "v5-20261119-17-q-lagu-penutup",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Lagu yang diputar terakhir saat resepsi selesai sering terlupakan.\n\nLagu penutup di nikahan kalian apa?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-19"
-  },
-  {
-   "slug": "v5-20261119-18-q-lupa-dibeli",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Banyak pasangan baru sadar di hari-H ada yang lupa dibeli.\n\nBarang apa yang kalian lupa, lalu dicari mendadak?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-19"
-  },
-  {
    "slug": "v5-20261119-19-oneliner-foto-nenek",
    "pillar": "conversation",
    "hook": "other",
@@ -5190,46 +5150,6 @@
    "addon": "Satu lagi: kirim pengingat sehari sebelumnya di pagi hari, bukan malam. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261120-16-q-kabari-pertama",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Begitu lamaran diterima, biasanya ada satu orang yang langsung dikabari.\n\nSiapa yang pertama kali kalian kabari?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-20"
-  },
-  {
-   "slug": "v5-20261120-17-q-seserahan-unik",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Setiap keluarga punya isi seserahan yang khas.\n\nSeserahan paling unik yang pernah kalian lihat apa?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-20"
-  },
-  {
-   "slug": "v5-20261120-18-q-paling-gugup-lamaran",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Calon pengantin pria biasanya sudah hafal kata sambutannya, lalu lupa begitu duduk di depan calon mertua.\n\nWaktu lamaran kalian, ada yang lupa kalimatnya juga?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-20"
-  },
-  {
-   "slug": "v5-20261120-19-q-lama-persiapan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Ada yang menyiapkan pernikahan dua tahun, ada yang tiga bulan.\n\nBerapa lama persiapan kalian dari lamaran sampai hari-H?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-20"
-  },
-  {
    "slug": "v5-20261120-20-oneliner-dua-keluarga",
    "pillar": "conversation",
    "hook": "other",
@@ -5393,51 +5313,11 @@
    "addon": "Satu lagi: kalau anaknya menolak di hari-H, biarkan, jangan dipaksa. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261121-15-q-kapan-nikah",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Setiap kumpul keluarga besar selalu ada om atau tante yang bertanya 'kapan nikah'.\n\nBiasanya kalian jawab dengan bercanda, senyum saja, atau ganti topik?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-21"
-  },
-  {
-   "slug": "v5-20261121-16-q-saran-baru-lamaran",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Kalau boleh kasih satu saran untuk pasangan yang baru lamaran.\n\nSaran kalian apa?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-21"
-  },
-  {
-   "slug": "v5-20261121-17-q-sungkeman-ortu",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Ada orang tua yang menangis saat sungkeman, ada juga yang justru tertawa terus.\n\nOrang tua kalian tipe yang mana?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-21"
-  },
-  {
    "slug": "v5-20261121-18-oneliner-dua-ibu",
    "pillar": "conversation",
    "hook": "other",
    "cta": "none",
    "text": "Lamaran yang berhasil bukan yang paling mewah, tapi yang membuat dua ibu saling berpelukan di akhir.",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-21"
-  },
-  {
-   "slug": "v5-20261121-19-q-souvenir-masih-dipakai",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Souvenir nikahan teman yang ternyata masih terpakai di rumah sampai sekarang: kipas, gelas, sendok, atau tumbler?",
    "v": 3,
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-21"
@@ -5607,46 +5487,6 @@
    "addon": "Satu lagi: latih sekali di depan keluarga sendiri. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261122-15-q-tradisi-unik",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Tradisi keluarga kalian yang paling unik waktu ada pernikahan.\n\nCerita dong, yang mungkin belum pernah didengar orang luar.",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-22"
-  },
-  {
-   "slug": "v5-20261122-16-q-barang-disimpan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Dari hari pernikahan kalian, benda apa yang masih tersimpan di lemari: buket kering, selop, atau kartu ucapan?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-22"
-  },
-  {
-   "slug": "v5-20261122-17-q-lagu-masuk",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Pengantin masuk diiringi lagu romantis, atau lagu yang bikin semua tamu bertepuk?\n\nPilih mana?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-22"
-  },
-  {
-   "slug": "v5-20261122-18-q-juru-foto-dadakan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Siapa di keluarga besar kalian yang selalu jadi juru foto dadakan setiap hajatan?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-22"
-  },
-  {
    "slug": "v5-20261122-19-oneliner-dapur-ramai",
    "pillar": "conversation",
    "hook": "other",
@@ -5810,46 +5650,6 @@
    "addon": "Satu lagi: catat nama mereka untuk ucapan terima kasih sesudahnya. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261123-14-q-momen-lucu-lamaran",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Kejadian kocak saat lamaran keluarga kalian yang masih diulang ceritanya di setiap arisan keluarga besar?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-23"
-  },
-  {
-   "slug": "v5-20261123-15-q-hidangan-habis",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Menu prasmanan nikahan Surabaya yang selalu ludes paling cepat: rawon, sate, atau zuppa soup?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-23"
-  },
-  {
-   "slug": "v5-20261123-16-q-potong-dana",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Kalau dana nikah terbatas, kalian potong bagian mana dulu: dekorasi, busana, atau dokumentasi?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-23"
-  },
-  {
-   "slug": "v5-20261123-17-q-lagu-merinding",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Lagu iringan pengantin memasuki ruangan yang bikin bulu kuduk berdiri: judulnya?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-23"
-  },
-  {
    "slug": "v5-20261123-18-oneliner-nampan-dua-minggu",
    "pillar": "conversation",
    "hook": "other",
@@ -5869,16 +5669,6 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-23",
    "addon": "Satu lagi: minta salinan kontrak dalam bentuk PDF dan simpan di dua tempat. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261123-20-q-waktu-keluarga-kumpul",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Ada satu anggota keluarga yang kalau sudah bercerita, seluruh ruang tamu diam mendengarkan sampai larut malam. Siapa dia di keluarga kalian, dan cerita apa yang paling sering diulang?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-23"
   },
   {
    "slug": "v5-20261124-01-urus-lamaran-2",
@@ -6032,36 +5822,6 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-24",
    "addon": "Satu lagi: tulis di kartu kecil supaya tidak gugup saat di depan mikrofon. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261124-15-q-bahasa-daerah-hajatan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Di acara keluarga, biasanya ada beberapa bahasa yang bergantian saat para tetua ngobrol. Bahasa atau logat apa yang paling sering terdengar di acara keluarga kalian?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-24"
-  },
-  {
-   "slug": "v5-20261124-18-q-kado-paling-berkesan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Dari semua kado pernikahan yang pernah diterima atau diberikan, ada satu yang sampai sekarang dikenang. Apa itu?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-24"
-  },
-  {
-   "slug": "v5-20261124-18-q-termos-teh-panitia",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Termos teh panas, kardus gorengan, dan sandal jepit selalu muncul entah dari mana saat hajatan. Siapa yang biasanya membawanya di rumah kalian?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-24"
   },
   {
    "slug": "v5-20261124-19-oneliner-bakul-nasi-kuning",
@@ -6236,16 +5996,6 @@
    "addon": "Satu lagi: siapkan satu orang yang memotret satu foto saja untuk kenangan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261125-14-q-kunjungan-rumah-calon",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Kunjungan pertama ke rumah calon mertua biasanya meninggalkan satu kesan yang tidak hilang. Hal kecil apa yang paling hangat yang kalian ingat dari kunjungan itu?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-25"
-  },
-  {
    "slug": "v5-20261125-15-playlist-saat-tamu-datang",
    "pillar": "education",
    "hook": "list",
@@ -6255,26 +6005,6 @@
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-25",
    "addon": "Satu lagi: dengarkan playlist di ruangan sebelum hari-H. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261125-15-q-tradisi-minum-teh-keluarga",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Di sebagian keluarga, momen minum teh bersama punya makna yang dijaga turun-temurun. Tradisi minum atau makan apa yang masih dipertahankan keluarga kalian?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-25"
-  },
-  {
-   "slug": "v5-20261125-20-q-sepeda-tua-kenangan",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Di banyak rumah ada satu barang tua, seperti jam dinding atau kursi rotan, yang selalu dipasang saat hajatan karena sudah menyaksikan puluhan acara keluarga. Barang apa itu di rumah kalian?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-25"
   },
   {
    "slug": "v5-20261125-21-oneliner-pita-merah-gerbang",
@@ -6438,51 +6168,11 @@
    "addon": "Satu lagi: foto busana dari beberapa sisi sebelum dikembalikan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261126-12-q-dokumentasi-ponsel-tamu",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Sebagian tamu memotret hampir semua momen dengan ponsel mereka, sebagian menikmati tanpa kamera. Kalian tipe yang mana di acara keluarga?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-26"
-  },
-  {
-   "slug": "v5-20261126-13-q-sambutan-paling-lama",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Selalu ada sambutan yang molor melewati jadwal tapi isinya paling ditunggu seisi ruangan. Siapa penyampainya di keluarga kalian?",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-26"
-  },
-  {
-   "slug": "v5-20261126-14-q-kejutan-dari-tamu",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Pernah ada tamu yang membawa kejutan kecil ke acara keluarga kalian, misalnya puisi atau lagu? Ceritakan apa yang terjadi.",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-26"
-  },
-  {
    "slug": "v5-20261126-15-oneliner-vendor-pagi-buta",
    "pillar": "conversation",
    "hook": "other",
    "cta": "none",
    "text": "Dekor rapi biasanya sudah berdiri sebelum pengantin membuka mata.",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "for_date": "2026-11-26"
-  },
-  {
-   "slug": "v5-20261126-16-q-karaoke-keluarga",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Sehabis hajatan, ada yang mengusulkan karaoke sementara yang lain memilih mengobrol sampai larut. Kalian termasuk kubu yang mana?",
    "v": 3,
    "topic_tag": "Wedding Threads",
    "for_date": "2026-11-26"
@@ -7256,36 +6946,6 @@
    "text": "Undangan pernikahan sekarang: masih diantar keliling ke rumah om tante naik motor, atau sudah cukup kartu digital lewat pesan berantai?\n\nGenerasi mana di keluarga kalian yang paling keberatan dengan cara baru itu?"
   },
   {
-   "slug": "v5-20261119-21-lamaran-lalu-foto-berdua",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Hari lamaran adalah hari ketika riasan, busana, dan suasana hati sedang paling rapi. Sayang kalau hanya ada foto bersama keluarga.\n\nDi TAMO lamaran bisa disambung sesi foto berdua; photoshoot disewa per jam, mulai 1 juta.\n\nTanyakan susunannya ke tim TAMO lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261119-22-pelatihan-karyawan-dua-hari",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Pelatihan karyawan baru dua hari penuh: materi pagi, simulasi siang, kuis sore. Peserta yang kegerahan biasanya mulai menguap selepas makan siang.\n\nRuangan sejuk menjaga fokus sampai sesi penutup. Di TAMO hall full AC; acara kantor / corporate mulai 5 juta.\n\nKirim jadwal modulnya, tim TAMO bantu cocokkan ruangannya lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261119-23-syukuran-wisuda-keluarga",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Toga sudah dikembalikan, ijazah sudah masuk map, tapi eyang yang tidak bisa masuk gedung wisuda belum sempat memeluk cucunya.\n\nBanyak keluarga lalu menggelar makan siang perayaan supaya seluruh kerabat ikut bangga. TAMO muat 50-300 pax.\n\nKabari tanggal perayaanmu ke tim TAMO lewat WA di link bio."
-  },
-  {
    "slug": "v5-20261119-24-1000-acara-gladi-di-lokasi",
    "for_date": "2026-11-19",
    "v": 3,
@@ -7294,16 +6954,6 @@
    "cta": "soft",
    "topic_tag": "Wedding Threads",
    "text": "Dari 1000+ acara di TAMO, hari-H yang paling tenang hampir selalu milik keluarga yang menyempatkan gladi singkat di lokasi: jalur masuk pengantin, posisi orang tua, titik foto.\n\nKunjungan ke TAMO bisa setiap hari, dengan janji dulu.\n\nAtur waktunya bersama tim TAMO lewat chat WA di link bio."
-  },
-  {
-   "slug": "v5-20261119-25-prewed-hari-kerja",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Fotografer prewedding favorit biasanya penuh di Sabtu dan Minggu. Hari Selasa atau Rabu justru lebih longgar: kru tidak terburu-buru, kalian bisa ganti pose tanpa dikejar sesi berikutnya.\n\nAcara weekday lebih hemat, dan photoshoot di TAMO disewa per jam, mulai 1 juta.\n\nSebut hari kerja incaranmu, tim TAMO cek via WhatsApp di link bio."
   },
   {
    "slug": "v5-20261119-26-pesan-tamu-h-1",
@@ -7316,66 +6966,6 @@
    "text": "Pesan pengingat untuk tamu sehari sebelum acara, tinggal salin (simpan):\n\n\"Halo [nama], sampai jumpa besok di acara kami, [hari] pukul [jam] di [alamat]. Kalau ada kendala di jalan, hubungi [nama panitia] di [nomor]. Terima kasih sudah meluangkan waktu.\"\n\nKirim siang hari, bukan larut malam."
   },
   {
-   "slug": "v5-20261119-27-q-menu-paling-dibahas",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Rapat menu pernikahan: siapa yang paling ngotot, mama yang ingin rawon, tante yang ingin dimsum, atau papa yang cuma minta sate kambing jangan sampai kurang?"
-  },
-  {
-   "slug": "v5-20261119-28-talkshow-parenting",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Talkshow parenting atau seminar kesehatan untuk komunitas ibu-ibu butuh tiga hal sederhana: kursi nyaman untuk dua jam, ruangan sejuk, dan pojok menaruh stroller.\n\nDi TAMO hall full AC, 3 lantai, dan parkir muat 100+ mobil.\n\nKirim tema serta perkiraan pesertanya ke tim TAMO, kontak di link bio."
-  },
-  {
-   "slug": "v5-20261119-29-gathering-kantor-venue-katering",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Panitia gathering kantor biasanya karyawan biasa yang tugas utamanya bukan mengurus acara.\n\nPaket venue + katering di TAMO meringkas urusan tempat dan hidangan jadi satu pintu. Acara kantor mulai 5 juta.\n\nKirim perkiraan jumlah peserta ke tim TAMO, kontak di link bio."
-  },
-  {
-   "slug": "v5-20261119-30-balkon-mezzanine-resepsi",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "list",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Undangan di kisaran seratus sampai dua ratusan orang paling enak di ruangan yang terasa penuh tapi tidak sesak, dengan balkon tempat kerabat bisa memandang pelaminan dari atas.\n\nHall terbesar TAMO di lantai 1-2 punya mezzanine, biasanya 100-250 tamu.\n\nTanyakan tanggal dan pricelistnya, cukup chat tim TAMO di link bio."
-  },
-  {
-   "slug": "v5-20261119-31-ultah-anak-musim-hujan",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Pesta ulang tahun anak di taman atau halaman berisiko di musim hujan: satu jam hujan deras bisa membubarkan acara.\n\nHall TAMO full AC dan semua acaranya di dalam gedung 3 lantai. Ulang tahun mulai 12 juta.\n\nCek tanggal incaranmu bersama tim TAMO di WA, link di bio."
-  },
-  {
-   "slug": "v5-20261119-32-q-jas-pengantin-pria",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Jas pengantin pria: disewa dari butik, beli jadi di mal, atau dijahit penjahit langganan papa sejak SMA?\n\nPilihan kalian dulu apa, dan worth it?"
-  },
-  {
    "slug": "v5-20261119-33-bawa-sketsa-dekorator-survei",
    "for_date": "2026-11-19",
    "v": 3,
@@ -7386,16 +6976,6 @@
    "text": "Saat survei, ajak dekorator kalian membawa sketsa kasarnya. Ukuran pelaminan, jalur masuk, dan posisi meja tamu bisa langsung dicocokkan di ruangan.\n\nDi TAMO bebas bawa dekor dan vendor sendiri, dan survei bisa setiap hari dengan janji dulu.\n\nKabari tim TAMO kapan kalian mau datang, WA ada di bio."
   },
   {
-   "slug": "v5-20261119-34-mua-langganan-keluarga",
-   "for_date": "2026-11-19",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Perias yang sudah merias mama, kakak, dan sepupu biasanya hafal karakter wajah keluarga dan tahu bedak mana yang cocok untuk foto malam. Wajar kalau keluarga enggan menggantinya.\n\nDi TAMO bebas bawa dekor dan vendor sendiri.\n\nMinta pricelist venue lewat WA di link bio."
-  },
-  {
    "slug": "v5-20261119-35-pesan-konfirmasi-vendor-h3",
    "for_date": "2026-11-19",
    "v": 3,
@@ -7404,46 +6984,6 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Pesan konfirmasi ke vendor tiga hari sebelum acara, tinggal salin (simpan):\n\n\"Halo [nama vendor], konfirmasi untuk acara kami [hari, tanggal] di [lokasi]: tim datang pukul [jam], kontak lapangan [nama dan nomor], rundown terbaru terlampir. Mohon balas 'oke' jika sudah sesuai.\"\n\nBalasan 'oke' itu jadi catatan bila nanti ada salah paham."
-  },
-  {
-   "slug": "v5-20261120-21-survei-resepsi-barat",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Lagi survei gedung resepsi di Surabaya Barat dan daftar undangan sudah di atas dua ratus nama? Kalau kerabat sepuh mendominasi, utamakan tempat di mana mereka bisa turun mobil dekat pintu.\n\nTAMO di Citraland muat 50-300 pax, parkir muat 100+ mobil, dengan valet gratis. Wedding mulai 12 juta.\n\nKirim tanggal incaranmu ke tim TAMO di WA, link di bio."
-  },
-  {
-   "slug": "v5-20261120-22-rapat-kerja-tahunan",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Rapat kerja tahunan di ruang kantor sendiri sering terpotong urusan harian: telepon masuk, peserta dipanggil keluar.\n\nRuangan terpisah membuat peserta lebih fokus. Acara kantor / corporate di TAMO mulai 5 juta, hall full AC.\n\nTanyakan tanggal rapat kerjamu lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261120-23-q-sambutan-paling-lucu",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Sambutan paling lucu yang pernah kalian dengar di resepsi datang dari siapa: paman yang kebablasan bercerita, sahabat pengantin, atau kakek yang tiba-tiba minta mikrofon?"
-  },
-  {
-   "slug": "v5-20261120-24-ngunduh-mantu-surabaya",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Akad sudah digelar di kota pihak perempuan, lalu keluarga pria di Surabaya ingin ngunduh mantu supaya kerabat dan tetangga di sini ikut merayakan.\n\nAcara kedua ini sering diatur dari jauh, jadi paket all-in (EO, dekor, lighting, katering) terasa praktis: satu pintu, keluarga tinggal datang.\n\nTanyakan tanggal ngunduh mantunya lewat WA di link bio."
   },
   {
    "slug": "v5-20261120-25-pesan-minta-bridesmaid",
@@ -7486,76 +7026,6 @@
    "topic_tag": "Wedding Threads",
    "text": "Pesta kejutan ulang tahun mama, cara merahasiakannya sampai detik terakhir (simpan):\n\n1. Bentuk grup chat tanpa mama, beri nama yang membosankan\n2. Tunjuk satu anak yang bertugas mengajak mama keluar\n3. Pakai alasan masuk akal: makan siang biasa, bukan acara resmi\n4. Minta tamu parkir agak jauh dari pintu masuk\n5. Siapkan baju ganti untuk mama, dia pasti ingin tampil rapi\n\nRekam wajahnya saat pintu dibuka, momen itu tidak bisa diulang.",
    "addon": "Satu lagi: titipkan kunci rumah atau ponsel cadangan ke anak yang bertugas, supaya rencana tidak buyar kalau mama tiba-tiba ingin pulang. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261120-29-q-panggilan-mertua",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Sesudah menikah, kalian memanggil mertua apa: Mama-Papa, Ibu-Bapak, Mami-Papi, atau ikut sebutan pasangan? Dan butuh berapa lama sampai lidah terbiasa?"
-  },
-  {
-   "slug": "v5-20261120-30-syukuran-sumpah-dokter",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Bertahun-tahun koas, jaga malam, ujian kompetensi, lalu akhirnya disumpah jadi dokter. Orang tuanya sering ingin mengundang kerabat yang dulu ikut mendoakan dan menitip semangat.\n\nTAMO muat 50-300 pax, hall full AC, parkir dengan valet gratis.\n\nCeritakan rencana syukurannya, tim TAMO menunggu chat WhatsApp kalian (link bio)."
-  },
-  {
-   "slug": "v5-20261120-31-resepsi-kakak-adik-bersamaan",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Kakak dan adik menikah berselang beberapa bulan saja, dan orang tua mulai menghitung: dua kali undangan, dua kali kerabat yang sama datang jauh-jauh.\n\nSebagian keluarga memilih satu resepsi untuk dua pasangan, dengan pelaminan bergantian. TAMO muat 50-300 pax dalam 3 lantai. Wedding mulai 12 juta.\n\nCeritakan rencana dua pasangan ini ke tim TAMO, WA ada di link bio."
-  },
-  {
-   "slug": "v5-20261120-32-foto-kebaya-akad-mama",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Kebaya akad mama dari puluhan tahun lalu masih tersimpan di lemari? Beberapa pasangan merayakan ulang tahun pernikahan dengan memakainya lagi untuk sesi foto, ditemani anak dan cucu.\n\nDi TAMO photoshoot disewa per jam, mulai 1 juta. Rooftop berkanopi kaca bisa dipakai untuk foto keluarganya.\n\nPilih jam sesinya bersama tim TAMO via chat WA di bio."
-  },
-  {
-   "slug": "v5-20261120-33-survei-uji-rute-rumah",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Saat survei venue, berangkatlah dari rumah orang tua, bukan dari kantor. Catat waktu tempuhnya, karena rute itulah yang dilewati rombongan keluarga dan mobil pengantin di hari-H.\n\nTAMO di Jl. Royal Park, Citraland, bisa dilihat langsung setiap hari dengan janji dulu.\n\nKabari kapan mau datang; jadwal survei diatur lewat chat, kontak WA di bio."
-  },
-  {
-   "slug": "v5-20261120-34-makrab-himpunan-mahasiswa",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Malam keakraban himpunan mahasiswa: angkatan baru berkenalan dengan senior, pentas tiap angkatan, lalu foto besar bersama. Aula kampus sering bentrok jadwal dengan kegiatan fakultas.\n\nTAMO punya 3 lantai, hall full AC, parkir muat 100+ mobil. Bebas bawa dekor dan vendor sendiri.\n\nKetua panitia bisa menanyakan pricelist via WA, link ada di bio."
-  },
-  {
-   "slug": "v5-20261120-35-hujan-sore-valet",
-   "for_date": "2026-11-20",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Hujan di Surabaya sering turun sore, tepat saat tamu resepsi mulai berdatangan. Yang paling kasihan tamu sepuh yang harus berjalan dari parkiran jauh sambil memegangi kain batiknya.\n\nDi TAMO parkir muat 100+ mobil, dengan valet gratis, dan hall full AC.\n\nMinta pricelist ke tim TAMO di WhatsApp, link di bio."
   },
   {
    "slug": "v5-20261121-21-panggih-urutan-jawa",
@@ -7613,106 +7083,6 @@
    "addon": "Satu lagi: minta tiap tamu menulis pesan di kartu terpisah, supaya bisa dibuka satu per satu saat rindu rumah. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261121-26-q-salah-gedung",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Pernah datang ke nikahan dengan baju rapi dan amplop siap, lalu sadar salah gedung, salah jam, atau ternyata acaranya minggu depan? Ceritain dong."
-  },
-  {
-   "slug": "v5-20261121-27-q-antre-salaman",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Antrean salaman ke pelaminan mengular sampai pintu: kalian tetap ikut antre, atau titip salam ke orang tua pengantin lalu langsung ke meja makan?"
-  },
-  {
-   "slug": "v5-20261121-28-photoshoot-komunitas-cosplay",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Komunitas cosplay biasanya menabung berbulan-bulan untuk satu kostum, lalu bingung mencari latar yang tidak ramai orang lewat dan tidak kepanasan saat memakai wig.\n\nPhotoshoot di TAMO disewa per jam, mulai 1 juta, dan rooftop berkanopi kaca cocok untuk cahaya sore.\n\nKirim jumlah karakter dan kostumnya, tim TAMO bantu perkirakan durasinya via WA di bio."
-  },
-  {
-   "slug": "v5-20261121-29-all-in-pasangan-kerja-shift",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Calon pengantin yang sama-sama kerja shift, perawat, dokter jaga, atau kru pabrik, jarang punya hari off yang sama untuk menemui vendor satu per satu.\n\nPaket all-in (EO, dekor, lighting, katering) di TAMO meringkasnya jadi satu pintu: lebih sedikit janji temu, keputusan lebih cepat.\n\nMinta penjelasan paketnya lewat chat WA, link ada di bio."
-  },
-  {
-   "slug": "v5-20261121-30-foto-buku-tahunan-kelas",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Foto buku tahunan kelas XII biasanya diambil di sekolah, dengan latar tembok yang sama tiap angkatan. Beberapa kelas kini menyewa tempat sendiri untuk sesi foto bertema.\n\nPhotoshoot di TAMO disewa per jam, mulai 1 juta. Rooftop berkanopi kaca juga bisa dipakai untuk foto.\n\nKetua kelas bisa langsung tanya jamnya di WA, link di profil."
-  },
-  {
-   "slug": "v5-20261121-31-ultah-80-eyang",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Ulang tahun ke-80 eyang: cucu-cucu datang dari Jakarta, Bali, dan Makassar, dan semua ingin satu foto keluarga lengkap sebelum pulang. Eyang sendiri cuma minta tempat yang sejuk dan tidak perlu berjalan jauh dari mobil.\n\nPaket venue + katering di TAMO, hall full AC, valet gratis. Ulang tahun mulai 12 juta.\n\nKabari jumlah cucu dan buyutnya ke tim TAMO lewat WhatsApp di link bio."
-  },
-  {
-   "slug": "v5-20261121-32-ultah-anak-kembar-dua-tema",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Anak kembar dengan kesukaan beda: satu ingin tema dinosaurus, satunya ingin tema putri. Pesta bersama tetap terasa adil dengan dua sudut dekor dan dua kue di satu ruangan.\n\nDi TAMO bebas bawa dekor dan vendor sendiri, hall full AC. Ulang tahun mulai 12 juta.\n\nKirim tema keduanya ke tim TAMO, chat lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261121-33-pasangan-perantau-nikah-surabaya",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Dua-duanya perantau yang bertemu karena kerja di Surabaya, lalu memutuskan menikah di kota ini. Orang tua datang dari Medan dan Manado, dan merekalah yang paling butuh kepastian soal tempat.\n\nTAMO di Citraland, Surabaya Barat, bisa disurvei lebih dulu oleh kalian berdua, lalu fotonya dikirim ke orang tua. Wedding mulai 12 juta.\n\nObrolan pertamanya cukup lewat chat WA, link di bio."
-  },
-  {
-   "slug": "v5-20261121-34-peluncuran-buku-penulis",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Penulis yang merilis buku pertamanya biasanya ingin satu sore bedah buku: pembacaan bab favorit, tanya jawab, lalu antre tanda tangan sampai pena kehabisan tinta.\n\nTAMO punya 3 lantai dan parkir dengan valet gratis. Launching di TAMO mulai 5 juta.\n\nCeritakan judul dan perkiraan pembacanya ke tim TAMO, chat WhatsApp ada di bio."
-  },
-  {
-   "slug": "v5-20261121-35-malam-apresiasi-komunitas-lari",
-   "for_date": "2026-11-21",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Komunitas lari atau sepeda yang anggotanya sudah ratusan biasanya butuh satu malam apresiasi: pembagian medali, foto per kelompok, dan cerita perjalanan musim ini.\n\nTAMO muat 50-300 pax, hall full AC, parkir muat 100+ mobil. Bebas bawa dekor dan vendor sendiri.\n\nKirim perkiraan jumlah anggotanya, tim TAMO balas lewat WA, kontak di bio."
-  },
-  {
    "slug": "v5-20261122-21-ronce-melati-tetap-segar",
    "for_date": "2026-11-22",
    "v": 3,
@@ -7765,106 +7135,6 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Pesan meminta om jadi juru bicara keluarga saat lamaran, tinggal salin (simpan):\n\n\"Om [nama], keluarga kami berencana melamar [nama calon] pada [hari, tanggal]. Papa dan mama berharap Om berkenan mewakili keluarga menyampaikan maksud kami. Kalau Om bersedia, kami ingin mampir ke rumah untuk menyusun kata-katanya bersama.\"\n\nKirim pesannya dulu, lalu kunjungi beliau sambil membawa buah tangan."
-  },
-  {
-   "slug": "v5-20261122-26-q-pagar-ayu-paling-capek",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Yang pernah jadi pagar ayu atau pagar bagus di nikahan saudara: bagian paling melelahkannya apa? Berdiri berjam-jam pakai sepatu baru, senyum terus, atau ditanya 'kapan nyusul' tiap lima menit?"
-  },
-  {
-   "slug": "v5-20261122-27-q-kenal-pasangan-di-mana",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Kalian kenal pasangan dari mana: teman sekantor, satu kampus, dikenalkan tante, atau dari aplikasi? Jujur aja, nggak ada yang menghakimi."
-  },
-  {
-   "slug": "v5-20261122-28-lookbook-perancang-kebaya",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Perancang kebaya dan busana pesta butuh lookbook baru tiap koleksi. Latar putih studio terasa datar untuk busana yang seharusnya hidup di tengah perayaan.\n\nDi TAMO photoshoot disewa per jam, mulai 1 juta. Rooftop berkanopi kaca memberi suasana pesta tanpa harus menunggu ada acara sungguhan.\n\nTulis jumlah look dan modelnya, tim TAMO bantu hitung jamnya via WA di link bio."
-  },
-  {
-   "slug": "v5-20261122-29-renew-vows-sepuluh-tahun",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sepuluh tahun menikah, anak-anak sudah bisa jadi pengiring, dan janji yang dulu diucapkan gugup kini ingin diulang dengan tenang.\n\nRenew vows sederhana di rooftop berkanopi kaca TAMO, lalu makan malam bersama kerabat dekat. Muat 50-300 pax, hall full AC.\n\nKirim ceritanya ke tim TAMO, kontak WhatsApp tersedia di bio."
-  },
-  {
-   "slug": "v5-20261122-30-all-in-nikah-tiga-bulan",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Menikah dalam tiga bulan karena penugasan kerja atau kondisi orang tua? Waktunya cukup asal keputusan besar diambil di minggu pertama.\n\nPaket all-in (EO, dekor, lighting, katering) TAMO memangkas daftar vendor yang perlu ditemui jadi satu pintu.\n\nMulai dari tanggal incaran, tanya paketnya ke tim TAMO via WA di link bio."
-  },
-  {
-   "slug": "v5-20261122-31-sweet17-sesi-foto-dulu",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sweet seventeen yang paling dikenang biasanya punya satu sesi foto sebelum tamu datang: gaun masih rapi, rambut belum lepek, sahabat terdekat masih segar.\n\nRooftop berkanopi kaca di TAMO bisa untuk photoshoot, disewa per jam mulai 1 juta. Pestanya di hall full AC; ulang tahun mulai 12 juta.\n\nTanya susunan sesi foto dan pestanya ke tim TAMO, WA di bio."
-  },
-  {
-   "slug": "v5-20261122-32-perpisahan-tk-orang-tua",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Perpisahan TK biasanya diisi tarian, wisuda kecil bertoga, dan orang tua yang berebut posisi merekam. Aula sekolah sering terlalu panas dan sempit untuk semua keluarga murid.\n\nTAMO muat 50-300 pax, hall full AC, parkir muat 100+ mobil.\n\nGuru atau komite sekolah bisa minta pricelist lewat WhatsApp di link bio."
-  },
-  {
-   "slug": "v5-20261122-33-kopdar-komunitas-online",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Komunitas online pecinta tanaman, kucing, atau buku yang selama ini cuma ngobrol di grup akhirnya ingin kopdar besar. Kafe biasa tidak sanggup menampung semua anggota sekaligus.\n\nTAMO punya 3 lantai, parkir dengan valet gratis, dan bebas bawa dekor sendiri.\n\nAdmin komunitas bisa tanya penawaran ke tim TAMO di WhatsApp, link bio."
-  },
-  {
-   "slug": "v5-20261122-34-survei-dua-kali",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Survei venue sebaiknya dua kali. Pertama berdua saja, untuk memastikan ruangannya cocok. Kedua bersama orang tua kedua belah pihak, supaya keputusan diambil bersama di lokasi, bukan lewat cerita.\n\nTAMO bisa dilihat langsung setiap hari dengan janji dulu.\n\nAtur dua jadwal kunjungannya dengan tim TAMO, chat WA di bio."
-  },
-  {
-   "slug": "v5-20261122-35-venue-katering-sudah-punya-wo",
-   "for_date": "2026-11-22",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sudah punya WO andalan tapi belum menemukan vendor makanan yang cocok? Mencicipi menu dari banyak tempat sambil mengatur tempat terpisah menyita akhir pekan berbulan-bulan.\n\nPaket venue + katering di TAMO menyatukan dua urusan itu, sementara WO kalian tetap memimpin hari-H.\n\nMinta rincian paketnya ke tim TAMO, chat WA tersedia di link bio."
   },
   {
    "slug": "tanggal-kosong-20261116",
@@ -7933,16 +7203,6 @@
    "addon": "Satu lagi: sediakan air minum di bawah meja untuk mereka. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261123-26-q-kerabat-perjalanan-jauh",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Siapa yang punya kerabat naik kapal, kereta malam, atau bus 12 jam cuma demi hadir di pernikahan sepupu?"
-  },
-  {
    "slug": "v5-20261123-27-tugas-panitia-absurd",
    "for_date": "2026-11-23",
    "v": 3,
@@ -7951,86 +7211,6 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Tugas panitia keluarga paling absurd yang pernah kalian terima: jaga kambing, cari es batu jam 2 pagi, atau menyetrika 40 beskap?"
-  },
-  {
-   "slug": "v5-20261123-28-lamaran-ruang-tamu-sesak",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Calon besan datang bersama paman, bibi, dan sepupu dari dua kota. Ruang tamu rumah langsung sesak, kipas angin tidak menolong, dan foto bersama jadi berdesakan di depan lemari.\n\nHall lebih kecil di lantai 3 TAMO memang dipakai untuk lamaran dan pemberkatan.\n\nMau lihat ruangannya dulu? Kabari tim kami lewat WhatsApp di bio."
-  },
-  {
-   "slug": "v5-20261123-29-malam-penghargaan-karyawan",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Panitia malam penghargaan karyawan sering baru bergerak di bulan November, padahal kantor sendiri tidak cukup lapang untuk panggung, meja bundar, dan sesi foto tim per divisi.\n\nTAMO punya 3 lantai dan hall full AC. Acara kantor mulai 5 juta.\n\nPengurus acaranya bisa minta pricelist via WA di bio."
-  },
-  {
-   "slug": "v5-20261123-30-foto-bayi-kakek-nenek",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Bayi pertama baru berumur tiga bulan, opa-oma ingin ikut difoto menggendongnya, tapi studio mungil di ruko tidak muat empat orang dewasa plus stroller.\n\nRooftop berkanopi kaca TAMO disewakan per jam, photoshoot mulai 1 juta.\n\nTentukan jamnya, hubungi tim via WhatsApp pada bio."
-  },
-  {
-   "slug": "v5-20261123-31-nikah-jumat-sore",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Jatah cuti sudah menipis? Pernikahan Jumat sore memberi tamu alasan pulang kerja langsung datang, dan akhir pekannya dipakai beristirahat.\n\nDi TAMO, acara weekday lebih hemat.\n\nMinta pilihan tanggal Senin sampai Jumat via WhatsApp, tautan pada bio."
-  },
-  {
-   "slug": "v5-20261123-32-all-in-sambil-tesis",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sedang menyelesaikan tesis, ujian profesi, atau proyek besar kantor, padahal tanggal nikah sudah ditetapkan keluarga? Kepala rasanya penuh sebelum sempat memikirkan lampu serta bunga.\n\nPaket all-in (EO, dekor, lighting, katering) dari TAMO membuat urusan acara dipegang satu tim.\n\nMinta rinciannya via WA pada link bio."
-  },
-  {
-   "slug": "v5-20261123-33-keluarga-dari-arah-barat",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Keluarga besar kalian kebanyakan tinggal di Sambikerep, Benowo, atau Driyorejo? Rombongan tidak perlu menembus tol tengah kota menuju pusat.\n\nTAMO ada di Citraland, Surabaya Barat. Valet gratis tersedia.\n\nJadwalkan kunjungan via WA pada link bio, survei setiap hari asal janjian dulu."
-  },
-  {
-   "slug": "v5-20261123-34-ultah-1-tahun-siang-adem",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Ulang tahun pertama si kecil biasanya siang hari, saat cuaca Surabaya sedang panas-panasnya.\n\nHall TAMO full AC, dan rooftop berkanopi kacanya cocok untuk foto keluarga. Ulang tahun mulai 12 juta.\n\nOrang tua bisa tanya tanggal dan pricelist lewat WhatsApp di bio."
-  },
-  {
-   "slug": "v5-20261123-35-vendor-dari-keluarga",
-   "for_date": "2026-11-23",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Tante punya kenalan florist, om punya langganan sound system, dan sepupu sudah janji jadi fotografer. Kalau gedungnya mewajibkan vendor rekanan, bantuan keluarga terpaksa ditolak halus.\n\nDi TAMO bebas bawa dekor dan vendor sendiri.\n\nObrolkan daftar vendor keluarga kalian dengan tim TAMO via WA di bio."
   },
   {
    "slug": "v5-20261124-21-antrean-foto-pelaminan",
@@ -8088,106 +7268,6 @@
    "addon": "Satu lagi: minta mereka gladi sekali bersama operator sound. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261124-26-q-aturan-dapur-hajatan",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "other",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Aturan tak tertulis di dapur hajatan keluarga kalian apa? Di kami: siapa pun yang mencicipi sambal wajib ikut mengulek."
-  },
-  {
-   "slug": "v5-20261124-27-q-warisan-nenek",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Siapa yang memakai cincin atau kain batik warisan nenek di hari pernikahannya? Ceritakan asal-usulnya."
-  },
-  {
-   "slug": "v5-20261124-28-sangjit-meja-nampan",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sangjit butuh meja panjang untuk deretan nampan, ruang duduk untuk dua keluarga, dan sudut terang untuk foto bersama sesudah penyerahan.\n\nTAMO punya hall lebih kecil di lantai 3 yang biasa dipakai untuk lamaran, plus rooftop berkanopi kaca untuk foto.\n\nKabarkan rencana sangjit kalian pada tim TAMO lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261124-29-reuni-dua-dekade-sma",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Reuni dua dekade lulus SMA biasanya dimulai dari grup chat yang tiba-tiba ramai, lalu panitia sadar restoran favorit zaman sekolah sudah tutup.\n\nTAMO punya 3 lantai dengan valet gratis untuk tamu yang membawa mobil.\n\nKetua panitia reuni boleh minta penawaran via WA pada bio."
-  },
-  {
-   "slug": "v5-20261124-30-foto-setahun-menikah",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Couple session merayakan setahun menikah: kenakan kembali gaun dan jas hari itu, bawa buket kering yang disimpan sejak resepsi.\n\nRooftop berkanopi kaca TAMO disewakan per jam, photoshoot mulai 1 juta.\n\nPesan slot pemotretan anniversary via WhatsApp pada bio."
-  },
-  {
-   "slug": "v5-20261124-31-pelantikan-alumni",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Pelantikan pengurus ikatan alumni: senior lintas generasi, dosen, dan sponsor hadir, jadi tempatnya perlu rapi serta mudah dijangkau.\n\nTAMO ada di Citraland, Surabaya Barat, dengan valet gratis.\n\nSekretaris alumni dapat meminta penawaran melalui WA pada link bio."
-  },
-  {
-   "slug": "v5-20261124-32-panitia-sedikit-venue-katering",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Keluarga kecil, panitianya juga sedikit. Mengurus tempat dan makanan terpisah bisa menghabiskan tenaga.\n\nPaket venue + katering di TAMO membuat tamu tinggal datang.\n\nMinta penawaran paket venue + katering lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261124-33-pertanyaan-saat-survei",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "insider",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sudah 1000+ acara di TAMO. Kalau kalian masih menimbang, bawa daftar pertanyaan saat survei: pelaminan menghadap mana, rombongan pengantin menunggu di mana, meja makan di sisi mana. Jawabannya lebih jelas sambil berdiri di ruangannya.\n\nSurvei bisa setiap hari dengan janji dulu.\n\nPilih hari kunjungan kalian lewat WhatsApp di bio."
-  },
-  {
-   "slug": "v5-20261124-34-intimate-tetap-lega",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Intimate wedding bukan berarti ruangannya harus sempit. Tamu yang duduk lega di meja bundar terasa lebih akrab daripada kerumunan yang berdiri antre prasmanan.\n\nTAMO muat 50-300 pax di 3 lantai, wedding mulai 12 juta.\n\nTanyakan tanggal incaran kalian ke tim TAMO, chat lewat WA di bio."
-  },
-  {
-   "slug": "v5-20261124-35-training-sales-cabang",
-   "for_date": "2026-11-24",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Training internal dua hari untuk tim sales dari cabang Sidoarjo, Gresik, dan Mojokerto butuh ruang besar, tempat makan siang, dan parkir untuk mobil dinas.\n\nTAMO punya parkir muat 100+ mobil dengan valet gratis, dan acara weekday lebih hemat. Acara kantor mulai 5 juta.\n\nBagian HR bisa menanyakan jadwal training lewat WhatsApp, link di bio."
-  },
-  {
    "slug": "v5-20261125-21-doorprize-gathering-kantor",
    "for_date": "2026-11-25",
    "v": 3,
@@ -8221,76 +7301,6 @@
    "addon": "Satu lagi: rekam reaksi mereka saat pintu dibuka. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261125-24-q-foto-hitam-putih",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "question",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Ada yang orang tuanya dulu menikah tanpa satu pun foto berwarna, cuma selembar hitam-putih yang dibingkai di ruang tamu?"
-  },
-  {
-   "slug": "v5-20261125-25-pesta-perak-patungan",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Tiga bersaudara iuran merayakan pesta perak papa-mama. Si sulung urus dana, si tengah undangan, si bungsu video kenangan. Yang belum ketemu: tempat yang cukup untuk om, tante, dan sahabat lama orang tua.\n\nTAMO muat 50-300 pax, dengan rooftop berkanopi kaca untuk foto keluarga.\n\nYang memegang dana boleh minta pricelist lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261125-26-talkshow-ibu-muda",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Talkshow parenting komunitas ibu muda sering membawa balita ikut serta, jadi ruangannya perlu sejuk serta lapang untuk stroller.\n\nHall TAMO full AC, bebas bawa dekor maupun vendor sendiri.\n\nPengurus komunitas silakan tanya penawaran via WhatsApp pada bio."
-  },
-  {
-   "slug": "v5-20261125-27-all-in-ultah-dinosaurus",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "tradeoff",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Ulang tahun ketujuh si kecil dengan tema dinosaurus, badut sulap, dan meja permen. Orang tua yang bekerja biasanya kewalahan mengejar empat vendor berbeda lewat chat di sela rapat kantor.\n\nPaket all-in (EO, dekor, lighting, katering) di TAMO membuat semuanya lewat satu pintu.\n\nMama atau papa bisa minta rincian paket lewat WhatsApp di link bio."
-  },
-  {
-   "slug": "v5-20261125-28-foto-maternity",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Kehamilan tujuh bulan, perut makin besar, dan berjalan jauh ke lokasi outdoor yang panas terasa melelahkan. Sesi maternity singkat dekat rumah lebih ramah untuk calon ibu.\n\nRooftop berkanopi kaca TAMO disewakan per jam, photoshoot mulai 1 juta.\n\nPesan jam pemotretannya via chat pada bio."
-  },
-  {
-   "slug": "v5-20261125-29-tamu-lansia-valet",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "story",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Eyang pakai tongkat, budhe baru operasi lutut, dan om datang menyetir sendiri dari Pasuruan. Jarak dari parkiran ke pintu acara jadi soal penting untuk mereka.\n\nParkir TAMO muat 100+ mobil, dengan valet gratis.\n\nKonsultasikan kebutuhan tamu lansia kalian dengan tim TAMO via WhatsApp di bio."
-  },
-  {
-   "slug": "v5-20261125-30-raker-yayasan",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Rapat kerja tahunan guru serta staf yayasan: sesi pleno pagi, diskusi kelompok siang, lalu potret bersama menjelang pulang.\n\nTAMO punya hall besar lantai 1-2 plus hall lebih kecil lantai 3. Acara kantor mulai 5 juta.\n\nBendahara yayasan dapat meminta pricelist melalui WA pada bio."
-  },
-  {
    "slug": "v5-20261125-31-tugas-saudara-sebelum-akad",
    "for_date": "2026-11-25",
    "v": 3,
@@ -8322,26 +7332,6 @@
    "topic_tag": "Wedding Threads",
    "text": "Koordinasi sangjit saat dua keluarga beda kota, cukup 5 blok (simpan):\n\n1. Sepakati jam janji temu lewat panggilan video dulu\n2. Kirim daftar seserahan lengkap sebelum keberangkatan\n3. Tunjuk satu kontak utama di tiap pihak\n4. Siapkan rencana cadangan bila penerbangan molor\n5. Konfirmasi ulang sehari sebelum keberangkatan\n\nKomunikasi dua arah yang jelas mencegah simpang siur di hari H.",
    "addon": "Satu lagi: simpan semua pesan koordinasi di satu grup, bukan chat pribadi. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261125-34-q-barang-pinjaman-tetangga",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Grup chat keluarga biasanya jadi pusat komando dadakan begitu tanggal acara mulai mendekat, penuh pesan jadwal dan reminder dari pagi sampai malam. Kebiasaan grup apa yang paling membantu keluarga kalian tetap terkoordinasi?"
-  },
-  {
-   "slug": "v5-20261125-35-rooftop-kanopi-kaca",
-   "for_date": "2026-11-25",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Acara siang sering jadi masalah soal panas, apalagi kalau tamu datang pakai baju formal berlapis.\n\nHall di TAMO full AC, jadi acara siang tetap adem walau ruangan penuh tamu. Tanya jadwal survei venue lewat WA di link bio."
   },
   {
    "slug": "v5-20261126-21-serah-terima-seserahan",
@@ -8454,46 +7444,6 @@
    "addon": "Satu lagi: kirim daftar lagu ke operator sound H-3, bukan hari H. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261126-31-q-besan-berkesan",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Menyambut besan untuk pertama kali biasanya jadi momen yang diingat lama oleh kedua keluarga. Kebiasaan menyambut besan seperti apa yang paling berkesan di keluarga kalian?"
-  },
-  {
-   "slug": "v5-20261126-32-q-alat-musik-sangjit",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Beberapa keluarga Tionghoa Surabaya masih memainkan alat musik tertentu saat prosesi sangjit berlangsung. Alat musik apa yang biasa muncul di acara sangjit keluarga kalian?"
-  },
-  {
-   "slug": "v5-20261126-33-q-tugas-krusial-hari-h",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Daftar tugas panitia dadakan biasanya panjang, tapi cuma segelintir yang benar-benar menentukan kelancaran acara. Satu tugas yang menurut kalian sering diremehkan padahal penting banget?"
-  },
-  {
-   "slug": "v5-20261126-34-q-barang-turun-temurun-lamaran",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Beberapa keluarga membawa barang turun-temurun sebagai bagian dari seserahan lamaran. Benda apa yang pernah dibawa turun-temurun saat lamaran di keluarga kalian?"
-  },
-  {
    "slug": "v5-20261126-35-oneliner-buku-tamu-digital",
    "for_date": "2026-11-26",
    "v": 3,
@@ -8502,26 +7452,6 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Buku tamu digital sering penuh sebelum MC selesai menyapa separuh tamu undangan."
-  },
-  {
-   "slug": "v5-20261126-36-parkir-valet-gratis",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "local",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Truk dekor dan mobil vendor biasanya datang jauh sebelum tamu, dan butuh tempat parkir yang tidak mengganggu jalur masuk utama.\n\nTAMO punya lahan parkir untuk 100+ mobil plus valet gratis di hari acara, jadi kendaraan vendor dan tamu tidak saling berebut tempat. Cek jadwal lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261126-37-paket-all-in-praktis",
-   "for_date": "2026-11-26",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Acara kantor tahunan butuh banyak keputusan kecil: dekor seperti apa, lighting seberapa terang, siapa pegang mikrofon di setiap sesi.\n\nPaket all-in (EO, dekor, lighting, katering) di TAMO membuat semua keputusan itu sudah dibantu satu tim, bukan diurus sendiri-sendiri. Tanya cakupan paketnya lewat WA di link bio."
   },
   {
    "slug": "v5-20261127-01-urus-lamaran-5",
@@ -8644,36 +7574,6 @@
    "addon": "Satu lagi: lakukan simulasi ini dua hari sebelum acara, bukan di hari yang sama. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261127-12-q-dekorasi-tertukar",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Banyak keluarga punya cerita soal dekorasi atau seserahan yang hampir tertukar saat dua acara berlangsung bersamaan di tempat yang sama. Punya cerita seperti itu dari acara keluarga kalian?"
-  },
-  {
-   "slug": "v5-20261127-13-q-barang-ketinggalan-lokasi",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Kotak hantaran kosong, payung pinjaman, atau kartu nama vendor sering jadi barang yang tertinggal begitu tamu terakhir pulang dan panitia mulai beres-beres. Barang semacam itu pernah ditemukan panitia keluarga kalian juga?"
-  },
-  {
-   "slug": "v5-20261127-14-q-kalimat-sambutan-orang-tua",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Sambutan singkat dari orang tua di acara keluarga kadang jadi bagian yang paling diingat tamu, lebih dari dekorasi semewah apa pun. Kalimat sambutan orang tua seperti apa yang paling kalian ingat sampai sekarang?"
-  },
-  {
    "slug": "v5-20261127-15-oneliner-nampan-seserahan-foto",
    "for_date": "2026-11-27",
    "v": 3,
@@ -8682,36 +7582,6 @@
    "cta": "none",
    "topic_tag": "Wedding Threads",
    "text": "Nomor urut vendor yang ditempel dekat panggung sering menyelamatkan briefing dadakan sebelum acara mulai."
-  },
-  {
-   "slug": "v5-20261127-16-paket-venue-katering-satu-pintu",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Keluarga yang baru pertama kali mengurus acara besar sering kebingungan menentukan vendor makanan sendiri.\n\nPaket venue + katering di TAMO menyelesaikan itu lewat satu pintu, jadi keluarga tidak perlu mencari dan membandingkan vendor satu per satu. Tanya detail paketnya lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261127-17-weekday-hemat-tenaga-tamu",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Buat keluarga yang punya anak sekolah, memilih weekday kadang lebih mudah dibanding rebutan weekend dengan acara lain.\n\nAcara weekday di TAMO lebih hemat tenaga tamu karena jalur dan parkir biasanya lebih longgar. Tanya pilihan tanggalnya lewat WA di link bio."
-  },
-  {
-   "slug": "v5-20261127-18-photoshoot-per-jam-keluarga",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Sesi foto pasangan sebelum resepsi besar kadang butuh waktu singkat saja, tanpa perlu menyewa venue untuk acara penuh.\n\nDi TAMO, photoshoot atau prewed bisa disewa per jam sesuai kebutuhan. Cek slot dan tarifnya langsung ke tim lewat WhatsApp di bio."
   },
   {
    "slug": "v5-20261127-19-urutan-duduk-keluarga-lamaran",
@@ -8834,26 +7704,6 @@
    "addon": "Satu lagi: cetak urutan acara dengan huruf besar untuk orang tua. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261128-11-q-kebiasaan-keluarga-sebelum-acara",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Apa kebiasaan keluarga kalian tepat sebelum acara besar dimulai: foto bersama, doa, atau makan dulu bareng?"
-  },
-  {
-   "slug": "v5-20261128-12-q-tugas-paling-repot-panitia",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Menurut kalian, tugas paling repot di panitia acara keluarga itu apa: mengatur tamu, mengurus vendor, atau menenangkan keluarga?"
-  },
-  {
    "slug": "v5-20261128-14-oneliner-meja-air-minum",
    "for_date": "2026-11-28",
    "v": 3,
@@ -8862,16 +7712,6 @@
    "hook": "other",
    "cta": "none",
    "text": "Satu meja air minum di dekat pintu masuk sering lebih dihargai tamu sepuh daripada dekorasi paling mahal."
-  },
-  {
-   "slug": "v5-20261128-16-paket-venue-katering-praktis",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "text": "Kalau ingin praktis tanpa mencari banyak vendor, TAMO menawarkan paket venue + katering. Keluarga cukup fokus pada acara, urusan lain terasa lebih ringan. Detail paketnya bisa ditanyakan lewat WA di link bio."
   },
   {
    "slug": "v5-20261127-25-titip-barang-berharga",
@@ -8883,16 +7723,6 @@
    "cta": "soft",
    "text": "Menitipkan barang berharga keluarga selama acara, cukup 5 blok (simpan):\n\n1. Tunjuk satu orang tepercaya sebagai penjaga titipan\n2. Kumpulkan dompet dan kunci dalam satu tas\n3. Catat siapa menitip apa di kertas kecil\n4. Simpan tas di tempat yang selalu terlihat\n5. Kembalikan satu per satu sebelum pulang\n\nTitipan yang tercatat mencegah kebingungan saat semua orang bersiap pulang.",
    "addon": "Satu lagi: jangan taruh tas titipan di dekat pintu masuk. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261127-29-ruang-sesuai-jumlah-tamu",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "text": "Pasangan yang mengundang kurang dari seratus orang sering ragu memilih tempat yang terlalu besar. TAMO muat 50-300 pax, jadi ruangnya bisa dipilih sesuai jumlah tamu kalian. Diskusikan pilihannya lewat WA di link bio."
   },
   {
    "slug": "v5-20261128-01-series-pendamping-pengantin-1",
@@ -8947,26 +7777,6 @@
    "cta": "soft",
    "text": "Menyiapkan acara perpisahan kantor yang hangat, cukup 5 blok (simpan):\n\n1. Kumpulkan cerita singkat dari rekan satu tim\n2. Tentukan satu orang untuk memandu acara\n3. Siapkan kenang-kenangan kecil yang personal\n4. Sisakan waktu bebas untuk mengobrol\n5. Foto bersama sebelum acara bubar\n\nAcara perpisahan yang personal lebih diingat daripada yang mewah.",
    "addon": "Satu lagi: jaga durasi tetap di bawah dua jam. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
-  },
-  {
-   "slug": "v5-20261127-27-q-tugas-andalan-keluarga",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "conversation",
-   "hook": "story",
-   "cta": "none",
-   "text": "Setiap keluarga punya satu anggota andalan yang tahu letak gunting, peniti, dan kabel colokan saat acara. Siapa orangnya di keluarga kalian?"
-  },
-  {
-   "slug": "v5-20261127-31-cerita-akad-di-atas-gedung",
-   "for_date": "2026-11-27",
-   "v": 3,
-   "topic_tag": "Wedding Threads",
-   "pillar": "offer",
-   "hook": "other",
-   "cta": "soft",
-   "text": "Tidak semua akad harus di ruangan tertutup yang sama seperti kebanyakan acara lain. Rooftop TAMO punya kanopi kaca dan bisa dipakai untuk akad, resepsi, maupun photoshoot. Kalau tertarik melihatnya, tanyakan lewat WA di link bio."
   },
   {
    "slug": "v5-20261128-08-foto-dari-tamu-sesudah-acara",
