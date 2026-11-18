@@ -8431,307 +8431,470 @@
    "addon": "Satu lagi: cetak teks dengan huruf besar supaya mudah dibaca. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261128-20-undang-mantan",
-   "for_date": "2026-11-28",
+   "slug": "v5-20261129-02-gladi-lamaran-30-menit",
+   "for_date": "2026-11-29",
    "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Mantan di daftar tamu sering cuma jadi bahan gosip sepupu. Padahal aman asal ada tiga syarat:\n\n1. Pasangan sudah tahu dan oke\n2. Statusnya teman, bukan VIP\n3. Tidak ada foto berdua\n\nYang penting pengantinnya tenang, bukan tamunya. Mantan: diundang atau dicoret?",
-   "poll": [
-    "Undang, biasa aja",
-    "Coret dari daftar",
-    "Tergantung pasangan"
-   ]
-  },
-  {
-   "slug": "v5-20261128-21-undangan-tanpa-anak",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Undangan \"tanpa anak\" sering cuma dibaca sebagai pelit. Padahal alasannya sering praktis:\n\n1. Kursi terbatas, satu anak tetap satu kursi\n2. Akad butuh suasana tenang\n3. Orang tua yang datang bisa menikmati acara\n\nKalau memang mau, tulis sopan di undangan dan kabari langsung tamu yang punya anak kecil. Setuju sama undangan tanpa anak?",
-   "poll": [
-    "Setuju",
-    "Nggak setuju",
-    "Boleh, khusus akad"
-   ]
-  },
-  {
-   "slug": "v5-20261128-22-siapa-bayar-resepsi",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Biaya resepsi sering cuma dibebankan ke satu keluarga. Padahal pembagian yang jelas sejak awal mencegah ribut belakangan:\n\n1. Tulis total budget dulu, baru dibagi\n2. Pisahkan pos: tempat, busana, dokumentasi, seserahan\n3. Sepakati siapa yang pegang pembayaran\n4. Catat di satu dokumen yang dibaca kedua keluarga\n\nUang yang tidak dibahas di awal biasanya dibahas di dapur saat acara. Di keluarga kalian, siapa yang biasanya bayar resepsi?",
-   "poll": [
-    "Keluarga pria",
-    "Keluarga wanita",
-    "Patungan dua keluarga",
-    "Pasangan sendiri"
-   ]
-  },
-  {
-   "slug": "v5-20261128-23-mc-keluarga-atau-pro",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "MC dari keluarga sering cuma dipilih karena hemat. Padahal tugas MC bukan cuma bicara:\n\n1. Menjaga waktu tiap sesi\n2. Hafal urutan nama keluarga yang dipanggil\n3. Siap improvisasi saat ada yang telat\n4. Tetap netral saat suasana tegang\n\nMC yang bagus itu yang bikin tamu tidak sadar acara hampir molor. Tim MC keluarga atau MC profesional?",
-   "poll": [
-    "MC keluarga",
-    "MC profesional",
-    "Dua-duanya, bagi sesi"
-   ]
-  },
-  {
-   "slug": "v5-20261128-24-nikah-hari-kerja",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
+   "pillar": "education",
+   "hook": "list",
    "cta": "soft",
-   "topic_tag": "Wedding Threads",
-   "text": "Nikah di hari kerja sering cuma dianggap bikin tamu absen. Padahal ada untungnya:\n\n1. Biaya tempat biasanya lebih hemat\n2. Pilihan tanggal lebih longgar\n3. Yang datang memang orang terdekat\n\nKuncinya: acara malam dan undangan dikirim jauh hari. Kalian berani nikah di hari kerja?",
-   "poll": [
-    "Berani",
-    "Tetap akhir pekan",
-    "Tergantung budget"
-   ],
-   "addon": "Satu lagi: di TAMO, acara hari kerja juga lebih hemat. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+   "text": "Gladi bersih lamaran 30 menit, cukup 5 blok (simpan):\n\n1. Kumpulkan juru bicara kedua keluarga\n2. Jalankan sambutan dengan pengatur waktu\n3. Tentukan siapa yang membawa seserahan masuk\n4. Latih momen tukar cincin satu kali\n5. Catat perubahan dan kirim ke semua panitia\n\nGladi singkat lebih berguna daripada rapat panjang yang tidak berujung.",
+   "addon": "Satu lagi: bawa kotak cincin kosong supaya latihan terasa nyata. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261128-25-tamu-sedikit-atau-ramai",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Tamu sedikit sering cuma dianggap tidak enak sama keluarga besar. Padahal yang diingat tamu biasanya tiga hal ini:\n\n1. Disapa langsung oleh pengantin\n2. Tidak antre lama\n3. Kenal orang di mejanya\n\nAcara kecil lebih mudah memenuhi ketiganya. Kalian tim yang mana?",
-   "poll": [
-    "Intimate di bawah 100",
-    "Ramai 300 ke atas",
-    "Di tengah-tengah"
-   ]
-  },
-  {
-   "slug": "v5-20261128-26-seragam-keluarga-siapa-bayar",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Seragam keluarga sering cuma diributkan soal warna. Padahal sumber drama sebenarnya ada di tiga pertanyaan:\n\n1. Kain dibayar siapa\n2. Sepupu jauh ikut pakai atau tidak\n3. Kapan batas setor ke penjahit\n\nKain bisa dibagi sehari, drama grup keluarga bisa sebulan. Menurut kalian, seragam ditanggung siapa?",
-   "poll": [
-    "Beli sendiri",
-    "Ditanggung pengantin",
-    "Bagi dua"
-   ]
-  },
-  {
-   "slug": "v5-20261128-27-tamu-baju-putih",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Tamu berbaju putih sering cuma dianggap salah kostum. Padahal aturan sopannya sederhana:\n\n1. Ikuti dress code di undangan\n2. Hindari warna yang sama persis dengan pengantin\n3. Kalau ragu, tanya keluarga yang mengundang\n\nMenurut kalian, tamu boleh pakai putih?",
-   "poll": [
-    "Boleh",
-    "Jangan",
-    "Asal dress code putih"
-   ]
-  },
-  {
-   "slug": "v5-20261128-28-datang-telat-resepsi",
-   "for_date": "2026-11-28",
-   "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
-   "topic_tag": "Wedding Threads",
-   "text": "Datang telat ke resepsi sering cuma dianggap wajar. Padahal awal acara justru bagian paling penting:\n\n1. Prosesi masuk pengantin\n2. Sambutan keluarga\n3. Foto bersama keluarga inti\n\nLewat dari itu, tamu biasanya cuma kebagian salaman dan foto blur. Telat berapa menit masih sopan?",
-   "poll": [
-    "Harus on time",
-    "Maksimal 15 menit",
-    "30 menit masih wajar",
-    "Yang penting datang"
-   ]
-  },
-  {
-   "slug": "v5-20261129-20-prewedding-perlu-atau-skip",
+   "slug": "v5-20261129-03-checklist-h7-intimate-wedding",
    "for_date": "2026-11-29",
    "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Foto prewedding sering cuma dianggap buang budget. Padahal hasilnya bisa dipakai ulang:\n\n1. Undangan digital\n2. Layar di pintu masuk\n3. Kartu terima kasih sesudah acara\n\nKalau tidak dipakai di mana pun, baru layak dicoret. Prewedding: perlu atau skip?",
-   "poll": [
-    "Perlu",
-    "Skip",
-    "Cukup foto sederhana"
-   ]
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Checklist H-7 intimate wedding 50-100 tamu, cukup 5 blok (simpan):\n\n1. Konfirmasi final jumlah tamu\n2. Kirim rundown ke semua vendor\n3. Cek susunan duduk keluarga inti\n4. Tunjuk penanggung jawab tiap pos\n5. Siapkan rencana cadangan jika hujan\n\nAcara kecil terasa tenang kalau tiap pos sudah punya satu nama.",
+   "addon": "Satu lagi: simpan semua kontak penanggung jawab di satu lembar. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261129-21-resepsi-atau-dp-rumah",
+   "slug": "v5-20261129-07-oneliner-rundown-dibaca-dua-kali",
    "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "text": "Rundown yang dibaca dua kali oleh tiap panitia hampir selalu lebih berguna daripada rundown cantik yang hanya dipegang satu orang."
+  },
+  {
+   "slug": "v5-20261129-09-jadwal-kirim-undangan",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Jadwal kirim undangan fisik dan digital, cukup 5 blok (simpan):\n\n1. H-60: daftar alamat dan nomor final\n2. H-45: cetak dan sortir per kelompok\n3. H-35: antar undangan fisik untuk sesepuh\n4. H-30: kirim undangan digital ke teman dan rekan\n5. H-10: kirim pesan pengingat konfirmasi\n\nSesepuh dihormati dengan undangan yang datang lebih dulu.",
+   "addon": "Satu lagi: simpan tanda terima antaran supaya tidak ada nama yang terlewat. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-03-undang-rekan-kerja",
+   "for_date": "2026-11-30",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Resepsi besar sering cuma diadu dengan DP rumah. Padahal keputusannya bisa dibagi:\n\n1. Tentukan dana yang tidak boleh disentuh\n2. Sisanya baru untuk acara\n3. Potong pos yang paling cepat dilupakan tamu\n\nKalau harus pilih, prioritas kalian yang mana?",
+   "text": "Mengundang rekan kerja sering cuma dianggap basa-basi. Padahal ada tiga pertimbangan yang jarang dibahas:\n\n1. Kedekatan sehari-hari lebih penting dari jabatan\n2. Jumlah undangan kantor perlu dibatasi sejak awal\n3. Undang satu tim secara utuh, bukan sebagian\n\nSupaya tidak ada yang merasa terlewat. Kalian undang satu tim atau hanya yang dekat?",
    "poll": [
-    "Resepsi dulu",
-    "DP rumah dulu",
-    "Seimbang"
+    "Satu tim utuh",
+    "Hanya yang dekat",
+    "Tergantung jumlah tamu"
    ]
   },
   {
-   "slug": "v5-20261129-22-undangan-digital-sopan",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261130-04-bulan-madu-anggaran",
+   "for_date": "2026-11-30",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Undangan digital sering cuma dianggap kurang sopan untuk orang tua. Padahal bisa tetap hormat:\n\n1. Kirim pribadi, bukan broadcast\n2. Sebut nama penerima di kalimat pembuka\n3. Untuk sesepuh, tetap antar versi cetak\n\nUndangan digital saja sudah cukup?",
+   "text": "Bulan madu sering cuma dianggap sisa budget. Padahal ada tiga alasan memasukkannya sejak awal:\n\n1. Tanggal cuti bisa diajukan jauh hari\n2. Pos biaya tidak bersaing dengan resepsi\n3. Pasangan punya waktu pulih setelah acara besar\n\nBulan madu langsung atau ditunda dulu?",
    "poll": [
-    "Cukup",
-    "Wajib ada cetak",
-    "Cetak untuk sesepuh"
+    "Langsung",
+    "Ditunda",
+    "Tergantung cuti"
    ]
   },
   {
-   "slug": "v5-20261129-23-daftar-kado-di-undangan",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261130-05-dekor-sederhana",
+   "for_date": "2026-11-30",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Daftar kado di undangan sering cuma dianggap minta-minta. Padahal tamu sering bingung mau kasih apa:\n\n1. Taruh di halaman terpisah, bukan di sampul\n2. Isi barang dengan rentang harga beragam\n3. Tulis \"tanpa kado pun kami senang\"\n\nCantumkan daftar kado itu sopan atau tidak?",
+   "text": "Dekor sederhana sering cuma dianggap kurang meriah. Padahal tiga hal ini biasanya lebih terasa di foto:\n\n1. Satu titik fokus yang jelas di pelaminan\n2. Pencahayaan hangat yang merata\n3. Bunga sedikit tapi segar dan rapi\n\nKalian pilih dekor sederhana atau meriah?",
    "poll": [
-    "Sopan, malah membantu",
-    "Kurang sopan",
-    "Asal tidak di sampul"
+    "Sederhana",
+    "Meriah",
+    "Satu titik fokus saja"
    ]
   },
   {
-   "slug": "v5-20261129-24-baju-bridesmaid",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261130-06-sambutan-keluarga-pendek",
+   "for_date": "2026-11-30",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Baju bridesmaid sering cuma ditentukan pengantin. Padahal yang beli biasanya teman sendiri:\n\n1. Kasih pilihan warna, bukan satu model\n2. Sebut kisaran harga dari awal\n3. Beri waktu minimal sebulan\n\nBaju bridesmaid sebaiknya dibayar siapa?",
+   "text": "Sambutan keluarga yang panjang sering cuma dianggap tanda hormat. Padahal yang paling diingat tamu biasanya yang pendek:\n\n1. Maksimal tiga menit per keluarga\n2. Satu cerita, bukan daftar nama\n3. Tutup dengan terima kasih untuk tamu\n\nMenurut kalian, sambutan ideal berapa menit?",
    "poll": [
-    "Bridesmaid sendiri",
-    "Pengantin",
-    "Bagi dua"
+    "Maksimal 3 menit",
+    "Sekitar 5 menit",
+    "Yang penting tulus"
    ]
   },
   {
-   "slug": "v5-20261129-25-pulang-duluan-resepsi",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261130-09-acara-keluarga-di-rumah",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengubah rumah jadi tempat acara keluarga, cukup 5 blok (simpan):\n\n1. Ukur ruang tamu dan hitung jumlah kursi\n2. Cek daya listrik untuk sound dan lampu\n3. Atur jalur masuk dan petugas parkir\n4. Sediakan area simpan alas kaki\n5. Kabari tetangga lebih dulu\n\nAcara di rumah terasa hangat kalau jalurnya sudah dipikirkan.",
+   "addon": "Satu lagi: siapkan toilet cadangan yang bisa dipakai tamu sepuh. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-10-rencana-cadangan-hujan",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Rencana cadangan saat hujan deras di hari acara, cukup 5 blok (simpan):\n\n1. Tentukan titik teduh dekat pintu masuk\n2. Siapkan payung dan petugas pemegangnya\n3. Sediakan keset dan area mengeringkan sepatu\n4. Kabari semua vendor soal rencana cadangan\n5. Pastikan jalur sesepuh tidak licin\n\nRencana cadangan yang sudah dibagikan membuat semua orang tenang.",
+   "addon": "Satu lagi: tanyakan ke vendor dekor apakah ada bagian yang tidak tahan basah. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-13-brief-dokumentasi-keluarga",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Memberi brief ke tim dokumentasi, cukup 5 blok (simpan):\n\n1. Tulis momen wajib sesuai rundown\n2. Daftar keluarga yang harus terfoto\n3. Tentukan titik kumpul foto\n4. Tunjuk satu kerabat penunjuk keluarga\n5. Sepakati jam yang tidak boleh diganggu\n\nBrief tertulis menghemat waktu foto saat tamu mulai lapar.",
+   "addon": "Satu lagi: sertakan foto referensi dua sampai tiga gaya saja agar tidak membingungkan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-14-tanya-sebelum-tanda-tangan-vendor",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Lima pertanyaan sebelum tanda tangan kontrak vendor, cukup 5 blok (simpan):\n\n1. Apa yang termasuk dan tidak termasuk\n2. Jadwal pembayaran secara tertulis\n3. Aturan jika acara dibatalkan atau dimundurkan\n4. Nama penanggung jawab di hari acara\n5. Biaya tambahan jika waktu bertambah\n\nPertanyaan ini lebih murah ditanyakan sebelum tanda tangan.",
+   "addon": "Satu lagi: minta salinan kontrak digital dan simpan di folder bersama keluarga. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-15-acara-kelulusan-keluarga",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menyiapkan acara kelulusan keluarga, cukup 5 blok (simpan):\n\n1. Tentukan tamu dari keluarga dekat dulu\n2. Susun slideshow foto sepanjang tiga menit\n3. Beri waktu bicara untuk orang tua\n4. Siapkan area foto dengan toga\n5. Sisakan waktu untuk makan bersama\n\nAcara kelulusan paling berkesan kalau sang lulusan diberi panggung.",
+   "addon": "Satu lagi: minta tiap kerabat menulis satu pesan singkat untuk dibacakan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-19-lamaran-intim-keluarga-inti",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Lamaran intim hanya keluarga inti, cukup 5 blok (simpan):\n\n1. Batasi rombongan dan umumkan jumlahnya\n2. Tunjuk satu juru bicara tiap pihak\n3. Siapkan kudapan sederhana\n4. Susun seserahan inti saja\n5. Sisakan 15 menit untuk bincang santai\n\nAcara kecil memberi ruang untuk dua keluarga saling mengenal.",
+   "addon": "Satu lagi: tulis daftar tamu di kertas supaya tidak ada yang tertinggal. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261201-02-oneliner-daftar-tamu-orang-tua",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "conversation",
+   "hook": "other",
+   "cta": "none",
+   "text": "Daftar tamu yang ditulis tangan oleh orang tua biasanya menyimpan nama-nama yang hampir lupa kamu undang."
+  },
+  {
+   "slug": "v5-20261201-03-rundown-mepet",
+   "for_date": "2026-12-01",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Pulang sebelum acara selesai sering cuma dianggap tidak menghargai. Padahal cara pamitnya yang menentukan:\n\n1. Sudah salaman dan foto dengan pengantin\n2. Pamit ke orang tua yang mengundang\n3. Keluar saat jeda, bukan saat sambutan\n\nPulang duluan dari resepsi: sopan atau tidak?",
+   "text": "Rundown yang padat sering cuma dianggap efisien. Padahal ada tiga akibat yang jarang dihitung:\n\n1. Tidak ada jeda untuk tamu bernapas\n2. Keterlambatan kecil langsung menggeser seluruh acara\n3. Sesepuh butuh waktu lebih untuk berpindah tempat\n\nKalian pilih rundown padat atau longgar?",
    "poll": [
-    "Sopan asal pamit",
-    "Tunggu sampai selesai",
-    "Tergantung jarak"
+    "Padat",
+    "Longgar",
+    "Padat tapi ada jeda"
    ]
   },
   {
-   "slug": "v5-20261129-26-tamu-balas-rsvp",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261201-04-tema-warna",
+   "for_date": "2026-12-01",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "RSVP sering cuma dianggap formalitas. Padahal angkanya dipakai untuk kursi, suvenir, dan konsumsi:\n\n1. Kasih batas tanggal jawab yang jelas\n2. Tunjuk satu orang yang menagih\n3. Siapkan cadangan 10% dari angka konfirmasi\n\nYang balas \"diusahakan datang\" itu yang bikin panitia deg-degan. Kalian termasuk tamu yang balas RSVP?",
+   "text": "Tema warna sering cuma dianggap urusan estetika. Padahal ada tiga fungsi praktisnya:\n\n1. Vendor dekor, busana, dan bunga lebih mudah menyamakan nada\n2. Tamu terbantu memilih pakaian\n3. Perdebatan selera antar keluarga berkurang\n\nKalian pakai tema warna atau bebas?",
    "poll": [
-    "Selalu balas",
-    "Kadang lupa",
-    "Langsung datang aja"
+    "Pakai tema warna",
+    "Bebas",
+    "Satu warna utama saja"
    ]
   },
   {
-   "slug": "v5-20261129-27-ganti-busana-berapa-kali",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261201-05-foto-satu-per-satu",
+   "for_date": "2026-12-01",
    "v": 3,
    "pillar": "conversation",
    "hook": "contrarian",
    "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Ganti busana tiga kali sering cuma dianggap gaya. Padahal tiap pergantian memakan waktu acara:\n\n1. Pelaminan kosong selama pengantin berganti\n2. Tamu yang mau salaman ikut menunggu\n3. Jadwal foto keluarga jadi mundur\n\nTamu datang untuk ketemu kalian, bukan menunggu kalian. Pilih ganti busana berapa kali?",
+   "text": "Foto bersama tamu satu per satu sering cuma dianggap wajib. Padahal ada tiga masalahnya:\n\n1. Memakan waktu terbanyak di sesi foto\n2. Bisa diganti foto per kelompok meja\n3. Sesepuh jadi antre lama\n\nKalian pilih foto satu-satu atau per kelompok?",
    "poll": [
-    "Satu busana cukup",
-    "Dua kali",
-    "Tiga kali atau lebih"
+    "Satu-satu",
+    "Per kelompok",
+    "Campuran"
    ]
   },
   {
-   "slug": "v5-20261129-28-siaran-langsung-akad",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261201-08-catatan-saat-survei-tempat",
+   "for_date": "2026-12-01",
    "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Siaran langsung akad sering cuma dianggap urusan keluarga jauh. Padahal perlu disiapkan seperti tamu sungguhan:\n\n1. Satu orang khusus pegang ponsel dan sinyal\n2. Kirim tautan sehari sebelumnya\n3. Uji suara di titik akad\n\nAkad perlu disiarkan atau cukup yang hadir?",
-   "poll": [
-    "Perlu disiarkan",
-    "Cukup yang hadir",
-    "Rekam, kirim nanti"
-   ]
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Lima hal yang dicatat saat survei tempat acara, cukup 5 blok (simpan):\n\n1. Jarak dari parkir ke pintu masuk\n2. Akses untuk sesepuh dan kursi roda\n3. Gema suara di dalam ruangan\n4. Pencahayaan pada jam acara\n5. Kapan vendor boleh mulai memasang dekor\n\nSurvei yang dicatat membuat perbandingan tempat jadi adil.",
+   "addon": "Satu lagi: datang di jam yang sama dengan rencana acara agar suasananya terbaca. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261129-29-pacar-saudara-meja-keluarga",
-   "for_date": "2026-11-29",
+   "slug": "v5-20261201-09-sungkeman-15-menit",
+   "for_date": "2026-12-01",
    "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Meja keluarga inti sering cuma diisi berdasarkan perasaan. Padahal aturan sederhana mencegah ribut:\n\n1. Orang tua dan saudara kandung dulu\n2. Kakek-nenek paling dekat pengantin\n3. Pasangan yang belum menikah duduk di meja sepupu\n\nFoto keluarga inti dicetak dan dipajang bertahun-tahun. Pacar saudara boleh duduk di meja keluarga inti?",
-   "poll": [
-    "Boleh",
-    "Tunggu menikah",
-    "Tergantung keluarga"
-   ]
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Susunan sungkeman 15 menit, cukup 5 blok (simpan):\n\n1. Tentukan urutan: orang tua, kakek nenek, paman bibi\n2. Siapkan kursi dan alas yang nyaman\n3. Beri tahu fotografer sebelumnya\n4. Sediakan tisu di dekat pelaminan\n5. Putar musik pelan agar suasana tenang\n\nMomen ini singkat, jadi urutannya perlu jelas sejak awal.",
+   "addon": "Satu lagi: tunjuk satu kerabat yang membantu sesepuh berdiri dan duduk. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   },
   {
-   "slug": "v5-20261129-30-lamaran-terpisah-atau-gabung",
+   "slug": "v5-20261201-11-nikah-hari-kerja-pertimbangan",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Lima pertimbangan menikah di hari kerja, cukup 5 blok (simpan):\n\n1. Tanyakan ketersediaan keluarga inti\n2. Kabari tamu minimal dua bulan sebelumnya\n3. Pilih jam malam agar tamu pulang kerja bisa hadir\n4. Bandingkan beberapa pilihan tanggal\n5. Siapkan transportasi untuk tamu sepuh\n\nHari kerja bisa jadi pilihan kalau persiapannya lebih awal.",
+   "addon": "Satu lagi: tulis jam mulai dan selesai di undangan dengan jelas. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261129-21-meja-buku-tamu-rapi",
    "for_date": "2026-11-29",
    "v": 3,
-   "pillar": "conversation",
-   "hook": "contrarian",
-   "cta": "none",
    "topic_tag": "Wedding Threads",
-   "text": "Lamaran terpisah sering cuma dianggap tradisi yang wajib. Padahal bisa digabung kalau kedua keluarga setuju:\n\n1. Lamaran dan tukar cincin dalam satu acara\n2. Seserahan dibawa sekalian\n3. Hemat satu kali sewa tempat dan dokumentasi\n\nLamaran terpisah atau digabung?",
-   "poll": [
-    "Terpisah",
-    "Digabung",
-    "Ikut maunya orang tua"
-   ]
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menata meja buku tamu, cukup 5 blok (simpan):\n\n1. Taruh dekat pintu masuk, bukan di sudut\n2. Siapkan dua pulpen cadangan\n3. Tunjuk satu penjaga yang menyapa\n4. Sediakan tempat kartu ucapan\n5. Pindahkan semua isi ke tas aman saat acara usai\n\nMeja kecil ini sering jadi kesan pertama.",
+   "addon": "Satu lagi: beri papan nama kecil agar tamu tahu fungsinya. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261129-22-seragam-keluarga-kompak",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Memilih seragam keluarga yang kompak, cukup 5 blok (simpan):\n\n1. Putuskan warna utama dengan dua keluarga\n2. Beri pilihan model untuk tiap usia\n3. Kirim contoh kain sebelum menjahit\n4. Tetapkan batas waktu pesan\n5. Siapkan ukuran cadangan\n\nSeragam yang disepakati bersama mengurangi perdebatan di menit terakhir.",
+   "addon": "Satu lagi: kirim foto contoh ke grup keluarga supaya semua melihat hasil akhir. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261129-23-amplop-dan-kado-aman",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengamankan amplop dan kado saat acara, cukup 5 blok (simpan):\n\n1. Tunjuk satu penjaga meja kado\n2. Pakai kotak bertutup dengan celah\n3. Pindahkan isi tiap jam ke orang tepercaya\n4. Catat kado besar dengan nama pengirim\n5. Siapkan kendaraan untuk mengangkut kado pulang\n\nBarang titipan tamu adalah tanggung jawab keluarga.",
+   "addon": "Satu lagi: tunjuk dua orang bergantian supaya penjaga bisa istirahat. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261129-24-sweet-seventeen-susunan",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Susunan pesta ulang tahun remaja, cukup 5 blok (simpan):\n\n1. Sambutan singkat dari orang tua\n2. Permainan atau musik bersama teman\n3. Tiup lilin dan foto bersama\n4. Makan bersama\n5. Penutup dan bagi kenang-kenangan\n\nPesta remaja terasa lebih seru kalau ada ruang untuk teman sebaya.",
+   "addon": "Satu lagi: tanyakan ke si remaja lagu apa yang ingin diputar. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261129-25-anak-kecil-di-acara-keluarga",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengatur anak-anak kecil di acara keluarga, cukup 5 blok (simpan):\n\n1. Sediakan sudut bermain dekat orang tua\n2. Tunjuk satu kakak sepupu sebagai penjaga\n3. Siapkan camilan ringan\n4. Beri tahu area yang tidak boleh dimasuki\n5. Siapkan satu tempat tenang untuk tidur\n\nAnak yang tenang membuat orang tuanya ikut menikmati acara.",
+   "addon": "Satu lagi: siapkan pewarna dan kertas supaya anak sibuk saat sambutan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-21-pembagian-tugas-panitia",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Membagi tugas panitia keluarga, cukup 5 blok (simpan):\n\n1. Satu koordinator utama saja\n2. Pecah tugas per pos: tamu, makan, foto, parkir\n3. Beri nama dan nomor kontak tiap pos\n4. Adakan pertemuan singkat sehari sebelumnya\n5. Tulis cadangan untuk tiap pos\n\nTugas yang jelas membuat keluarga bisa ikut menikmati acara.",
+   "addon": "Satu lagi: kirim daftar tugas ke grup dan minta semua membalas ya. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-22-pakaian-pendamping-pria",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menyiapkan pakaian pendamping pria, cukup 5 blok (simpan):\n\n1. Ukur dan beli tiga minggu sebelumnya\n2. Cek kancing, ritsleting, dan lipatan\n3. Siapkan ikat pinggang dan sepatu cadangan\n4. Setrika pagi hari sebelum berangkat\n5. Bawa sisir kecil dan tisu\n\nPendamping yang rapi membuat foto keluarga lebih enak dilihat.",
+   "addon": "Satu lagi: simpan pakaian di tempat gantung yang sama sampai hari acara. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-23-area-parkir-dan-pemandu",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengatur parkir untuk rombongan keluarga, cukup 5 blok (simpan):\n\n1. Kirim peta dan jam yang disarankan\n2. Tunjuk dua pemandu parkir\n3. Pisahkan jalur masuk dan keluar\n4. Sediakan area turun penumpang dekat pintu\n5. Beri tahu sopir di mana boleh menunggu\n\nParkir yang lancar menentukan suasana saat tiba.",
+   "addon": "Satu lagi: sediakan nomor telepon pemandu parkir untuk tamu sepuh. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-24-souvenir-dibagikan-saat-pulang",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Membagikan souvenir saat tamu pulang, cukup 5 blok (simpan):\n\n1. Taruh di dekat pintu keluar\n2. Tunjuk dua orang pembagi\n3. Siapkan cadangan untuk tamu yang datang tanpa kabar\n4. Hindari membagikan di tengah acara\n5. Catat sisa untuk dibagikan ke keluarga\n\nSouvenir di pintu keluar membuat acara selesai dengan manis.",
+   "addon": "Satu lagi: beri ucapan terima kasih singkat saat menyerahkan souvenir. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-25-momen-haru-tisu-siap",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menyiapkan diri untuk momen haru, cukup 5 blok (simpan):\n\n1. Siapkan tisu di dekat pelaminan\n2. Minta perias membawa bedak tahan air\n3. Duduk dekat orang tua saat sambutan\n4. Bawa air minum kecil\n5. Beri tahu fotografer momen yang paling emosional\n\nMomen haru adalah bagian terindah, dan layak dipersiapkan.",
+   "addon": "Satu lagi: simpan sapu tangan cadangan di tas pendamping. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-26-durasi-sesi-foto-keluarga",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengatur durasi sesi foto keluarga, cukup 5 blok (simpan):\n\n1. Tetapkan batas waktu di rundown\n2. Siapkan daftar kelompok foto tertulis\n3. Panggil kelompok berikutnya sebelum giliran\n4. Ambil foto besar sekali saja\n5. Sisakan waktu untuk foto santai\n\nSesi foto yang tertib membuat keluarga tidak lelah menunggu.",
+   "addon": "Satu lagi: minta fotografer memberi tanda setiap kelompok selesai. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-27-menu-vegetarian-dan-alergi",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menanyakan kebutuhan makan khusus, cukup 5 blok (simpan):\n\n1. Tanyakan alergi dan pantangan saat konfirmasi\n2. Catat jumlah porsi khusus\n3. Beri tahu penyedia makanan lebih awal\n4. Beri tanda pada porsi khusus\n5. Siapkan petugas yang tahu lokasi porsi khusus\n\nPertanyaan ini kecil, tetapi tamu akan sangat menghargainya.",
+   "addon": "Satu lagi: tambahkan satu baris di undangan digital untuk catatan makanan. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-28-pembawa-cincin-kecil",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Melatih anak pembawa cincin, cukup 5 blok (simpan):\n\n1. Latih jalan sekali di lokasi sebenarnya\n2. Beri tugas yang sederhana\n3. Siapkan cincin tiruan untuk latihan\n4. Tunjuk satu orang dewasa menemani\n5. Beri hadiah kecil setelah selesai\n\nAnak yang merasa dihargai biasanya tampil lebih percaya diri.",
+   "addon": "Satu lagi: pilih sepatu yang nyaman agar anak tidak tersandung. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-29-cek-sound-sebelum-acara",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Cek sound sebelum acara dimulai, cukup 5 blok (simpan):\n\n1. Uji mikrofon di tiap sudut ruangan\n2. Siapkan baterai cadangan\n3. Tentukan siapa yang memegang kendali volume\n4. Putar lagu pembuka sebagai uji\n5. Siapkan mikrofon cadangan untuk sambutan\n\nSuara yang jelas membuat sambutan sampai ke semua orang.",
+   "addon": "Satu lagi: datang lebih awal untuk uji coba bersama operator. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261130-30-catat-jam-vendor-datang",
+   "for_date": "2026-11-30",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mencatat jam tiba tiap vendor, cukup 5 blok (simpan):\n\n1. Minta jam tiba tertulis dari tiap vendor\n2. Siapkan satu orang pemegang daftar\n3. Tandai vendor yang perlu akses khusus\n4. Kabari tim jika ada yang terlambat\n5. Siapkan pintu masuk khusus vendor\n\nJam tiba yang tercatat mencegah tabrakan antar vendor.",
+   "addon": "Satu lagi: tempel daftar di pintu belakang agar mudah dicek. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261201-21-tarian-pembuka-sederhana",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Menyiapkan tarian pembuka sederhana, cukup 5 blok (simpan):\n\n1. Pilih lagu yang semua orang kenal\n2. Latih tiga gerakan dasar saja\n3. Tentukan siapa saja yang tampil\n4. Siapkan area yang cukup luas\n5. Latih sekali di ruangan sebenarnya\n\nPembukaan yang hangat membuat suasana lebih cair.",
+   "addon": "Satu lagi: rekam latihan agar penari bisa mengulang di rumah. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261201-22-kotak-touch-up-pengantin",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Isi kotak touch-up pengantin, cukup 5 blok (simpan):\n\n1. Bedak dan lipstik sesuai pilihan perias\n2. Minyak penyerap pada wajah\n3. Peniti dan jarum benang\n4. Tisu dan sapu tangan\n5. Botol kecil air minum\n\nKotak kecil ini sering menyelamatkan acara.",
+   "addon": "Satu lagi: taruh kotak ini di tangan pendamping, bukan di mobil. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261201-23-kabar-vendor-sehari-sebelumnya",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Mengabari vendor sehari sebelum acara, cukup 5 blok (simpan):\n\n1. Kirim pesan pengingat jam dan lokasi\n2. Konfirmasi nama penanggung jawab\n3. Pastikan akses bongkar muat\n4. Kirim peta ke tiap kru\n5. Minta balasan tertulis dari semua vendor\n\nPesan singkat sehari sebelumnya mencegah banyak salah paham.",
+   "addon": "Satu lagi: simpan semua balasan dalam satu folder tangkapan layar. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261201-24-tepuk-tangan-dan-aba-aba",
+   "for_date": "2026-12-01",
+   "v": 3,
+   "topic_tag": "Wedding Threads",
+   "pillar": "education",
+   "hook": "list",
+   "cta": "soft",
+   "text": "Memberi aba-aba momen penting ke hadirin, cukup 5 blok (simpan):\n\n1. Tunjuk satu orang pemberi aba-aba\n2. Pakai musik sebagai penanda\n3. Beri tahu MC urutannya\n4. Latih sekali dengan pendamping\n5. Siapkan tanda jika ada perubahan mendadak\n\nAba-aba kecil membuat semua orang ikut larut dalam momen.",
+   "addon": "Satu lagi: buat tanda tangan sederhana, misalnya lampu naik sedikit. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
   }
  ]
 }
