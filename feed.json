@@ -1,12 +1,12 @@
 {
  "config": {
-  "per_day": 20,
+  "per_day": 50,
   "paused": false,
   "min_gap_h": 0.1,
   "topic_tags": {
    "default": "surabaya"
   },
-  "evening": 0
+  "evening": 30
  },
  "queue": [
   {
