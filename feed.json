@@ -8429,6 +8429,309 @@
    "cta": "soft",
    "text": "Sambutan ayah pengantin wanita: kerangka yang mudah diingat (simpan):\n\n1. Ucapan selamat datang untuk tamu\n2. Cerita singkat tentang putrinya\n3. Pesan untuk menantu\n4. Terima kasih untuk semua yang membantu\n5. Doa dan ajakan menikmati acara\n\nSambutan pendek dari hati lebih terkenang.",
    "addon": "Satu lagi: cetak teks dengan huruf besar supaya mudah dibaca. Follow @tamo.venue buat panduan acara tiap hari. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261128-20-undang-mantan",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Mantan di daftar tamu sering cuma jadi bahan gosip sepupu. Padahal aman asal ada tiga syarat:\n\n1. Pasangan sudah tahu dan oke\n2. Statusnya teman, bukan VIP\n3. Tidak ada foto berdua\n\nYang penting pengantinnya tenang, bukan tamunya. Mantan: diundang atau dicoret?",
+   "poll": [
+    "Undang, biasa aja",
+    "Coret dari daftar",
+    "Tergantung pasangan"
+   ]
+  },
+  {
+   "slug": "v5-20261128-21-undangan-tanpa-anak",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Undangan \"tanpa anak\" sering cuma dibaca sebagai pelit. Padahal alasannya sering praktis:\n\n1. Kursi terbatas, satu anak tetap satu kursi\n2. Akad butuh suasana tenang\n3. Orang tua yang datang bisa menikmati acara\n\nKalau memang mau, tulis sopan di undangan dan kabari langsung tamu yang punya anak kecil. Setuju sama undangan tanpa anak?",
+   "poll": [
+    "Setuju",
+    "Nggak setuju",
+    "Boleh, khusus akad"
+   ]
+  },
+  {
+   "slug": "v5-20261128-22-siapa-bayar-resepsi",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Biaya resepsi sering cuma dibebankan ke satu keluarga. Padahal pembagian yang jelas sejak awal mencegah ribut belakangan:\n\n1. Tulis total budget dulu, baru dibagi\n2. Pisahkan pos: tempat, busana, dokumentasi, seserahan\n3. Sepakati siapa yang pegang pembayaran\n4. Catat di satu dokumen yang dibaca kedua keluarga\n\nUang yang tidak dibahas di awal biasanya dibahas di dapur saat acara. Di keluarga kalian, siapa yang biasanya bayar resepsi?",
+   "poll": [
+    "Keluarga pria",
+    "Keluarga wanita",
+    "Patungan dua keluarga",
+    "Pasangan sendiri"
+   ]
+  },
+  {
+   "slug": "v5-20261128-23-mc-keluarga-atau-pro",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "MC dari keluarga sering cuma dipilih karena hemat. Padahal tugas MC bukan cuma bicara:\n\n1. Menjaga waktu tiap sesi\n2. Hafal urutan nama keluarga yang dipanggil\n3. Siap improvisasi saat ada yang telat\n4. Tetap netral saat suasana tegang\n\nMC yang bagus itu yang bikin tamu tidak sadar acara hampir molor. Tim MC keluarga atau MC profesional?",
+   "poll": [
+    "MC keluarga",
+    "MC profesional",
+    "Dua-duanya, bagi sesi"
+   ]
+  },
+  {
+   "slug": "v5-20261128-24-nikah-hari-kerja",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "soft",
+   "topic_tag": "Wedding Threads",
+   "text": "Nikah di hari kerja sering cuma dianggap bikin tamu absen. Padahal ada untungnya:\n\n1. Biaya tempat biasanya lebih hemat\n2. Pilihan tanggal lebih longgar\n3. Yang datang memang orang terdekat\n\nKuncinya: acara malam dan undangan dikirim jauh hari. Kalian berani nikah di hari kerja?",
+   "poll": [
+    "Berani",
+    "Tetap akhir pekan",
+    "Tergantung budget"
+   ],
+   "addon": "Satu lagi: di TAMO, acara hari kerja juga lebih hemat. Mau lihat langsung? Bisa survei setiap hari, atur jadwalnya lewat WA di link bio"
+  },
+  {
+   "slug": "v5-20261128-25-tamu-sedikit-atau-ramai",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Tamu sedikit sering cuma dianggap tidak enak sama keluarga besar. Padahal yang diingat tamu biasanya tiga hal ini:\n\n1. Disapa langsung oleh pengantin\n2. Tidak antre lama\n3. Kenal orang di mejanya\n\nAcara kecil lebih mudah memenuhi ketiganya. Kalian tim yang mana?",
+   "poll": [
+    "Intimate di bawah 100",
+    "Ramai 300 ke atas",
+    "Di tengah-tengah"
+   ]
+  },
+  {
+   "slug": "v5-20261128-26-seragam-keluarga-siapa-bayar",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Seragam keluarga sering cuma diributkan soal warna. Padahal sumber drama sebenarnya ada di tiga pertanyaan:\n\n1. Kain dibayar siapa\n2. Sepupu jauh ikut pakai atau tidak\n3. Kapan batas setor ke penjahit\n\nKain bisa dibagi sehari, drama grup keluarga bisa sebulan. Menurut kalian, seragam ditanggung siapa?",
+   "poll": [
+    "Beli sendiri",
+    "Ditanggung pengantin",
+    "Bagi dua"
+   ]
+  },
+  {
+   "slug": "v5-20261128-27-tamu-baju-putih",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Tamu berbaju putih sering cuma dianggap salah kostum. Padahal aturan sopannya sederhana:\n\n1. Ikuti dress code di undangan\n2. Hindari warna yang sama persis dengan pengantin\n3. Kalau ragu, tanya keluarga yang mengundang\n\nMenurut kalian, tamu boleh pakai putih?",
+   "poll": [
+    "Boleh",
+    "Jangan",
+    "Asal dress code putih"
+   ]
+  },
+  {
+   "slug": "v5-20261128-28-datang-telat-resepsi",
+   "for_date": "2026-11-28",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Datang telat ke resepsi sering cuma dianggap wajar. Padahal awal acara justru bagian paling penting:\n\n1. Prosesi masuk pengantin\n2. Sambutan keluarga\n3. Foto bersama keluarga inti\n\nLewat dari itu, tamu biasanya cuma kebagian salaman dan foto blur. Telat berapa menit masih sopan?",
+   "poll": [
+    "Harus on time",
+    "Maksimal 15 menit",
+    "30 menit masih wajar",
+    "Yang penting datang"
+   ]
+  },
+  {
+   "slug": "v5-20261129-20-prewedding-perlu-atau-skip",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Foto prewedding sering cuma dianggap buang budget. Padahal hasilnya bisa dipakai ulang:\n\n1. Undangan digital\n2. Layar di pintu masuk\n3. Kartu terima kasih sesudah acara\n\nKalau tidak dipakai di mana pun, baru layak dicoret. Prewedding: perlu atau skip?",
+   "poll": [
+    "Perlu",
+    "Skip",
+    "Cukup foto sederhana"
+   ]
+  },
+  {
+   "slug": "v5-20261129-21-resepsi-atau-dp-rumah",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Resepsi besar sering cuma diadu dengan DP rumah. Padahal keputusannya bisa dibagi:\n\n1. Tentukan dana yang tidak boleh disentuh\n2. Sisanya baru untuk acara\n3. Potong pos yang paling cepat dilupakan tamu\n\nKalau harus pilih, prioritas kalian yang mana?",
+   "poll": [
+    "Resepsi dulu",
+    "DP rumah dulu",
+    "Seimbang"
+   ]
+  },
+  {
+   "slug": "v5-20261129-22-undangan-digital-sopan",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Undangan digital sering cuma dianggap kurang sopan untuk orang tua. Padahal bisa tetap hormat:\n\n1. Kirim pribadi, bukan broadcast\n2. Sebut nama penerima di kalimat pembuka\n3. Untuk sesepuh, tetap antar versi cetak\n\nUndangan digital saja sudah cukup?",
+   "poll": [
+    "Cukup",
+    "Wajib ada cetak",
+    "Cetak untuk sesepuh"
+   ]
+  },
+  {
+   "slug": "v5-20261129-23-daftar-kado-di-undangan",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Daftar kado di undangan sering cuma dianggap minta-minta. Padahal tamu sering bingung mau kasih apa:\n\n1. Taruh di halaman terpisah, bukan di sampul\n2. Isi barang dengan rentang harga beragam\n3. Tulis \"tanpa kado pun kami senang\"\n\nCantumkan daftar kado itu sopan atau tidak?",
+   "poll": [
+    "Sopan, malah membantu",
+    "Kurang sopan",
+    "Asal tidak di sampul"
+   ]
+  },
+  {
+   "slug": "v5-20261129-24-baju-bridesmaid",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Baju bridesmaid sering cuma ditentukan pengantin. Padahal yang beli biasanya teman sendiri:\n\n1. Kasih pilihan warna, bukan satu model\n2. Sebut kisaran harga dari awal\n3. Beri waktu minimal sebulan\n\nBaju bridesmaid sebaiknya dibayar siapa?",
+   "poll": [
+    "Bridesmaid sendiri",
+    "Pengantin",
+    "Bagi dua"
+   ]
+  },
+  {
+   "slug": "v5-20261129-25-pulang-duluan-resepsi",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Pulang sebelum acara selesai sering cuma dianggap tidak menghargai. Padahal cara pamitnya yang menentukan:\n\n1. Sudah salaman dan foto dengan pengantin\n2. Pamit ke orang tua yang mengundang\n3. Keluar saat jeda, bukan saat sambutan\n\nPulang duluan dari resepsi: sopan atau tidak?",
+   "poll": [
+    "Sopan asal pamit",
+    "Tunggu sampai selesai",
+    "Tergantung jarak"
+   ]
+  },
+  {
+   "slug": "v5-20261129-26-tamu-balas-rsvp",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "RSVP sering cuma dianggap formalitas. Padahal angkanya dipakai untuk kursi, suvenir, dan konsumsi:\n\n1. Kasih batas tanggal jawab yang jelas\n2. Tunjuk satu orang yang menagih\n3. Siapkan cadangan 10% dari angka konfirmasi\n\nYang balas \"diusahakan datang\" itu yang bikin panitia deg-degan. Kalian termasuk tamu yang balas RSVP?",
+   "poll": [
+    "Selalu balas",
+    "Kadang lupa",
+    "Langsung datang aja"
+   ]
+  },
+  {
+   "slug": "v5-20261129-27-ganti-busana-berapa-kali",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Ganti busana tiga kali sering cuma dianggap gaya. Padahal tiap pergantian memakan waktu acara:\n\n1. Pelaminan kosong selama pengantin berganti\n2. Tamu yang mau salaman ikut menunggu\n3. Jadwal foto keluarga jadi mundur\n\nTamu datang untuk ketemu kalian, bukan menunggu kalian. Pilih ganti busana berapa kali?",
+   "poll": [
+    "Satu busana cukup",
+    "Dua kali",
+    "Tiga kali atau lebih"
+   ]
+  },
+  {
+   "slug": "v5-20261129-28-siaran-langsung-akad",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Siaran langsung akad sering cuma dianggap urusan keluarga jauh. Padahal perlu disiapkan seperti tamu sungguhan:\n\n1. Satu orang khusus pegang ponsel dan sinyal\n2. Kirim tautan sehari sebelumnya\n3. Uji suara di titik akad\n\nAkad perlu disiarkan atau cukup yang hadir?",
+   "poll": [
+    "Perlu disiarkan",
+    "Cukup yang hadir",
+    "Rekam, kirim nanti"
+   ]
+  },
+  {
+   "slug": "v5-20261129-29-pacar-saudara-meja-keluarga",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Meja keluarga inti sering cuma diisi berdasarkan perasaan. Padahal aturan sederhana mencegah ribut:\n\n1. Orang tua dan saudara kandung dulu\n2. Kakek-nenek paling dekat pengantin\n3. Pasangan yang belum menikah duduk di meja sepupu\n\nFoto keluarga inti dicetak dan dipajang bertahun-tahun. Pacar saudara boleh duduk di meja keluarga inti?",
+   "poll": [
+    "Boleh",
+    "Tunggu menikah",
+    "Tergantung keluarga"
+   ]
+  },
+  {
+   "slug": "v5-20261129-30-lamaran-terpisah-atau-gabung",
+   "for_date": "2026-11-29",
+   "v": 3,
+   "pillar": "conversation",
+   "hook": "contrarian",
+   "cta": "none",
+   "topic_tag": "Wedding Threads",
+   "text": "Lamaran terpisah sering cuma dianggap tradisi yang wajib. Padahal bisa digabung kalau kedua keluarga setuju:\n\n1. Lamaran dan tukar cincin dalam satu acara\n2. Seserahan dibawa sekalian\n3. Hemat satu kali sewa tempat dan dokumentasi\n\nLamaran terpisah atau digabung?",
+   "poll": [
+    "Terpisah",
+    "Digabung",
+    "Ikut maunya orang tua"
+   ]
   }
  ]
 }
